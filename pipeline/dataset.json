@@ -1,75 +1,9 @@
 {
-"build": 1789517819,
+"build": 1789557203,
 "geradoEm": "2026-09-16",
 "modo": "incremental",
-"totalEngenhariaCivil": 331,
+"totalEngenhariaCivil": 328,
 "itens": [
-{
-"numeroControlePNCP": "01613136000130-1-000037/2026",
-"orgao": "MUNICIPIO DE PRADO FERREIRA",
-"cnpj": "01613136000130",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNICIPAL DE PRADO FERREIRA - PR",
-"municipio": "Prado Ferreira",
-"uf": "PR",
-"codigoIbge": "4120333",
-"objeto": "CONCESSÃO DE DIREITO REAL DE USO, CONFORME CONDIÇÕES ESTABELECIDAS NO EDITAL, DE TERRENO URBANO COM BENFEITORIAS, COM ÁREA DE 24.200 M² (VINTE E QUATRO MIL E DUZENTOS METROS QUADRADOS), CONSTANTE DA MATRÍCULA Nº 18.571, DESTINADO À IMPLANTAÇÃO, INSTALAÇÃO, AMPLIAÇÃO E DESENVOLVIMENTO DE ATIVIDADES EMPRESARIAIS VOLTADAS À EXPLORAÇÃO INDUSTRIAL E/OU COMERCIAL, COM VISTAS À PROMOÇÃO DO DESENVOLVIMENTO ECONÔMICO, GERAÇÃO DE EMPREGO E RENDA E FORTALECIMENTO DA ATIVIDADE PRODUTIVA NO MUNICÍPIO DE PRAD",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 0.01,
-"dataEncerramentoProposta": "2026-09-16T08:00:00",
-"dataPublicacaoPncp": "2026-07-23T08:12:26",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98087403000272026",
-"processo": "60/2026"
-},
-{
-"numeroControlePNCP": "76417005000186-1-000247/2026",
-"orgao": "MUNICIPIO DE CURITIBA",
-"cnpj": "76417005000186",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "SMOP - SECRETARIA MUNICIPAL DE OBRAS PÚBLICAS",
-"municipio": "Curitiba",
-"uf": "PR",
-"codigoIbge": "4106902",
-"objeto": "Contratação de empresa empreiteira para a execução de obras e serviços de engenharia para controle de cheias, na bacia do Rio Barigui, mediante a execução de Bacias de Detenção, incluindo estruturas de controle e muros de contenção, na sub-bacia do Rio Ca",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 11293460.72,
-"dataEncerramentoProposta": "2026-09-16T10:00:00",
-"dataPublicacaoPncp": "2026-07-24T12:22:50",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "www.e-compras.curitiba.pr.gov.br",
-"processo": "0024/2026"
-},
-{
-"numeroControlePNCP": "46392122000171-1-000037/2026",
-"orgao": "SECRETARIA MUNICIPAL  DE ESPORTES E LAZER _  SEME",
-"cnpj": "46392122000171",
-"esfera": "Municipal",
-"poder": "Executivo",
-"unidade": "PMSP - SECRETARIA DE ESPORTE LAZER/RECREAÇÃO",
-"municipio": "São Paulo",
-"uf": "SP",
-"codigoIbge": "3550308",
-"objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA PARA ELABORAÇÃO DE PROJETO EXECUTIVO E REVITALIZAÇÃO DE ESPAÇO PÚBLICO COM EXECUÇÃO DE MURO DE CONTENÇÃO, ARQUIBANCADA, PISTA DE CAMINHADA, SANITARIO PNE E OBRAS COMPLEMENTARES NO CDC GUARANI DE SÃO MATEUS.",
-"modalidade": "Concorrência - Presencial",
-"srp": false,
-"valorEstimado": 2331216.27,
-"dataEncerramentoProposta": "2026-09-16T10:10:00",
-"dataPublicacaoPncp": "2026-07-23T14:21:07",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": null,
-"processo": "6019.2024/0001794-5"
-},
 {
 "numeroControlePNCP": "22112109000153-1-000079/2025",
 "orgao": "INSTITUTO PARANAENSE DE DESENVOLVIMENTO EDUCACIONAL-FUNDEPAR",
