@@ -1,31 +1,9 @@
 {
-"build": 1789576323,
-"geradoEm": "2026-09-16",
+"build": 1789608000,
+"geradoEm": "2026-09-17",
 "modo": "incremental",
-"totalEngenhariaCivil": 328,
+"totalEngenhariaCivil": 327,
 "itens": [
-{
-"numeroControlePNCP": "22112109000153-1-000079/2025",
-"orgao": "INSTITUTO PARANAENSE DE DESENVOLVIMENTO EDUCACIONAL-FUNDEPAR",
-"cnpj": "22112109000153",
-"esfera": "Estadual",
-"poder": "Executivo",
-"unidade": "INSTITUTO PARAN.DESENVOLVIMENTO EDUCACIONAL",
-"municipio": "Curitiba",
-"uf": "PR",
-"codigoIbge": "4106902",
-"objeto": "Credenciamento de pessoas jurídicas para prestação de serviços técnicos especializados de engenharia e/ou arquitetura, conforme demanda, abrangendo a elaboração de projetos voltados a reparos, pequenas reformas e pequenas ampliações nas edificações da Rede Pública Estadual de Ensino do Estado do Paraná, Unidades Administrativas e Unidades Descentralizadas vinculados à Secretaria de Estado da Educação do Paraná, conforme especificado no Termo de Referência – Anexo I",
-"modalidade": "Credenciamento",
-"srp": false,
-"valorEstimado": 96000000.0,
-"dataEncerramentoProposta": "2026-09-16T17:00:00",
-"dataPublicacaoPncp": "2025-09-15T14:21:10",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": null,
-"processo": "24.117.353-4"
-},
 {
 "numeroControlePNCP": "46523270000188-1-000320/2026",
 "orgao": "MUNICIPIO DE MOGI DAS CRUZES",
