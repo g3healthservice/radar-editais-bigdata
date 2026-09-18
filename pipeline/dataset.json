@@ -1,97 +1,9 @@
 {
-"build": 1789690193,
+"build": 1789741365,
 "geradoEm": "2026-09-18",
 "modo": "incremental",
-"totalEngenhariaCivil": 321,
+"totalEngenhariaCivil": 317,
 "itens": [
-{
-"numeroControlePNCP": "29307982000140-1-000031/2026",
-"orgao": "SCPAR PORTO DE SAO FRANCISCO DO SUL S.A.",
-"cnpj": "29307982000140",
-"esfera": "Estadual",
-"poder": "Executivo",
-"unidade": "SCPAR PORTO DE SAO FRANCISCO DO SUL S.A.",
-"municipio": "São Francisco do Sul",
-"uf": "SC",
-"codigoIbge": "4216206",
-"objeto": "ELABORAÇÃO DO PROJETO EXECUTIVO E EXECUÇÃO DAS OBRAS DE IMPLANTAÇÃO, ADEQUAÇÃO, AMPLIAÇÃO E MODERNIZAÇÃO DO SISTEMA DE COMBATE A INCÊNDIO POR HIDRANTES E SPRINKLERS, NO PORTO DE SÃO FRANCISCO DO SUL \u0013 SC",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 5403915.02,
-"dataEncerramentoProposta": "2026-09-18T08:30:00",
-"dataPublicacaoPncp": "2026-07-14T18:31:39",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1096640",
-"processo": "SGPE PSFS 1638/2026"
-},
-{
-"numeroControlePNCP": "75904524000106-1-000230/2026",
-"orgao": "MUNICIPIO DE CAMPO MOURAO",
-"cnpj": "75904524000106",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Gabinete do Secretário de Mobilidade Urbana",
-"municipio": "Campo Mourão",
-"uf": "PR",
-"codigoIbge": "4104303",
-"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM ENGENHARIA/ARQUITETURA PARA ELABORAÇÃO DE PROJETOS BÁSICO E EXECUTIVO COM EXECUÇÃO DE OBRA PARA CONSTRUÇÃO DA 2° ETAPA DE ARQUIBANCADA COM ÁREA APROXIMADA DE 2.749,83 M2, PARA O ESTÁDIO MUNICIPAL JOSÉ CARLOS GALBIER NO MUNICÍPIO DE CAMPO MOURÃO/PR - SEIMOB",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 4459273.4,
-"dataEncerramentoProposta": "2026-09-18T08:59:59",
-"dataPublicacaoPncp": "2026-06-19T14:00:04",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": null,
-"processo": "269/2026"
-},
-{
-"numeroControlePNCP": "30686610000151-1-000005/2026",
-"orgao": "FUNDO MUNICIPAL DE EDUCACAO DE RIO DAS FLORES",
-"cnpj": "30686610000151",
-"esfera": "Municipal",
-"poder": "Executivo",
-"unidade": "FM EDUCAÇÃO RIO DAS FLORES",
-"municipio": "Rio das Flores",
-"uf": "RJ",
-"codigoIbge": "3304508",
-"objeto": "Contratação de empresa especializada em obras de engenharia para executar serviços de reformas e adequações na infraestrutura nas Unidades Escolares ",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 223785.98,
-"dataEncerramentoProposta": "2026-09-18T09:00:00",
-"dataPublicacaoPncp": "2026-07-23T13:34:10",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92851703000072026",
-"processo": "3225/2026"
-},
-{
-"numeroControlePNCP": "46392122000171-1-000039/2026",
-"orgao": "SECRETARIA MUNICIPAL  DE ESPORTES E LAZER _  SEME",
-"cnpj": "46392122000171",
-"esfera": "Municipal",
-"poder": "Executivo",
-"unidade": "PMSP - SECRETARIA DE ESPORTE LAZER/RECREAÇÃO",
-"municipio": "São Paulo",
-"uf": "SP",
-"codigoIbge": "3550308",
-"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM ENGENHARIA E ARQUITETURA PARA EXECUÇÃO DE OBRA DE ILUMINAÇÃO EM CAMPO, CONSTRUÇÃO DE SALA MULTIUSO E SERVIÇOS COMPLEMENTARES NO CDC SANTA INÊS.",
-"modalidade": "Concorrência - Presencial",
-"srp": false,
-"valorEstimado": 1499999.94,
-"dataEncerramentoProposta": "2026-09-18T10:00:00",
-"dataPublicacaoPncp": "2026-07-23T14:52:58",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": null,
-"processo": "6019.2026/0000917-2"
-},
 {
 "numeroControlePNCP": "18303214000100-1-000032/2025",
 "orgao": "MUNICIPIO DE MORRO DO PILAR",
