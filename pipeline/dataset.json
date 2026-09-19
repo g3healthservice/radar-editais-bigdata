@@ -1,31 +1,9 @@
 {
-"build": 1789767590,
-"geradoEm": "2026-09-18",
+"build": 1789776536,
+"geradoEm": "2026-09-19",
 "modo": "incremental",
-"totalEngenhariaCivil": 317,
+"totalEngenhariaCivil": 316,
 "itens": [
-{
-"numeroControlePNCP": "18303214000100-1-000032/2025",
-"orgao": "MUNICIPIO DE MORRO DO PILAR",
-"cnpj": "18303214000100",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Unidade Única",
-"municipio": "Morro do Pilar",
-"uf": "MG",
-"codigoIbge": "3143708",
-"objeto": "Contratação de pessoas físicas ou pessoas jurídicas MEI (Microempreendedor Individual), para execução de serviços em reformas, pinturas, reparos e construções, bem como serviços de tapa-buraco, calçamento com bloquetes e manutenção e limpeza de estradas vicinais, em atendimento à Secretaria Municipal de Obras e Serviços Urbanos do Município de Morro do Pilar/MG.",
-"modalidade": "Credenciamento",
-"srp": false,
-"valorEstimado": null,
-"dataEncerramentoProposta": "2026-09-18T23:59:59",
-"dataPublicacaoPncp": "2025-09-17T17:03:06",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://app2.licitardigital.com.br/pesquisa/77248",
-"processo": "088/2025"
-},
 {
 "numeroControlePNCP": "07616162000106-1-000013/2026",
 "orgao": "MUNICIPIO DE CAUCAIA",
