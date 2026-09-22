@@ -1,31 +1,9 @@
 {
-"build": 1790087884,
+"build": 1790102800,
 "geradoEm": "2026-09-22",
 "modo": "incremental",
-"totalEngenhariaCivil": 300,
+"totalEngenhariaCivil": 299,
 "itens": [
-{
-"numeroControlePNCP": "54724802000173-1-000019/2026",
-"orgao": "MUNICIPIO DE BOREBI",
-"cnpj": "54724802000173",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Prefeitura Municipal de Borebi",
-"municipio": "Borebi",
-"uf": "SP",
-"codigoIbge": "3507456",
-"objeto": "CREDENCIAMENTO NAS FUNÇÕES QUALIFICADAS DE PINTOR E AUXILIAR DE PINTOR, PEDREIRO E SERVENTE, PARA EXECUÇÃO DOS SERVIÇOS DE MANUTENÇÃO PREDIAL PREVENTIVA E CORRETIVA DAS UNIDADES ADMINISTRATIVAS DO MUNICÍPIO DE BOREBI, CONFORME ESPECIFICAÇÕES E ESPECIFICAÇÕES CONSTANTES DO ANEXO I - TERMO DE REFERÊNCIA. (PROCESSO DE ORIGEM 106-2025)\r\n",
-"modalidade": "Credenciamento",
-"srp": false,
-"valorEstimado": 544635.0,
-"dataEncerramentoProposta": "2026-09-22T17:00:00",
-"dataPublicacaoPncp": "2026-02-24T14:36:23",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": null,
-"processo": "23"
-},
 {
 "numeroControlePNCP": "04213687000102-1-000039/2026",
 "orgao": "MUNICIPIO DE COLNIZA",
