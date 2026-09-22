@@ -1,31 +1,9 @@
 {
-"build": 1790008136,
-"geradoEm": "2026-09-21",
+"build": 1790035525,
+"geradoEm": "2026-09-22",
 "modo": "incremental",
-"totalEngenhariaCivil": 312,
+"totalEngenhariaCivil": 311,
 "itens": [
-{
-"numeroControlePNCP": "44556207000112-1-000031/2026",
-"orgao": "MUNICIPIO DE URU",
-"cnpj": "44556207000112",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNICIPAL DE URU",
-"municipio": "Uru",
-"uf": "SP",
-"codigoIbge": "3555901",
-"objeto": "Contratação de empresa especializada, sob o regime de empreitada por preço global, para a Prestação de Serviços para a Construção de 20 Unidades Habitacionais na Via de Acesso ao Município – Matrícula 28.682 e Rua Albino Martinelli, Conjunto Habitacional Salvador Flamino – Matrícula 28.723 e 28.724, em caso de unidades pulverizadas, compreendendo a elaboração e desenvolvimento de Projetos Básico e Executivo, a execução de obras e serviços de engenharia, a montagem, a realização de testes e as demais operações necessárias e suficientes para a entrega final das unidades habitacionais às famílias beneficiárias, incluindo a infraestrutura essencial necessária, conforme as especificações técnicas contidas no projeto básico e/ou executivo, com todas as suas partes, desenhos, especificações e outros complementos.",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 3139021.18,
-"dataEncerramentoProposta": "2026-09-21T23:59:00",
-"dataPublicacaoPncp": "2026-07-08T16:21:32",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "",
-"processo": "2"
-},
 {
 "numeroControlePNCP": "18245183000170-1-000093/2026",
 "orgao": "MUNICIPIO DE SANTANA DA VARGEM",
