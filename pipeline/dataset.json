@@ -1,75 +1,9 @@
 {
-"build": 1790068806,
+"build": 1790087884,
 "geradoEm": "2026-09-22",
 "modo": "incremental",
-"totalEngenhariaCivil": 303,
+"totalEngenhariaCivil": 300,
 "itens": [
-{
-"numeroControlePNCP": "57356434000146-1-000150/2026",
-"orgao": "SECRETARIA DE ESTADO DE INFRAESTRUTURA E LOGISTICA DE MATO GROSSO",
-"cnpj": "57356434000146",
-"esfera": "Estadual",
-"poder": "Executivo",
-"unidade": "SECRETARIA DE ESTADO DE INFRA-ESTRUTURA",
-"municipio": "Cuiabá",
-"uf": "MT",
-"codigoIbge": "5103403",
-"objeto": "Contratação Integrada de empresa de engenharia para elaboração dos projetos básicos e executivos e execução dos serviços de retomada das obras no Campus Universitário de Várzea Grande da Universidade Federal de Mato Grosso (UFMT), compreendendo a execução de serviços de reconstrução, reforma e adequação das estruturas já edificadas, bem como implantação de infraestrutura complementar essencial ao funcionamento pleno do Campus, no município de Várzea Grande/MT.",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 18008380.61,
-"dataEncerramentoProposta": "2026-09-22T09:30:00",
-"dataPublicacaoPncp": "2026-06-26T15:40:16",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": null,
-"processo": "SINFRA-PRO-2025/20528"
-},
-{
-"numeroControlePNCP": "13635016000112-1-000370/2026",
-"orgao": "MUNICIPIO DE PORTO SEGURO",
-"cnpj": "13635016000112",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA E OBRAS - SEMIO",
-"municipio": "Porto Seguro",
-"uf": "BA",
-"codigoIbge": "2925303",
-"objeto": "Contratação de empresa de engenharia especializada no ramo de Construção Civil para a elaboração dos projetos básico e executivo, bem como para a execução de implementação de reforma, pavimentação de acesso e construção de infraestrutura da praça do Parque Central, no distrito de Arraial D’Ajuda, município de Porto Seguro/BA, conforme Convênio nº 954850/2023.",
-"modalidade": "Concorrência - Eletrônica",
-"srp": false,
-"valorEstimado": 24010893.14,
-"dataEncerramentoProposta": "2026-09-22T10:00:00",
-"dataPublicacaoPncp": "2026-06-25T15:34:31",
-"fonteRecurso": [
-"Convênio"
-],
-"linkEdital": "https://portal.licitanet.com.br/",
-"processo": "785/2026"
-},
-{
-"numeroControlePNCP": "04653408000113-1-000035/2026",
-"orgao": "MUNICIPIO DE CARACARAI",
-"cnpj": "04653408000113",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "SECRETARIA MUNICIPAL DE ADMINISTRACAO",
-"municipio": "Caracaraí",
-"uf": "RR",
-"codigoIbge": "1400209",
-"objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA PARA EXECUÇÃO DOS SERVIÇOS DE AMPLIAÇÃO DA ESTRADA VICINAL CAI-348 - ANTIGA VICINAL 02\r\nDA CUJUBIM COM RECURSOS DA EMENDA ESPECIAL N° 202544410009 - PROGRAMA: 09032025-085227;",
-"modalidade": "Concorrência - Presencial",
-"srp": false,
-"valorEstimado": 989652.63,
-"dataEncerramentoProposta": "2026-09-22T10:00:10",
-"dataPublicacaoPncp": "2026-06-29T12:51:04",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"linkEdital": "https://imaq.diretriz.net",
-"processo": "40"
-},
 {
 "numeroControlePNCP": "54724802000173-1-000019/2026",
 "orgao": "MUNICIPIO DE BOREBI",
