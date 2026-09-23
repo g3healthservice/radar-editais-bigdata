@@ -5,7 +5,7 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 # Link com token de acesso permanente (dono) — para não esbarrar no gate de convite.
-DASHBOARD_URL = "https://g3healthservice.github.io/radar-editais-engenharia/#k=eyJwZXJtIjp0cnVlLCJuIjoiRzMifQ.c6brfm"
+DASHBOARD_URL = "https://g3healthservice.github.io/radar-editais-bigdata/#k=eyJwZXJtIjp0cnVlLCJuIjoiRzMifQ.c6brfm"
 
 ESFERA_COR = {"Federal": "#0B3B5A", "Estadual": "#0E7C7B", "Municipal": "#2D6A4F", "Não informado": "#777"}
 

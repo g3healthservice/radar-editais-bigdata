@@ -6,7 +6,7 @@ em todo o Brasil (esferas federal, estadual e municipal). Cada edital captado é
 eixo(s)/CNAE que casou, com a categoria (disputar/monitorar) e com um destaque para as três frentes
 prioritárias.
 
-- Dashboard: https://g3healthservice.github.io/radar-editais-engenharia/
+- Dashboard: https://g3healthservice.github.io/radar-editais-bigdata/
 - Roda a cada 2h via GitHub Actions (`.github/workflows/radar-editais.yml`)
 - Envia e-mail com os editais novos desde a última execução (só quando há novidade)
 
