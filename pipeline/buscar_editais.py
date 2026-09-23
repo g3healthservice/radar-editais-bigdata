@@ -1,16 +1,27 @@
 #!/usr/bin/env python3
 """
-Radar de editais de engenharia civil / obras / reforma predial no PNCP.
+Radar de editais para a Big Data (gestão em saúde) no PNCP.
 
-Varre a API pública de consulta do PNCP (todas as contratações com
-recebimento de proposta em aberto, Brasil inteiro), filtra por palavras-chave
-de engenharia civil e classifica esfera de governo, se aceita Ata de Registro
-de Preços (SRP) e indícios de fonte de recurso (MAC/PAP, fundo de saúde,
-emenda parlamentar, recursos próprios etc.) a partir do texto disponível.
+Varre a API pública de consulta do PNCP (contratações com recebimento de
+proposta em aberto, Brasil inteiro) e capta editais aderentes às frentes de
+atuação da empresa, organizadas por bloco de CNAE:
 
-Uso: python3 buscar_editais.py
-Gera: dataset.json (dados completos), novos.json (itens novos desde a
-última execução, para o e-mail) e atualiza estado.json (para o diff).
+  86.60-7/00  Apoio à gestão de saúde (eixo principal)
+  62.02/62.03/63.11  Licenciamento de software / SaaS
+  78.30-2/00  Gestão de RH para terceiros (escalas, ponto, dimensionamento)
+  86.50-0/03  Psicologia / riscos psicossociais (NR-1)
+  70.20-4/00 + 82.11-3/00  Consultoria e apoio administrativo
+  66.21-5/02  Auditoria e consultoria atuarial
+  86.30-5/03 + 86.50  Assistencial / telessaúde
+  (monitorar)  Mercado de operadoras/planos — acompanhar, não disputar
+
+Cada edital captado é etiquetado com TODOS os eixos/CNAEs que casou, com a
+categoria (disputar/monitorar) e com um destaque (as "três de segunda-feira").
+
+Uso: python3 buscar_editais.py            (incremental, roda no cron)
+     python3 buscar_editais.py --full     (bootstrap: varre tudo, substitui a base)
+Gera: dataset.json (dados completos), novos.json (itens novos desde a última
+execução, para o e-mail) e atualiza estado.json (para o diff).
 """
 import json
 import os
@@ -33,15 +44,18 @@ DATASET_PATH = HERE / "dataset.json"
 NOVOS_PATH = HERE / "novos.json"
 
 # Modo incremental: janela de dias (para trás) de publicações a re-buscar a cada execução.
-# Cobre o atraso D-3 do PNCP e eventuais execuções que falharam. Roda em ~10-15 min.
+# Cobre o atraso de publicação do PNCP e execuções que porventura falharam.
 LOOKBACK_DIAS = 5
 # Modalidades iteradas no incremental (o endpoint /publicacao exige informar a modalidade).
-# Escolhidas a partir da distribuição real das obras na base completa: Concorrência
-# Eletrônica (4)=65%, Pregão Eletrônico (6)=19%, Credenciamento (12)=8%, Concorrência
-# Presencial (5)=2.6%, Pré-qualificação (11)=2.1%, Pregão Presencial (7)=0.3% → ~97% de
-# cobertura. Dispensa (8) e Inexigibilidade (9) têm volume gigante e quase nenhuma obra —
-# ficam de fora do incremental (são capturadas pelo bootstrap --full).
-MODALIDADES = [4, 6, 12, 5, 11, 7]
+# Diferente do radar de obras: para software/serviços/consultoria em saúde as modalidades
+# que mais importam são Pregão Eletrônico (6), Dispensa (8) e Inexigibilidade (9) —
+# licenciamento de software e consultoria atuarial vivem muito em dispensa/inexigibilidade.
+# Incluímos também Credenciamento (12, telessaúde) e Concorrência (4/5). Pré-qualificação
+# (11) e Pregão presencial (7) são raros nessas frentes e ficam de fora do incremental
+# (o bootstrap --full captura tudo, inclusive esses).
+# ATENÇÃO: 8 e 9 têm volume alto por janela — o incremental fica mais pesado (~40 min);
+# a cadência do cron foi afrouxada para 2h por causa disso.
+MODALIDADES = [6, 8, 9, 12, 4, 5]
 
 ESFERA_NOMES = {"F": "Federal", "E": "Estadual", "M": "Municipal", "N": "Não informado"}
 PODER_NOMES = {"E": "Executivo", "L": "Legislativo", "J": "Judiciário", "N": "Não informado"}
@@ -55,37 +69,161 @@ def normalizar(txt):
     return sem_acento.lower()
 
 
-# Padrões fortes o bastante para não precisar de contexto adicional.
-PADROES_DIRETOS = [
-    r"reform", r"amplia", r"engenharia civil", r"obras? civ",
-    r"obra de engenharia", r"execucao de obra", r"edificac",
-    r"impermeabiliza", r"pintura predial", r"cobertura metalica",
-    r"revitalizac", r"readequac", r"construcao civil",
+# ---------------------------------------------------------------------------
+# Taxonomia de captação — Big Data (gestão em saúde).
+#
+# Um edital é captado se o objeto casar QUALQUER padrão de QUALQUER bloco;
+# registramos todos os eixos/CNAEs que casaram para o painel filtrar por frente.
+# Padrões são aplicados sobre o texto NORMALIZADO (minúsculas, sem acento).
+# Cada padrão é ou uma string regex (casa direto) ou uma tupla (a, b) que só
+# casa se AMBOS os regex a e b aparecerem no texto (exige contexto).
+# ---------------------------------------------------------------------------
+TAXONOMIA = [
+    {
+        "cnae": "86.60-7/00",
+        "eixo": "Apoio à gestão de saúde",
+        "categoria": "disputar",
+        "padroes": [
+            r"(sistema|plataforma|software|solucao|ferramenta)\w*( integrad\w*)? de gestao\w* "
+            r"(hospitalar|em saude|da saude|de saude|clinic|de unidade|de saude publica)",
+            r"gestao (hospitalar|em saude|da saude|clinica) informatizad",
+            r"prontuario eletronico",
+            r"gestao de leito",
+            r"regulacao (ambulatorial|assistencial|em saude|de (consulta|exame|leito|acesso|vaga))",
+            r"central de regulacao",
+        ],
+    },
+    {
+        "cnae": "62.02/62.03/63.11",
+        "eixo": "Licenciamento de software / SaaS",
+        "categoria": "disputar",
+        "padroes": [
+            r"licenc\w* de uso de (sistema|software|programa|solucao|aplicativo)",
+            r"licenciamento de (sistema|software|solucao)",
+            r"sistema informatizado",
+            r"software como servico",
+            r"\bsaas\b",
+            r"solucao em nuvem|hospedagem em nuvem|plataforma web",
+        ],
+    },
+    {
+        "cnae": "78.30-2/00",
+        "eixo": "Gestão de RH / escalas e ponto",
+        "categoria": "disputar",
+        "padroes": [
+            r"gestao de escala",
+            r"escala\w* de (plantao|trabalho|servico|profissionais)",
+            r"ponto eletronico|ponto biometric|controle de (ponto|frequencia|jornada)",
+            r"dimensionamento de (pessoal|forca de trabalho|profissionais)",
+            r"folha e frequencia|gestao de frequencia|folha de pagamento e frequencia",
+        ],
+    },
+    {
+        "cnae": "86.50-0/03",
+        "eixo": "Psicologia / riscos psicossociais",
+        "categoria": "disputar",
+        "padroes": [
+            r"risco\w* psicossocia",
+            r"(gerenciamento|gestao|programa) de risco\w* ocupacion",
+            r"programa de gerenciamento de risco|\bpgr\b",
+            r"saude ocupacional|\bpcmso\b|saude e seguranca (do|no) trabalho|\bsst\b",
+            r"qualidade de vida no trabalho|\bqvt\b|bem[- ]?estar (no|do|dos) (trabalho|servidor)",
+        ],
+    },
+    {
+        "cnae": "70.20-4/00 · 82.11-3/00",
+        "eixo": "Consultoria / apoio administrativo",
+        "categoria": "disputar",
+        "padroes": [
+            r"canal de denuncia|ouvidoria",
+            r"programa de integridade|\bcompliance\b|governanca e integridade",
+            (r"gestao de contrato", r"sistema|software|plataforma|informatizad|modulo|aplicativo"),
+        ],
+    },
+    {
+        "cnae": "66.21-5/02",
+        "eixo": "Auditoria / consultoria atuarial",
+        "categoria": "disputar",
+        "padroes": [
+            r"avaliacao atuarial|reavaliacao atuarial",
+            r"calculo atuarial|nota tecnica atuarial",
+            r"consultoria atuarial|assessoria atuarial|servico\w* atuari|estudo\w* atuari",
+            (r"atuari", r"\brpps\b|previdenc"),
+        ],
+    },
+    {
+        "cnae": "86.30-5/03 · 86.50",
+        "eixo": "Assistencial / telessaúde",
+        "categoria": "disputar",
+        "padroes": [
+            r"telessaude|tele[- ]?saude",
+            r"telemedicina",
+            r"teleconsulta|tele[- ]?atendimento|telediagnostic|tele[- ]?interconsulta",
+        ],
+    },
+    {
+        "cnae": "—",
+        "eixo": "Monitorar (operadoras/planos — não disputar)",
+        "categoria": "monitorar",
+        "padroes": [
+            r"gest(ao|ora) de plano\w* de saude|administracao de plano\w* de saude|"
+            r"operadora de plano de saude",
+            r"autogestao (em|de|da)? ?saude",
+            r"auditoria de contas medic|auditoria medica|analise de contas medic",
+        ],
+    },
 ]
 
-# Padrões que só valem quando aparecem perto de um termo "predial/edifício".
-PADROES_COM_CONTEXTO = [
-    (r"manuten\w*", r"predial|edific|telhado|cobertura|estrutural|fachada|instalac\w* (eletric|hidraulic)"),
-    (r"construc\w* de", r"unidade|posto|hospital|escola|creche|centro|predio|sede|quadra|ginasio|praca|\bubs\b|\bupa\b|\bcras\b|\bcreas\b"),
-    (r"recuperac\w*", r"estrutural|predial|edific"),
-    (r"adequac\w*", r"predial|acessibilidade|arquitet"),
-    (r"acessibilidade", r"predial|arquitet|fisica"),
-    (r"instalac\w* predi", r""),
+# As "três de segunda-feira" — marcam prioritario=True (destaque no painel/e-mail).
+PRIORITARIOS = [
+    re.compile(r"(sistema|plataforma|software).{0,25}gestao\w* (hospitalar|em saude|da saude|de saude)"),
+    re.compile(r"gestao de escala|ponto eletronico"),
+    re.compile(r"risco\w* psicossocia"),
 ]
 
-_re_diretos = [re.compile(p) for p in PADROES_DIRETOS]
-_re_contexto = [(re.compile(a), re.compile(b) if b else None) for a, b in PADROES_COM_CONTEXTO]
+
+def _compilar_padrao(p):
+    if isinstance(p, tuple):
+        return (re.compile(p[0]), re.compile(p[1]))
+    return re.compile(p)
 
 
-def eh_engenharia_civil(objeto):
-    txt = normalizar(objeto)
-    for r in _re_diretos:
-        if r.search(txt):
-            return True
-    for r_a, r_b in _re_contexto:
-        if r_a.search(txt) and (r_b is None or r_b.search(txt)):
+TAXONOMIA_COMPILADA = [
+    {**b, "padroes": [_compilar_padrao(p) for p in b["padroes"]]} for b in TAXONOMIA
+]
+
+
+def _bloco_casa(bloco, txt):
+    for p in bloco["padroes"]:
+        if isinstance(p, tuple):
+            if p[0].search(txt) and p[1].search(txt):
+                return True
+        elif p.search(txt):
             return True
     return False
+
+
+def casar_taxonomia(objeto):
+    """Retorna dict com eixos/cnaes/categoria/prioritario, ou None se não captar."""
+    txt = normalizar(objeto)
+    eixos, cnaes, categorias = [], [], set()
+    for bloco in TAXONOMIA_COMPILADA:
+        if _bloco_casa(bloco, txt):
+            eixos.append(bloco["eixo"])
+            cnaes.append(bloco["cnae"])
+            categorias.add(bloco["categoria"])
+    if not eixos:
+        return None
+    # Se casou qualquer frente disputável, a oportunidade é "disputar"; só é
+    # "monitorar" quando o ÚNICO casamento foi no bloco de operadoras/planos.
+    categoria = "disputar" if "disputar" in categorias else "monitorar"
+    prioritario = any(p.search(txt) for p in PRIORITARIOS)
+    return {
+        "eixos": eixos,
+        "cnaes": cnaes,
+        "categoria": categoria,
+        "prioritario": prioritario,
+    }
 
 
 FONTE_KEYWORDS = [
@@ -120,7 +258,7 @@ HEADERS = {
 }
 MAX_TENTATIVAS = 4
 REQ_TIMEOUT = 25  # falha rápido em página morta; retries cobrem instabilidade
-PAUSA_ENTRE_PAGINAS = 0.5  # espaçar reduz 429 e, no total, tende a ser mais rápido
+PAUSA_ENTRE_PAGINAS = 0.6  # espaçar reduz 429 (com 8/9 no incremental o volume é maior)
 # Se mais que esta fração das páginas falhar, abortamos sem publicar (não sobrescreve
 # a última base boa com um resultado parcial enganoso).
 LIMITE_FALHAS = 0.08
@@ -202,11 +340,7 @@ def coletar_full():
 
 
 def coletar_incremental():
-    """Incremental: busca publicações dos últimos LOOKBACK_DIAS dias, por modalidade.
-
-    Volume pequeno (dezenas de páginas) — roda em poucos minutos e evita o bloqueio
-    por volume que a varredura completa sofre nos IPs do GitHub Actions.
-    """
+    """Incremental: busca publicações dos últimos LOOKBACK_DIAS dias, por modalidade."""
     di = (date.today() - timedelta(days=LOOKBACK_DIAS)).strftime("%Y%m%d")
     df = date.today().strftime("%Y%m%d")
     print(f"Modo INCREMENTAL: publicações de {di} a {df}, por modalidade.", flush=True)
@@ -249,7 +383,7 @@ def sanitizar_valor(v):
     return v
 
 
-def classificar(item):
+def classificar(item, match):
     org = item.get("orgaoEntidade", {})
     uni = item.get("unidadeOrgao", {})
     objeto = item.get("objetoCompra", "")
@@ -271,6 +405,10 @@ def classificar(item):
         "dataEncerramentoProposta": item.get("dataEncerramentoProposta"),
         "dataPublicacaoPncp": item.get("dataPublicacaoPncp"),
         "fonteRecurso": identificar_fonte(objeto, info),
+        "eixos": match["eixos"],
+        "cnaes": match["cnaes"],
+        "categoria": match["categoria"],
+        "prioritario": match["prioritario"],
         "linkEdital": item.get("linkSistemaOrigem"),
         "processo": item.get("processo"),
     }
@@ -303,34 +441,35 @@ def main():
     else:
         brutos = coletar_incremental()
 
-    # Filtra engenharia civil e mescla na base (adiciona/atualiza por id).
-    novos_engenharia = 0
+    # Filtra pela taxonomia da Big Data e mescla na base (adiciona/atualiza por id).
+    novos_captados = 0
     for it in brutos:
-        if eh_engenharia_civil(it.get("objetoCompra", "")):
-            reg = classificar(it)
+        match = casar_taxonomia(it.get("objetoCompra", ""))
+        if match:
+            reg = classificar(it, match)
             base[reg["numeroControlePNCP"]] = reg
-            novos_engenharia += 1
+            novos_captados += 1
 
     # Poda: remove contratações cuja proposta já encerrou (não estão mais abertas).
     agora_iso = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
     itens = [i for i in base.values() if ainda_aberta(i, agora_iso)]
     itens.sort(key=lambda x: (x["dataEncerramentoProposta"] or "9999"))
 
-    # Novos para o e-mail: engenharia que apareceu AGORA (não estava na base) e está aberta.
+    # Novos para o e-mail: captados que apareceram AGORA (não estavam na base) e abertos.
     novos = [i for i in itens if i["numeroControlePNCP"] not in ids_antes]
 
     dataset = {
         "build": int(time.time()),
         "geradoEm": date.today().isoformat(),
         "modo": "full" if modo_full else "incremental",
-        "totalEngenhariaCivil": len(itens),
+        "totalCaptado": len(itens),
         "itens": itens,
     }
     DATASET_PATH.write_text(json.dumps(dataset, ensure_ascii=False, indent=0), encoding="utf-8")
     NOVOS_PATH.write_text(json.dumps(novos, ensure_ascii=False, indent=0), encoding="utf-8")
     ESTADO_PATH.write_text(json.dumps({"ids": sorted(base.keys())}, ensure_ascii=False), encoding="utf-8")
 
-    print(f"Editais de engenharia em aberto na base: {len(itens)}")
+    print(f"Editais captados em aberto na base: {len(itens)}")
     print(f"Novos nesta execução: {len(novos)}")
     print(f"TEM_NOVOS={1 if novos else 0}")
 
