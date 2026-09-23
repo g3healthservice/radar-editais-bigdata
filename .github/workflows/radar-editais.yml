@@ -1,9 +1,9 @@
-name: radar-editais-engenharia
+name: radar-editais-bigdata
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * 1-5"   # a cada 60min, de segunda a sexta
+    - cron: "0 */2 * * 1-5"   # a cada 2h, de segunda a sexta (incremental mais pesado: inclui Dispensa/Inexigibilidade)
 
 permissions:
   contents: write
@@ -22,7 +22,7 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Buscar editais no PNCP e filtrar engenharia civil
+      - name: Buscar editais no PNCP e captar frentes da Big Data (gestão em saúde)
         run: python3 -u pipeline/buscar_editais.py
 
       - name: Gerar dashboard (app.html + build.txt)
@@ -47,9 +47,9 @@ jobs:
           secure: true
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
-          subject: "[Radar Editais] Novos editais de engenharia civil/reforma predial (PNCP)"
+          subject: "[Radar Big Data] Novos editais de gestão em saúde (PNCP)"
           to: g3.healthservice@proton.me
-          from: Radar Editais G3 <${{ secrets.MAIL_USERNAME }}>
+          from: Radar Editais Big Data <${{ secrets.MAIL_USERNAME }}>
           html_body: file://email_novos.html
 
       - name: Publicar dashboard e salvar estado
