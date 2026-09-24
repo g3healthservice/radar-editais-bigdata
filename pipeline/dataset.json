@@ -1,39 +1,9 @@
 {
-"build": 1790201262,
-"geradoEm": "2026-09-23",
+"build": 1790211539,
+"geradoEm": "2026-09-24",
 "modo": "incremental",
-"totalCaptado": 461,
+"totalCaptado": 468,
 "itens": [
-{
-"numeroControlePNCP": "01096235000191-1-000047/2026",
-"orgao": "CAMARA MUNICIPAL DE BOTUCATU",
-"cnpj": "01096235000191",
-"esfera": "Municipal",
-"poder": "Legislativo",
-"unidade": "CÂMARA MUNICIPAL DE BOTUCATU",
-"municipio": "Botucatu",
-"uf": "SP",
-"codigoIbge": "3507506",
-"objeto": "Contratação de empresa especializada para disponibilização de linhas de Serviço Móvel Pessoal (SMP), com planos de voz e dados móveis, fornecimento de SIM card e/ou eSIM, portabilidade numérica quando solicitada e sistema informatizado de gestão, destinados ao uso institucional da Câmara Municipal de Botucatu, pelo período de 12 (doze) meses.",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 20056.32,
-"dataEncerramentoProposta": "2026-09-23T23:59:00",
-"dataPublicacaoPncp": "2026-09-18T16:53:20",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "",
-"processo": "38"
-},
 {
 "numeroControlePNCP": "18295295000136-1-000233/2026",
 "orgao": "MUNICIPIO DE OURO PRETO",
@@ -8309,6 +8279,38 @@
 "processo": "50500.027524/2026-22"
 },
 {
+"numeroControlePNCP": "18443577000133-1-000028/2026",
+"orgao": "CONSORCIO INTERMUNICIPAL BRASIL CENTRAL/GO",
+"cnpj": "18443577000133",
+"esfera": "Não informado",
+"poder": "Executivo",
+"unidade": "CONSORCIO INTERFEDERATIVO AUTARQUICO BRASIL CENTRAL (CIABC/GO)",
+"municipio": "Goiânia",
+"uf": "GO",
+"codigoIbge": "5208707",
+"objeto": "Registro de Preços para a futura e eventual contratação de empresa especializada na prestação de solução tecnológica, em regime de software como serviço (SaaS), de apoio à gestão dos fatores de risco psicossocial relacionados ao trabalho (FRPRT), integrada ao Gerenciamento de Riscos Ocupacionais (GRO) e ao Programa de Gerenciamento de Riscos (PGR), para atendimento das demandas dos municípios vinculados ao CIABC/GO",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-10-07T12:50:00",
+"dataPublicacaoPncp": "2026-09-23T20:02:21",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS",
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"62.02/62.03/63.11",
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": "",
+"processo": "032.08.2026"
+},
+{
 "numeroControlePNCP": "08241747000496-1-000335/2026",
 "orgao": "MUNICIPIO DE NATAL",
 "cnpj": "08241747000496",
@@ -8577,6 +8579,36 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "5232"
+},
+{
+"numeroControlePNCP": "75789552000120-1-000082/2026",
+"orgao": "MUNICIPIO DE JUSSARA",
+"cnpj": "75789552000120",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Unidade administrativa",
+"municipio": "Jussara",
+"uf": "PR",
+"codigoIbge": "4113007",
+"objeto": "FUTURA E EVENTUAL CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE DISPONIBILIZAÇÃO, IMPLANTAÇÃO, CONFIGURAÇÃO, TREINAMENTO, SUPORTE TÉCNICO, MANUTENÇÃO, ATUALIZAÇÃO E LICENCIAMENTO DE USO DE SOLUÇÃO TECNOLÓGICA INTEGRADA PARA GESTÃO DA FROTA MUNICIPAL, DISPONIBILIZADA NA MODALIDADE SOFTWARE COMO SERVIÇO – SAAS (SOFTWARE AS A SERVICE), HOSPEDADA EM AMBIENTE DE COMPUTAÇÃO EM NUVEM, INCLUINDO O FORNECIMENTO, INSTALAÇÃO, CONFIGURAÇÃO, SUBSTITUIÇÃO E MANUTENÇÃO DOS DISPOSITIVOS ELETRÔNICOS EMBARCADOS (IOT), DESTINADOS À COLETA, TRANSMISSÃO, PROCESSAMENTO E GERENCIAMENTO DAS INFORMAÇÕES OPERACIONAIS DOS VEÍCULOS PERTENCENTES OU UTILIZADOS PELA ADMINISTRAÇÃO MUNICIPAL, CONFORME CONDIÇÕES, QUANTIDADES E EXIGÊNCIAS ESTABELECIDAS NO TERMO DE REFERÊNCIA.",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 159799.96,
+"dataEncerramentoProposta": "2026-10-08T08:30:00",
+"dataPublicacaoPncp": "2026-09-23T16:52:02",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "76/2026"
 },
 {
 "numeroControlePNCP": "07993439000101-1-000091/2026",
@@ -9547,6 +9579,36 @@
 "prioritario": false,
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92637705000472026",
 "processo": "136/2026"
+},
+{
+"numeroControlePNCP": "06877670000177-1-000017/2026",
+"orgao": "INSTITUTO DE PLANEJAMENTO E DESENVOLVIMENTO SUSTENTAVEL DE ARAXA",
+"cnpj": "06877670000177",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "INSTITUTO DE PLANEJAMENTO E DESENVOLVIMENTO SUSTENTÁVEL DE ARAXÁ - IPDSA/MG",
+"municipio": "Araxá",
+"uf": "MG",
+"codigoIbge": "3104007",
+"objeto": "[LICITANET] - Contratação de empresa especializada para prestação de serviços de administração, gerenciamento, emissão e fornecimento de cartões eletrônicos destinados à concessão do auxílio-alimentação aos servidores do Instituto de Planejamento e Desenvolvimento Sustentável de Araxá – IPDSA, mediante disponibilização de solução tecnológica para operacionalização dos créditos, gerenciamento eletrônico do benefício, aplicativo aos beneficiários, sistema informatizado de gestão, canais de atendimento, suporte técnico e demais serviços correlatos, conforme especificações constantes do Estudo Técnico Preliminar e do futuro Termo de Referência.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-10-16T09:30:00",
+"dataPublicacaoPncp": "2026-09-23T14:50:55",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://licitanet.com.br/sessao/202568",
+"processo": "08766/26"
 },
 {
 "numeroControlePNCP": "37753638000103-1-000090/2026",
@@ -13877,6 +13939,156 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "1121.2025/0009271-0"
+},
+{
+"numeroControlePNCP": "03217916000196-1-000058/2026",
+"orgao": "MUNICIPIO DE BELA VISTA",
+"cnpj": "03217916000196",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE BELA VISTA",
+"municipio": "Bela Vista",
+"uf": "MS",
+"codigoIbge": "5002100",
+"objeto": "Contratação de empresa especializada para avaliação dos fatores de riscos psicossociais relacionados ao trabalho, em atendimento à NR-01, com elaboração de relatório técnico, classificação dos riscos, recomendações de medidas preventivas e fornecimento de subsídios para integração dos resultados ao Programa de Gerenciamento de Riscos - PGR da Prefeitura Municipal de Bela Vista/MS.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 64100.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-09-21T12:36:52",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": "",
+"processo": "16"
+},
+{
+"numeroControlePNCP": "17418898000115-1-000034/2026",
+"orgao": "CAMARA MUNICIPAL DE SANTA RITA DO SAPUCAI",
+"cnpj": "17418898000115",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "CAMARA MUNICIPAL DE SANTA RITA DO SAPUCAI",
+"municipio": "Santa Rita do Sapucaí",
+"uf": "MG",
+"codigoIbge": "3159605",
+"objeto": "CONTRATAÇÃO DIRETA DE EMPRESA ESPECIALIZADA NO FORNECIMENTO E INTERMEDIAÇÃO (BROKER) DE LICENÇAS E ASSINATURAS ANUAIS DE SOFTWARES DE CRIAÇÃO VISUAL, EDIÇÃO AUDIOVISUAL E INTELIGÊNCIA ARTIFICIAL GENERATIVA/MULTIMODAL NO MODELO SAAS (SOFTWARE AS A SERVICE",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 28492.08,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-09-23T12:27:27",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://www.santaritadosapucai.mg.leg.br/imprensa/licitacoes/0/1/0/717",
+"processo": "24"
+},
+{
+"numeroControlePNCP": "88811948000178-1-000272/2026",
+"orgao": "MUNICIPIO DE TAPES",
+"cnpj": "88811948000178",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL",
+"municipio": "Tapes",
+"uf": "RS",
+"codigoIbge": "4321105",
+"objeto": "Contratacao de empresa especializada para conserto da impressora do relogio ponto eletronico da Secretaria Municipal de Educacao com fornecimento de material.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 790.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-09-23T15:04:14",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Gestão de RH / escalas e ponto"
+],
+"cnaes": [
+"78.30-2/00"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": " ",
+"processo": "149"
+},
+{
+"numeroControlePNCP": "45371820000128-1-000262/2026",
+"orgao": "MUNICIPIO DE SERTAOZINHO",
+"cnpj": "45371820000128",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE SERTÃOZINHO - SP",
+"municipio": "Sertãozinho",
+"uf": "SP",
+"codigoIbge": "3551702",
+"objeto": "SERVIÇO DE LIMPEZA E HIGIENIZAÇÃO DE CAIXAS DÁGUA, NAS UNIDADES MUNICIPAIS DE SAÚDE E DSSO (DESENVOLVIMENTO PESSOAL, SEGURANÇA E SAÚDE OCUPACIONAL)",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 43399.86,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-09-23T15:05:42",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]0fcytGhqierbyYZWW6hM0kJQtGuAOrwrcKmlW_6bAHCeQlJn5EZ7/BTbWsZKP1k1WWl1wFUA5JEo/_kt4oTi_m/n7iegJiW1TZ8xiSiT0Ik=",
+"processo": "00000252"
+},
+{
+"numeroControlePNCP": "88861448000140-1-000520/2026",
+"orgao": "MUNICIPIO DE PIRATINI",
+"cnpj": "88861448000140",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL",
+"municipio": "Piratini",
+"uf": "RS",
+"codigoIbge": "4314605",
+"objeto": "contratacao de empresa especializada para a prestacao de servicos tecnicos atuariais  destinados a elaboracao da Avaliacao Atuarial do Fundo de Previdencia dos Servidores Publicos Municipais de Piratini   FUNPREV  referente ao encerramento do exercicio de 2026  compreendendo os estudos  calculos  analises  demonstrativos e demais servicos tecnicos complementares necessarios ao atendimento das exigencias legais e regulamentares aplicaveis ao Regime Proprio de Previdencia Social   RPPS  especialmente a Portaria MTP n  1.467 2022.",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 12250.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-09-23T21:19:49",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Auditoria / consultoria atuarial"
+],
+"cnaes": [
+"66.21-5/02"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": " ",
+"processo": "117"
 }
 ]
 }
