@@ -1,39 +1,9 @@
 {
-"build": 1790211539,
+"build": 1790236644,
 "geradoEm": "2026-09-24",
 "modo": "incremental",
 "totalCaptado": 468,
 "itens": [
-{
-"numeroControlePNCP": "18295295000136-1-000233/2026",
-"orgao": "MUNICIPIO DE OURO PRETO",
-"cnpj": "18295295000136",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "SECRETARIA MUNICIPAL DE SEGURANÇA E TRÂNSITO",
-"municipio": "Ouro Preto",
-"uf": "MG",
-"codigoIbge": "3146107",
-"objeto": "CONTRATAÇAO DE EMPRESA ESPECIALIZADA PARA PRESTAÇAO DE SERVIÇOS DE DISPONIBILIZAÇAO DE SISTEMA INFORMATIZADO DE GESTÃO ADMINISTRATIVA DE TRANSITO, INCLUINDO PRE-PROCESSAMENTO E PROCESSAMNETO DAS IMFRAÇOES, DISPOPNIBILIZAÇAO DE TALONARIO ELETRONICO SISTEMA WEB DE ATENDIMENTO AO CIDADÃO, BEM COMO CESÃO DE LICENÇA DE USO POR TEMPO DETERMINADO, COMFORME CONDIÇOES ESPECIFICADAS  TECNICAS E QUANTITATIVOS ESTABELECIDOS NESTE TERMO DE REFERENCIA.",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 869999.28,
-"dataEncerramentoProposta": "2026-09-24T07:00:00",
-"dataPublicacaoPncp": "2026-09-03T09:50:34",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": null,
-"processo": "PL-229/2026 - PE - 19"
-},
 {
 "numeroControlePNCP": "80637457000140-1-000094/2026",
 "orgao": "MUNICIPIO DE JARDINOPOLIS",
@@ -14089,6 +14059,36 @@
 "prioritario": false,
 "linkEdital": " ",
 "processo": "117"
+},
+{
+"numeroControlePNCP": "01067248000132-1-000154/2026",
+"orgao": "MUNICIPIO DE ISRAELANDIA",
+"cnpj": "01067248000132",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICIPIO DE ISRAELANDIA - PREFEITURA",
+"municipio": "Israelândia",
+"uf": "GO",
+"codigoIbge": "5210307",
+"objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇO DE RECAPAGEM E RECAUCHUTAGEM DE PNEUS PARA MAQUINAS PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE AGRICULTURA DO MUNICIPIO DE ISRAELANDIA, ESTADO DE GOIAS. CONFORME ANEXOS INSERIDOS VIA SISTEMA INFORMATIZADOS, OS ORÇAMENTOS DEVERAM SER ENVIADOS POR E-MAIL: propostas.orcamentopmisr@gmail.com",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 9779.97,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-09-21T15:26:41",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "2352/2026"
 }
 ]
 }
