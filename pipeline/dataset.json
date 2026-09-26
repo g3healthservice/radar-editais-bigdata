@@ -1,39 +1,9 @@
 {
-"build": 1790374085,
-"geradoEm": "2026-09-25",
+"build": 1790385407,
+"geradoEm": "2026-09-26",
 "modo": "incremental",
 "totalCaptado": 490,
 "itens": [
-{
-"numeroControlePNCP": "02281037000160-1-000011/2026",
-"orgao": "BOCAIUVA DO SUL CAMARA MUNICIPAL",
-"cnpj": "02281037000160",
-"esfera": "Municipal",
-"poder": "Legislativo",
-"unidade": "UNIDADE ADMINISTRATIVA",
-"municipio": "Bocaiúva do Sul",
-"uf": "PR",
-"codigoIbge": "4103107",
-"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE SAÚDE E SEGURANÇA DO TRABALHO – SST, COMPREENDENDO PGR, PCMSO, LTCAT, ASSESSORIA NOS EVENTOS DE SST DO ESOCIAL E AVALIAÇÃO DE RISCOS PSICOSSOCIAIS, PARA ATENDER ÀS NECESSIDADES DA CÂMARA MUNICIPAL DE BOCAIÚVA DO SUL/PR.",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 5000.0,
-"dataEncerramentoProposta": "2026-09-25T23:59:00",
-"dataPublicacaoPncp": "2026-09-22T11:26:37",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Psicologia / riscos psicossociais"
-],
-"cnaes": [
-"86.50-0/03"
-],
-"categoria": "disputar",
-"prioritario": true,
-"linkEdital": null,
-"processo": "17/2026"
-},
 {
 "numeroControlePNCP": "00360305000104-1-000691/2026",
 "orgao": "CAIXA ECONOMICA FEDERAL",
@@ -14743,6 +14713,36 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "97"
+},
+{
+"numeroControlePNCP": "42498600000171-1-004102/2026",
+"orgao": "ESTADO DO RIO DE JANEIRO",
+"cnpj": "42498600000171",
+"esfera": "Estadual",
+"poder": "Não informado",
+"unidade": "AG REGUL ENERGIA E SANEAMENTO DO EST RJ",
+"municipio": "Rio de Janeiro",
+"uf": "RJ",
+"codigoIbge": "3304557",
+"objeto": "Trata-se da participação de 2 (dois) servidores no 1º Curso de Certificação em Ouvidoria do Setor de Saneamento, na modalidade on-line, com início das aulas previsto para o dia 28 de setembro de 2026, com carga horária total de 16 horas, sendo 8,5h de aulas assíncronas (gravadas), 3,5h de aulas síncronas (ao vivo), 2h de elaboração de projeto aplicado e 2h de atividades complementares (exercícios, leituras e podcasts), tendo como finalidade a capacitação profissional para melhor exercício no âmbito da AGENERSA.",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-09-25T19:39:35",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://www.compras.rj.gov.br",
+"processo": "SEI-480002/008818/2026"
 }
 ]
 }
