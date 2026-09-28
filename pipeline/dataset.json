@@ -1,8 +1,8 @@
 {
-"build": 1790385407,
-"geradoEm": "2026-09-26",
+"build": 1790572484,
+"geradoEm": "2026-09-28",
 "modo": "incremental",
-"totalCaptado": 490,
+"totalCaptado": 492,
 "itens": [
 {
 "numeroControlePNCP": "00360305000104-1-000691/2026",
@@ -8223,6 +8223,36 @@
 "processo": "148/2026"
 },
 {
+"numeroControlePNCP": "42498733000148-1-001957/2026",
+"orgao": "MUNICIPIO DE RIO DE JANEIRO",
+"cnpj": "42498733000148",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MRJ-PREFEITURA MUNICIPAL DO RIO DE JANEIRO",
+"municipio": "Rio de Janeiro",
+"uf": "RJ",
+"codigoIbge": "3304557",
+"objeto": "Contratação de empresa especializada na prestação de serviços de medicina do trabalho, saúde ocupacional e segurança do trabalho, conforme este Edital e seus anexos.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-10-14T10:00:00",
+"dataPublicacaoPncp": "2026-09-27T22:57:28",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98600105016952026",
+"processo": "006300.000562/2026-01"
+},
+{
 "numeroControlePNCP": "18307439000127-1-000042/2026",
 "orgao": "MUNICIPIO DE GUANHAES",
 "cnpj": "18307439000127",
@@ -14711,7 +14741,7 @@
 ],
 "categoria": "disputar",
 "prioritario": false,
-"linkEdital": null,
+"linkEdital": "https://portal.tce.rs.gov.br/aplicprod/f?p=50500:10:::NO:10:P10_ID_LICITACAO,P10_PAG_RETORNO,F50500_CD_ORGAO:1593148,14,78300&cs=1G-1tJh9ZN2LfRJsDWgYFSHW9pkM",
 "processo": "97"
 },
 {
@@ -14743,6 +14773,36 @@
 "prioritario": false,
 "linkEdital": "https://www.compras.rj.gov.br",
 "processo": "SEI-480002/008818/2026"
+},
+{
+"numeroControlePNCP": "11223534000101-1-000001/2025",
+"orgao": "CAMARA MUNICIPAL DOS PALMARES",
+"cnpj": "11223534000101",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "camara de vereadores de palmares",
+"municipio": "Palmares",
+"uf": "PE",
+"codigoIbge": "2610004",
+"objeto": "a contratação de empresa para prestação de serviço de consultoria em folha de pagamento, e-social e SAGRES pessoal com licença de uso de sistema de folha de pagamento e contracheque on-line da Câmara Municipal de Vereadores dos Palmares/PE",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 42000.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-09-26T11:25:32",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://bnccompras.com/DirectBuy/DirectBuyView?param1=[gkz]Ktz0siSj5AKLTjrNd4wnBcFway6aXkq4/MPlWp8UeIEIIpbQzwkhivpvo8Vll_l9_1VNp7isRmHJZ4ExsnNxosCrnB38_Tw80_UYpMxJerk=",
+"processo": "003/2025"
 }
 ]
 }
