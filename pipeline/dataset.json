@@ -1,189 +1,9 @@
 {
-"build": 1790647392,
+"build": 1790670866,
 "geradoEm": "2026-09-29",
 "modo": "incremental",
-"totalCaptado": 507,
+"totalCaptado": 505,
 "itens": [
-{
-"numeroControlePNCP": "46393500000131-1-000009/2026",
-"orgao": "SECRETARIA DE COMUNICACAO",
-"cnpj": "46393500000131",
-"esfera": "Estadual",
-"poder": "Executivo",
-"unidade": "ESP-SUBSECRETARIA DE GESTÃO CORPORATIVA",
-"municipio": "São Paulo",
-"uf": "SP",
-"codigoIbge": "3550308",
-"objeto": "Contratação de serviços de assinaturas anuais, em modelo Software as a Service (SaaS), de soluções de Inteligência Artificial (ChatGPT Business e Claude Team)",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 608020.8,
-"dataEncerramentoProposta": "2026-09-29T08:00:00",
-"dataPublicacaoPncp": "2026-07-22T13:53:24",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=29012205000152026",
-"processo": "005.00000127/2026-35"
-},
-{
-"numeroControlePNCP": "76205806000188-1-000199/2026",
-"orgao": "MUNICIPIO DE TOLEDO",
-"cnpj": "76205806000188",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "GABINETE DA SECRETARIA DA EDUCACAO",
-"municipio": "Toledo",
-"uf": "PR",
-"codigoIbge": "4127700",
-"objeto": "Contratação de empresa especializada para a prestação de serviços de renovação de licenciamento de uso de software Antivírus Corporativo F-Securite/With Secure, para estações de trabalho de Secretaria de Educação do Município de Toledo, pelo período de 24 (vinte e quatro) meses.",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 754080.0,
-"dataEncerramentoProposta": "2026-09-29T08:00:00",
-"dataPublicacaoPncp": "2026-09-11T07:53:06",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": null,
-"processo": "9142"
-},
-{
-"numeroControlePNCP": "28614865000167-1-000129/2026",
-"orgao": "MUNICIPIO DE CORDEIRO",
-"cnpj": "28614865000167",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNICIPAL DE CORDEIRO - RJ",
-"municipio": "Cordeiro",
-"uf": "RJ",
-"codigoIbge": "3301504",
-"objeto": "Contratação de empresa especializada para realização do Censo Previdenciário, compreendendo a coleta de dados por meio de plataforma web e atendimento presencial, visando ao aprimoramento da gestão dos dados cadastrais, funcionais e financeiros dos servidores públicos municipais ativos, aposentados, pensionistas e respectivos dependentes vinculados ao Regime Próprio de Previdência Social – RPPS, conforme condições, quantidades e exigências estabelecidas no Termo de Referência e seus anexos. ",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 62414.0,
-"dataEncerramentoProposta": "2026-09-29T08:00:00",
-"dataPublicacaoPncp": "2026-09-23T13:58:06",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98582906001192026",
-"processo": "0146/2026"
-},
-{
-"numeroControlePNCP": "07982036000167-1-000151/2026",
-"orgao": "MUNICIPIO DE CRATEUS",
-"cnpj": "07982036000167",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "SECRETARIA DE FINANÇAS E ORÇAMENTO",
-"municipio": "Crateús",
-"uf": "CE",
-"codigoIbge": "2304103",
-"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA IMPLANTAÇÃO, CONFIGURAÇÃO, PARAMETRIZAÇÃO E DISPONIBILIZAÇÃO CONTINUADA DE PLATAFORMA WEB INTEGRADA PARA APRIMORAR O ACOMPANHAMENTO E A GESTÃO DE OBRAS, PROJETOS, CONVÊNIOS E INSTRUMENTOS DE TRANSFERÊNCIA DE RECURSOS, GARANTINDO CONTROLE EFETIVO DAS ETAPAS DE PLANEJAMENTO, EXECUÇÃO E PRESTAÇÃO DE CONTAS, ALINHADO ÀS METAS INSTITUCIONAIS E LEGAIS DO MUNICÍPIO DE CRATEÚS-CE",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 116099.96,
-"dataEncerramentoProposta": "2026-09-29T08:29:00",
-"dataPublicacaoPncp": "2026-09-15T13:40:21",
-"fonteRecurso": [
-"Convênio"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "http://precodereferencia.m2atecnologia.com.br/c/DUkWcYwTRRuV2LqADCQu5Q.GyJfGCD0XZu6/",
-"processo": "0002120260804000208"
-},
-{
-"numeroControlePNCP": "76279975000162-1-000080/2026",
-"orgao": "MUNICIPIO DE UNIFLOR",
-"cnpj": "76279975000162",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "MUNICÍPIO DE UNIFLOR/PR",
-"municipio": "Uniflor",
-"uf": "PR",
-"codigoIbge": "4128302",
-"objeto": "[LICITANET] - REGISTRO DE PREÇOS PARA A EVENTUAL E FUTURA AQUISIÇÃO DE UNIFORMES PERSONALIZADOS, VESTUÁRIOS OPERACIONAIS, EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL (EPIS) E ITENS DE SUPORTE (MOCHILAS E GARRAFAS TÉRMICAS), DESTINADOS A ATENDER ÀS NECESSIDADES FUNCIONAIS, DE IDENTIFICAÇÃO VISUAL, SAÚDE E SEGURANÇA DO TRABALHO DOS SERVIDORES PÚBLICOS MUNICIPAIS LOTADOS NOS DEPARTAMENTOS DE ADMINISTRAÇÃO, AGRICULTURA, MEIO AMBIENTE, OBRAS E CULTURA DO MUNICÍPIO DE UNIFLOR/PR.",
-"modalidade": "Pregão - Eletrônico",
-"srp": true,
-"valorEstimado": 76582.01,
-"dataEncerramentoProposta": "2026-09-29T08:30:00",
-"dataPublicacaoPncp": "2026-09-09T15:12:08",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Psicologia / riscos psicossociais"
-],
-"cnaes": [
-"86.50-0/03"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://licitanet.com.br/sessao/200880",
-"processo": "65"
-},
-{
-"numeroControlePNCP": "27167345000190-1-000067/2026",
-"orgao": "MUNICIPIO DE MANTENOPOLIS",
-"cnpj": "27167345000190",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Prefeitura Municipal de Mantenópolis",
-"municipio": "Mantenópolis",
-"uf": "ES",
-"codigoIbge": "3203304",
-"objeto": "[Portal de Compras Públicas] - Constitui objeto do presente edital a contratacao de empresa especializada para a prestacao de servicos tecnicos e especializados de engenharia, seguranca do trabalho e saude ocupacional, destinados ao atendimento das necessidades da Administracao Publica Municipal, contemplando um quantitativo estimado de 700 (setecentos) servidores, pelo periodo de 12 (doze) meses, conforme condicoes quantidades e exigencias estabelecidas neste Edital e seus anexos.",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 158993.2,
-"dataEncerramentoProposta": "2026-09-29T08:30:00",
-"dataPublicacaoPncp": "2026-09-10T10:00:28",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Psicologia / riscos psicossociais"
-],
-"cnaes": [
-"86.50-0/03"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/ES/Prefeitura-Municipal-de-Mantenopolis-4097/PE-000018-2026-2026-508232",
-"processo": "004109/2026"
-},
 {
 "numeroControlePNCP": "70946009000175-1-000380/2026",
 "orgao": "MUNICIPIO DE SAO ROQUE",
@@ -2853,6 +2673,96 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "220"
+},
+{
+"numeroControlePNCP": "06376974000150-1-000052/2026",
+"orgao": "MUNICIPIO DE JOSELANDIA",
+"cnpj": "06376974000150",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Joselândia",
+"municipio": "Joselândia",
+"uf": "MA",
+"codigoIbge": "2105609",
+"objeto": "Contratação de empresa para prestação de serviços continuados de licenciamento de uso de Plataforma de Sistema de Avaliação com Banco de Questões, englobando implantação, treinamento, suporte técnico, manutenção evolutiva e hospedagem em nuvem, para atender às escolas da Rede Municipal de Ensino da Secretaria Municipal de Educação",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 62833.33,
+"dataEncerramentoProposta": "2026-10-02T07:55:00",
+"dataPublicacaoPncp": "2026-09-29T00:03:18",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "http://www.comprasjoselandiama.com.br",
+"processo": "220902/2026"
+},
+{
+"numeroControlePNCP": "06376974000150-1-000053/2026",
+"orgao": "MUNICIPIO DE JOSELANDIA",
+"cnpj": "06376974000150",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Joselândia",
+"municipio": "Joselândia",
+"uf": "MA",
+"codigoIbge": "2105609",
+"objeto": "Contratação de empresa para a prestação de serviços de Locação da Plataforma de Transparência, eSIC, Ouvidoria, Diário Oficial do Município, execução e alimentação do Portal da Transparência da Prefeitura Municipal, suporte e treinamento para atender as necessidades da Secretaria Municipal de Administração",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 42285.0,
+"dataEncerramentoProposta": "2026-10-02T07:55:00",
+"dataPublicacaoPncp": "2026-09-29T00:04:52",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "http://www.comprasjoselandiama.com.br",
+"processo": "220901/2026"
+},
+{
+"numeroControlePNCP": "06376974000150-1-000054/2026",
+"orgao": "MUNICIPIO DE JOSELANDIA",
+"cnpj": "06376974000150",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Joselândia",
+"municipio": "Joselândia",
+"uf": "MA",
+"codigoIbge": "2105609",
+"objeto": "Contratação de empresa para a prestação de serviços de Locação da Plataforma de Transparência, eSIC, Ouvidoria, Diário Oficial do Município, execução e alimentação do Portal da Transparência da Prefeitura Municipal, suporte e treinamento para atender as necessidades da Secretaria Municipal de Administração",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 42285.0,
+"dataEncerramentoProposta": "2026-10-02T07:55:00",
+"dataPublicacaoPncp": "2026-09-29T00:16:50",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "http://www.comprasjoselandiama.com.br",
+"processo": "220901/2026"
 },
 {
 "numeroControlePNCP": "11806275000133-1-000061/2026",
@@ -7559,6 +7469,36 @@
 "prioritario": false,
 "linkEdital": "",
 "processo": "126/2026"
+},
+{
+"numeroControlePNCP": "00489828000155-1-000561/2026",
+"orgao": "MINISTERIO DA GESTAO E DA INOVACAO EM SERVICOS PUBLICOS",
+"cnpj": "00489828000155",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "SUPERINTENDêNCIA REG ADMINISTRAçãO DO MGI-MG",
+"municipio": "Belo Horizonte",
+"uf": "MG",
+"codigoIbge": "3106200",
+"objeto": "Contratação de pessoa jurídica para prestação de serviços contínuos, sem dedicação exclusiva de mão-de-obra, de gerenciamento, controle e outros procedimentos pertinentes, por meio da implementação e operação de sistema informatizado e integrado com tecnologia e utilização on-line, disponibilizado em rede especializada e credenciada de estabelecimentos, para intermediação da manutenção preventiva e corretiva dos veículos oficiais da Superintendência Regional de Administração do Ministério da Gestão e da Inovação em Serviços Públicos em Minas Gerais (SRA/MG), da Procuradoria Regional da Fazenda Nacional na 6ª Região (PRFN/6) e Procuradorias Seccionais jurisdicionadas (PSFNs), da Controladoria Regional da União no Estado de Minas Gerais (CGU/MG); da Superintendência do Patrimônio da União no Estado de Minas Gerais (SPU/MG), da Superintendência Regional do Trabalho e Emprego em Minas Gerais (SRTB/MG) e suas Seccionais Jurisdicionadas e da Superintendência Regional da Receita Federal do Brasil na 6ª Região (SRRF06) e suas Seccionais jurisdicionadas, em todo território de Minas Gerais, conforme condições, quantidades e exigências constantes no Edital e seus Anexos.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 7930417.2,
+"dataEncerramentoProposta": "2026-10-14T09:30:00",
+"dataPublicacaoPncp": "2026-09-29T04:06:43",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=17008505000962026",
+"processo": "10680.000153/2026-46"
 },
 {
 "numeroControlePNCP": "42498733000148-1-001957/2026",
