@@ -1,39 +1,9 @@
 {
-"build": 1790628864,
-"geradoEm": "2026-09-28",
+"build": 1790647392,
+"geradoEm": "2026-09-29",
 "modo": "incremental",
-"totalCaptado": 505,
+"totalCaptado": 507,
 "itens": [
-{
-"numeroControlePNCP": "18070772000165-1-000039/2026",
-"orgao": "FUNDO MUNICIPAL DE EDUCACAO - FME",
-"cnpj": "18070772000165",
-"esfera": "Municipal",
-"poder": "Executivo",
-"unidade": "FUNDO MUNICIPAL DE EDUCAÇÃO - FME",
-"municipio": "Uruaçu",
-"uf": "GO",
-"codigoIbge": "5221601",
-"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE IMPLANTAÇÃO, DISPONIBILIZAÇÃO, MANUTENÇÃO, ATUALIZAÇÃO E SUPORTE TÉCNICO DE SISTEMA INFORMATIZADO PARA GESTÃO EDUCACIONAL, NA MODALIDADE SOFTWARE COMO SERVIÇO, COM ACESSO VIA INTERNET POR MEIO DE COMPUTADORES, SMARTPHONES, TABLETS E DISPOSITIVOS SIMILARES, INCLUINDO A MIGRAÇÃO E CONVERSÃO DOS DADOS EXISTENTES, TREINAMENTO DOS USUÁRIOS E DEMAIS SERVIÇOS NECESSÁRIOS AO PLENO FUNCIONAMENTO DA SOLUÇÃO, VISANDO ATENDER ÀS NECESSIDADES ADMINISTRATIVAS E PEDAGÓGICAS DA SECRETARIA MUNICIPAL DE EDUCAÇÃO E DAS UNIDADES ESCOLARES DA REDE MUNICIPAL DE ENSINO.",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 60292.2,
-"dataEncerramentoProposta": "2026-09-28T23:59:00",
-"dataPublicacaoPncp": "2026-09-23T15:54:28",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": null,
-"processo": "23496/2026"
-},
 {
 "numeroControlePNCP": "46393500000131-1-000009/2026",
 "orgao": "SECRETARIA DE COMUNICACAO",
@@ -2883,6 +2853,36 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "220"
+},
+{
+"numeroControlePNCP": "11806275000133-1-000061/2026",
+"orgao": "UNIVERSIDADE FEDERAL DA INTEGRACAO LATINO-AMERICANA",
+"cnpj": "11806275000133",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "UNIVERSIDADE FED. DA INTEGR. LATINO-AMERICANA",
+"municipio": "Foz do Iguaçu",
+"uf": "PR",
+"codigoIbge": "4108304",
+"objeto": "Contratação de serviços de licenciamento de uso de solução tecnológica de gestão editorial, comercial e fiscal\nem nuvem (Software as a Service - SaaS)",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 24680.0,
+"dataEncerramentoProposta": "2026-10-02T08:00:00",
+"dataPublicacaoPncp": "2026-09-28T20:37:59",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15865806001302026",
+"processo": "23422.011498/2026-18"
 },
 {
 "numeroControlePNCP": "10110989000140-1-000016/2026",
@@ -7981,6 +7981,36 @@
 "processo": "8514333-22.2026.8.06.0000"
 },
 {
+"numeroControlePNCP": "09444530000101-1-000118/2026",
+"orgao": "TRIBUNAL DE JUSTICA DO ESTADO DO CEARA",
+"cnpj": "09444530000101",
+"esfera": "Estadual",
+"poder": "Judiciário",
+"unidade": "TRIBUNAL DE JUSTICA DO ESTADO DO CEARA",
+"municipio": "Fortaleza",
+"uf": "CE",
+"codigoIbge": "2304400",
+"objeto": "Contratação de empresa especializada para prestação de SERVIÇOS DE ADMINISTRAÇÃO E GERENCIAMENTO DE FROTA COM MANUTENÇÃO DE VEÍCULOS, envolvendo a IMPLANTAÇÃO E OPERAÇÃO de um SISTEMA INFORMATIZADO E INTEGRADO de GESTÃO DE FROTA, por meio de CARTÃO ELETRÔNICO com chip OU CARTÃO COM TARJA MAGNÉTICA, a fim de viabilizar o pagamento das despesas com manutenção, junto à rede credenciada de oficinas e concessionárias, compreendendo os SERVIÇOS DE MECÂNICA GERAL, FORNECIMENTO DE PEÇAS E ACESSÓRIOS para veículos da frota, pelo período de 36 (TRINTA E SEIS) MESES, a fim de atender as necessidades do Tribunal de Justiça do Estado do Ceará, conforme especificações, quantitativos e condições estabelecidos neste Edital e seus anexos.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 1023028.89,
+"dataEncerramentoProposta": "2026-10-16T10:00:00",
+"dataPublicacaoPncp": "2026-09-28T18:40:07",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1101374",
+"processo": "8514333-22.2026.8.06"
+},
+{
 "numeroControlePNCP": "27165588000190-1-000236/2026",
 "orgao": "MUNICIPIO DE CACHOEIRO DE ITAPEMIRIM",
 "cnpj": "27165588000190",
@@ -8159,6 +8189,36 @@
 "prioritario": false,
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92924105000712026",
 "processo": "205.2026.1.14"
+},
+{
+"numeroControlePNCP": "76484013000145-1-000106/2026",
+"orgao": "COMPANHIA DE SANEAMENTO DO PARANA SANEPAR",
+"cnpj": "76484013000145",
+"esfera": "Não informado",
+"poder": "Não informado",
+"unidade": "SEDE",
+"municipio": "Curitiba",
+"uf": "PR",
+"codigoIbge": "4106902",
+"objeto": "Serviços integrados de gestão de viagens, sob demanda, compreendendo o licenciamento, parametrização e suporte de sistema informatizado de gestão de viagens (Online Booking Tool \u0013 OBT, doravante denominada \"Ferramenta de Reserva Online), bem como o atendimento operacional (offline) para demandas complexas.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 10225865.47,
+"dataEncerramentoProposta": "2026-10-21T09:00:00",
+"dataPublicacaoPncp": "2026-09-28T18:35:42",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1101264",
+"processo": "152726"
 },
 {
 "numeroControlePNCP": "18803072000132-1-000141/2026",
