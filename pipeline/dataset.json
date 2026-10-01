@@ -1,39 +1,9 @@
 {
-"build": 1790797432,
-"geradoEm": "2026-09-30",
+"build": 1790813905,
+"geradoEm": "2026-10-01",
 "modo": "incremental",
-"totalCaptado": 561,
+"totalCaptado": 569,
 "itens": [
-{
-"numeroControlePNCP": "01616319000109-1-000284/2025",
-"orgao": "MUNICIPIO DE VALPARAISO DE GOIAS",
-"cnpj": "01616319000109",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO",
-"municipio": "Valparaíso de Goiás",
-"uf": "GO",
-"codigoIbge": "5221858",
-"objeto": "ADESÃO Nº 052/2025 \nATA DE REGISTRO DE PREÇOS Nº 001/2025 ? SEMAD/PMS DE 30/09/2025 EM DECORRÊNCIA PREGÃO ELETRONICO/SRP Nº 024/2025-SCL/SEMAD/PMS - PROCESSO ADMINISTRATIVO 1DOC Nº 420/2025 ? SEMAD -  PMS,  DA PREFEITURA MUNICIPAL DE SANTANA/AP, NA CONDIÇÃO DE ?CARONA?, PARA EVENTUAL PRESTAÇÃO DE SERVIÇOS DE ADMINISTRAÇÃO E GERENCIAMENTO DE ABASTECIMENTO DE VEÍCULOS, COM IMPLANTAÇÃO E OPERAÇÃO DE SISTEMA INFORMATIZADO E INTEGRADO PARA GESTÃO DE FROTA, POR MEIO DA INTERNET, UTILIZANDO TICKET/CARTÃO ELETRÔNICO PARA FORNECIMENTO DOS COMBUSTÍVEIS GASOLINA COMUM, ÓLEO DIESEL S10, ÓLEO DIESEL S500, ÓLEO ARLA E ÓLEO 2 TEMPOS EM ATENDIMENTO ÀS NECESSIDADES DA ADMINISTRAÇÃO PÚBLICA DE VALPARAÍSO DE GOIÁS.",
-"modalidade": "Pregão - Eletrônico",
-"srp": true,
-"valorEstimado": 4374387.46,
-"dataEncerramentoProposta": "2026-09-30T23:59:00",
-"dataPublicacaoPncp": "2026-01-05T11:12:06",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "",
-"processo": "2025017676"
-},
 {
 "numeroControlePNCP": "82939448000130-1-000206/2026",
 "orgao": "MUNICIPIO DE IBICARE",
@@ -5123,6 +5093,36 @@
 "processo": "PREGÃO ELETRÔNICO Nº. 03/2026 - FMS"
 },
 {
+"numeroControlePNCP": "03501558000149-1-000075/2026",
+"orgao": "MUNICIPIO DE RIO NEGRO",
+"cnpj": "03501558000149",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Rio Negro - MS",
+"municipio": "Rio Negro",
+"uf": "MS",
+"codigoIbge": "5007307",
+"objeto": "Contratação de pessoa jurídica especializada para a locação de 18 (dezoito) equipamentos de registro eletrônico de ponto (REP) com reconhecimento facial, observados os requisitos técnicos e legais aplicáveis estabelecidos na Portaria MTP nº 671/2021 e suas alterações, incluindo cessão de uso de software de gestão de frequência em nuvem, instalação, configuração, cadastramento facial assistido, treinamento, suporte técnico, manutenção preventiva e corretiva, atualizações e integração com o sistem",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 82308.96,
+"dataEncerramentoProposta": "2026-10-08T08:59:00",
+"dataPublicacaoPncp": "2026-09-30T17:19:45",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Gestão de RH / escalas e ponto"
+],
+"cnaes": [
+"78.30-2/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=48286",
+"processo": "082/2026"
+},
+{
 "numeroControlePNCP": "87958658000199-1-001024/2026",
 "orgao": "SUBSECRETARIA DA ADMINISTRACAO CENTRAL DE LICITACOES",
 "cnpj": "87958658000199",
@@ -6269,6 +6269,36 @@
 "processo": "120/2026"
 },
 {
+"numeroControlePNCP": "51680138000110-1-000017/2026",
+"orgao": "CONSORCIO PUBLICO INTERFEDERATIVO DE SAUDE DA REGIAO DE ILHEUS",
+"cnpj": "51680138000110",
+"esfera": "Não informado",
+"poder": "Executivo",
+"unidade": "Consórcio Público Interfederativo de Saúde da Região de Ilhéus - CISTEC ",
+"municipio": "Ilhéus",
+"uf": "BA",
+"codigoIbge": "2913606",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS CONTINUADOS DE TELEDIAGNÓSTICO, COM EMISSÃO DE LAUDOS DE EXAMES RADIOLÓGICOS E DE DIAGNÓSTICO POR IMAGEM, MÉTODOS GRÁFICOS E ESPIROMETRIA, INCLUINDO OS RECURSOS TECNOLÓGICOS, OPERACIONAIS E PROFISSIONAIS NECESSÁRIOS À EXECUÇÃO DOS SERVIÇOS, PARA ATENDER ÀS NECESSIDADES DA POLICLÍNICA REGIONAL DE SAÚDE EM ILHÉUS, ADMINISTRADA PELO CISTEC",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 2320280.0,
+"dataEncerramentoProposta": "2026-10-13T09:59:00",
+"dataPublicacaoPncp": "2026-09-30T17:38:12",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Assistencial / telessaúde"
+],
+"cnaes": [
+"86.30-5/03 · 86.50"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]ywohAmWJMgwI5AuKiTtueSe0Snw9rSK2pFMx_08L_NxZETrHQLLNxi48SWDN9IK6e2Xa/SuSnvVbDwM2ZsDE68RAELfa/7O/M15uoqQpsIA=",
+"processo": "048/2026"
+},
+{
 "numeroControlePNCP": "63761902000160-1-000129/2026",
 "orgao": "MUNICIPIO DE CANDEIAS DO JAMARI",
 "cnpj": "63761902000160",
@@ -6779,6 +6809,38 @@
 "prioritario": false,
 "linkEdital": "",
 "processo": "000223/2026"
+},
+{
+"numeroControlePNCP": "08996378000107-1-000116/2026",
+"orgao": "CONSORCIO INTERMUNICIPAL DE SAUDE 8 DE ABRIL",
+"cnpj": "08996378000107",
+"esfera": "Não informado",
+"poder": "Executivo",
+"unidade": "Consórcio 8 de Abril",
+"municipio": "Mogi Mirim",
+"uf": "SP",
+"codigoIbge": "3530805",
+"objeto": "Contratação de pessoa jurídica especializada para prestação de serviços através de solução tecnológica SaaS, com interface web, sob o regime de locação/direito de uso, destinada a capitação por meio de credenciamento eletrônico de mão de obra especializada em saúde, para desempenhar atividades pertinentes ao atendimento em consultas, exames, procedimentos cirurgias e internações, bem como permitir a condução das etapas necessárias para sua consecução, compreendendo as seguintes soluções: Controle de acesso, comunicação interna, credenciamento e publicação junto ao PNCP, busca automática de CND’s junto a órgãos públicos, contrato de prestadores, assinatura de documentos por certificado digital padrão ICP-Brasil, cadastros, tabela de serviços, agendas médicas, controle de registro de atendimento médico por geolocalização, financeiro, fila de espera, regulação, agendamento, controle de atendimento médico ao paciente por reconhecimento biométrico facial, faturamento completo para prestadores e Municípios com geração de espelho de nota e emissão de nota fiscal, prontuário eletrônico, mecanismo de suporte eletrônico ao usuário, notificações ao paciente, conectividade (integração, importação e exportação) para o ministério da saúde, relatórios, gráficos, interfaces de conexão, cadastro e controle de pacientes integrados à RNDS, envio de mensagem de agendamento ao paciente, controle de transporte eletivo de pacientes, bem como migração de dados, implantação, suporte técnico, manutenção, rotinas de backup, treinamentos e atualizações, para atendimento ao Consórcio Intermunicipal de Saúde 8 de Abril.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 352899.32,
+"dataEncerramentoProposta": "2026-10-14T09:00:00",
+"dataPublicacaoPncp": "2026-09-30T17:02:06",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Apoio à gestão de saúde",
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"86.60-7/00",
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "1104"
 },
 {
 "numeroControlePNCP": "00489828000155-1-000561/2026",
@@ -7325,6 +7387,36 @@
 "processo": "40/2026"
 },
 {
+"numeroControlePNCP": "73449977000164-1-000054/2026",
+"orgao": "CONSORCIO INTERMUNICIPAL DE SAUDE COSTA OESTE DO PARANA",
+"cnpj": "73449977000164",
+"esfera": "Não informado",
+"poder": "Executivo",
+"unidade": "Consorcio Interm. de Saude CISCOPAR",
+"municipio": "Toledo",
+"uf": "PR",
+"codigoIbge": "4127700",
+"objeto": "Contratação de empresa especializada para fornecimento de licenças de uso de plataforma corporativa de Inteligência Artificial Generativa, disponibilizada na modalidade Software como Serviço (SaaS), contemplando gerenciamento de usuários, suporte técnico e atualizações, destinada ao apoio das atividades administrativas do CISCOPAR, pelo período de 12 (doze) meses.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 63725.28,
+"dataEncerramentoProposta": "2026-10-15T08:59:00",
+"dataPublicacaoPncp": "2026-09-30T17:00:17",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "55"
+},
+{
 "numeroControlePNCP": "13120613000104-1-000038/2026",
 "orgao": "MUNICIPIO DE LARANJEIRAS",
 "cnpj": "13120613000104",
@@ -7443,6 +7535,36 @@
 "prioritario": false,
 "linkEdital": "https://www.compras.rs.gov.br/editais/9302_2026/357474",
 "processo": "23/2158-0001564-5"
+},
+{
+"numeroControlePNCP": "13810386000149-1-000009/2026",
+"orgao": "FUNDO MUNICIPAL DE EDUCACAO DE SENADOR JOSE PORFIRIO",
+"cnpj": "13810386000149",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "FUNDO MUNICIPAL DE EDUCAÇÃO DE SENADOR JOSÉ PORFÍRIO/PA",
+"municipio": "Senador José Porfírio",
+"uf": "PA",
+"codigoIbge": "1507805",
+"objeto": "[LICITANET] - Registro de Preço para possível futura contratação de empresa especializada em desenvolvimento de sistemas integrados de gestão educacional aplicado exclusivamente ao setor público para fornecimento de licença de uso de software por prazo determinado (locação), com atualizações que garantam as alterações legais, corretivas e evolutivas, incluindo, serviços de implantação, conversão de dados legado, treinamento, suporte e atendimento técnico de todos os sistemas/módulos fornecidos",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 460170.27,
+"dataEncerramentoProposta": "2026-10-15T09:00:00",
+"dataPublicacaoPncp": "2026-09-30T17:03:50",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://licitanet.com.br/sessao/203415",
+"processo": "089/2026"
 },
 {
 "numeroControlePNCP": "18317693000106-1-000084/2026",
@@ -16877,6 +16999,126 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "136/2026"
+},
+{
+"numeroControlePNCP": "51278885000126-1-000030/2026",
+"orgao": "CAMARA MUNICIPAL DE CAMPO LIMPO PAULISTA",
+"cnpj": "51278885000126",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "CAMARA MUNICIPAL DE CAMPO LIMPO PAULISTA",
+"municipio": "Campo Limpo Paulista",
+"uf": "SP",
+"codigoIbge": "3509601",
+"objeto": "Contratacao de empresa especializada na area de engenharia de seguranca do trabalho e medicina  do trabalho para elaboracao de  PGR   Programa de Gerenciamento de Riscos  PCMSO   Programa  de Controle Medico de Saude Ocupacional  Exames Medicos Periodicos do PCMSO  Exames  Medicos Admissional   Demissional. Exames Complementares  conforme PGR e PCMSO . Pelo  periodo de 12 meses com possiblidade de prorrogacao.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 9247.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-09-30T17:23:57",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": " ",
+"processo": "23"
+},
+{
+"numeroControlePNCP": "02575599000117-1-000027/2026",
+"orgao": "CAMARA MUNICIPAL DE CANARANA - MT",
+"cnpj": "02575599000117",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "MMT-CÂMARA MUNICIPAL DE CANARANA",
+"municipio": "Canarana",
+"uf": "MT",
+"codigoIbge": "5102702",
+"objeto": "Contratação de empresa especializada em serviços de saúde e segurança do trabalho e gestão de eventos de SST para o e-Social.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 26315.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-09-30T17:47:11",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "29/2026"
+},
+{
+"numeroControlePNCP": "00394452000103-1-021322/2026",
+"orgao": "COMANDO DO EXERCITO",
+"cnpj": "00394452000103",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "1.DEPOSITO DE SUPRIMENTO/RJ",
+"municipio": "Rio de Janeiro",
+"uf": "RJ",
+"codigoIbge": "3304557",
+"objeto": "Contratação de serviço de Inteligência Artificial generativa (SaaS), em formato de chatbot, para atendimento automatizado e geração de documentos em Licitações e Contratos Administrativos. ",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 190500.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-09-30T17:06:46",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "64450.004210/2026-07"
+},
+{
+"numeroControlePNCP": "05995768000166-1-000016/2025",
+"orgao": "INSTITUTO DE PREVIDENCIA DOS SERVIDORES PUBLICOS DE LABREA - AM.",
+"cnpj": "05995768000166",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "INSTITUTO MUNICIPAL DE PREVIDENCIA - LABREA",
+"municipio": "Lábrea",
+"uf": "AM",
+"codigoIbge": "1302405",
+"objeto": "LICENCIAMENTO DE USO DE PROGRAMAS OU SISTEMA PARA ADMINISTRAÇÃO PÚBLICA MUNICIPAL E O TREINAMENTO DOS TÉCNICOS PARA A EXECUÇÃO DOS SERVIÇOS.",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 5376.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-09-30T17:30:55",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "5"
 }
 ]
 }
