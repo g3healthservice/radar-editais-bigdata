@@ -1,8 +1,8 @@
 {
-"build": 1790813905,
+"build": 1790833837,
 "geradoEm": "2026-10-01",
 "modo": "incremental",
-"totalCaptado": 569,
+"totalCaptado": 572,
 "itens": [
 {
 "numeroControlePNCP": "82939448000130-1-000206/2026",
@@ -5879,6 +5879,36 @@
 "processo": "035/2026"
 },
 {
+"numeroControlePNCP": "06450191000170-1-000071/2026",
+"orgao": "MUNICIPIO DE ARAIOSES",
+"cnpj": "06450191000170",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Araioses - MA",
+"municipio": "Araioses",
+"uf": "MA",
+"codigoIbge": "2100907",
+"objeto": "Registro de preços para futura e eventual contratação de empresa especializada para Contratação de empresa de tecnologia da informação para fornecimento de licença de uso de software de gestão escolar para atender todas as Unidades de Ensino do Município do Municipio de Araioses/MA",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-10-12T10:59:00",
+"dataPublicacaoPncp": "2026-09-30T20:56:09",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=48693",
+"processo": "202609064/2026-CPL/PMA"
+},
+{
 "numeroControlePNCP": "00460195000152-1-000007/2026",
 "orgao": "INSTITUTO DE PREV DOS SERVID PUBLICOS MUNIC DE NANUQUE",
 "cnpj": "00460195000152",
@@ -6841,6 +6871,38 @@
 "prioritario": false,
 "linkEdital": "",
 "processo": "1104"
+},
+{
+"numeroControlePNCP": "07146301000177-1-000013/2026",
+"orgao": "MUNICIPIO DE CHAVAL",
+"cnpj": "07146301000177",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Unidade Única",
+"municipio": "Chaval",
+"uf": "CE",
+"codigoIbge": "2303907",
+"objeto": "Contratação de empresa especializada para os serviços de treinamento, customização e atualização dos sistemas de contabilidade, portal da transparência e lei de acesso a informação, licitação, folha de pagamento, gestão de recursos humanos, sistema informativo de gestão do serviço e informação ao cidadão (E-SIC), sistema informatizado de gestão de ouvidoria, de interesse da Secretaria da Fazenda e Finanças Municipais de Chaval/CE",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 128840.04,
+"dataEncerramentoProposta": "2026-10-14T09:00:00",
+"dataPublicacaoPncp": "2026-09-30T23:27:11",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS",
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"62.02/62.03/63.11",
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://app2-compras.licitachavalce.com.br/pesquisa/9052",
+"processo": "0426082502"
 },
 {
 "numeroControlePNCP": "00489828000155-1-000561/2026",
@@ -8285,6 +8347,36 @@
 "prioritario": false,
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92698205000142026",
 "processo": "2025.560101.80607"
+},
+{
+"numeroControlePNCP": "90256652000184-1-000151/2026",
+"orgao": "MUNICIPIO DE IMBE",
+"cnpj": "90256652000184",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "GABINETE DO PREFEITO MUNICIPAL MUNICÍPIO DE IMBÉ",
+"municipio": "Imbé",
+"uf": "RS",
+"codigoIbge": "4310330",
+"objeto": "Contratação de pessoa jurídica para prestação de serviços técnicos especializados na área de tecnologia da informação, para licença de uso de software para gestão e controle do SUAS (Sistema Único de Assistência Social), bem como serviços de migração, conversão e integração de base de dados do sistema utilizado anteriormente. Implantação, treinamento de usuários, suporte técnico e manutenção em atendimento as necessidades da Secretaria de Desenvolvimento Social",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 25624.44,
+"dataEncerramentoProposta": "2026-10-20T08:30:00",
+"dataPublicacaoPncp": "2026-10-01T00:22:36",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://pregaobanrisul.com.br/editais/0082_2026/357508",
+"processo": "18536"
 },
 {
 "numeroControlePNCP": "51327708000192-1-000077/2026",
