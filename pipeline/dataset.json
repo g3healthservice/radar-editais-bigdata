@@ -1,8 +1,8 @@
 {
-"build": 1790900563,
+"build": 1790919675,
 "geradoEm": "2026-10-02",
 "modo": "incremental",
-"totalCaptado": 593,
+"totalCaptado": 594,
 "itens": [
 {
 "numeroControlePNCP": "06376974000150-1-000052/2026",
@@ -17845,6 +17845,36 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "0009391-31.2026.6.14.8000"
+},
+{
+"numeroControlePNCP": "82827148000169-1-000072/2026",
+"orgao": "MUNICIPIO DE PINHEIRO PRETO",
+"cnpj": "82827148000169",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Município de Pinheiro Preto",
+"municipio": "Pinheiro Preto",
+"uf": "SC",
+"codigoIbge": "4213005",
+"objeto": "INEXIGIBILIDADE PARA CONTRATAÇÃO DE SISTEMA INFORMATIZADO PARA GERENCIAMENTO, PUBLICAÇÃO E ATUALIZAÇÃO DAS LEGISLAÇÕES MUNICIPAIS",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 55500.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-02T00:00:04",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "39IL2026"
 }
 ]
 }
