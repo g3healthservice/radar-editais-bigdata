@@ -1,8 +1,8 @@
 {
-"build": 1790970101,
-"geradoEm": "2026-10-02",
+"build": 1790986426,
+"geradoEm": "2026-10-03",
 "modo": "incremental",
-"totalCaptado": 619,
+"totalCaptado": 624,
 "itens": [
 {
 "numeroControlePNCP": "45699626000176-1-000463/2026",
@@ -7391,6 +7391,36 @@
 "processo": "2025.560101.80607"
 },
 {
+"numeroControlePNCP": "18025999000199-1-000106/2026",
+"orgao": "MUNICIPIO DE SAO JOSE DO ALEGRE",
+"cnpj": "18025999000199",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE SÃO JOSÉ DO ALEGRE",
+"municipio": "São José do Alegre",
+"uf": "MG",
+"codigoIbge": "3163201",
+"objeto": "PRESTAÇÃO DE SERVIÇOS COM CESSÃO DE DIREITO DE USO DE SISTEMA INFORMATIZADO INTEGRADODE GESTÃO ORÇAMENTÁRIA, FINANCEIRA E ADMINISTRATIVA, DESTINADO AO ATENDIMENTO DA PREFEITURAMUNICIPAL DE SÃO JOSÉ DO ALEGRE, CONTEMPLANDO OS MÓDULOS DE PLANEJAMENTO E ORÇAMENTO,CONTABILIDADE PÚBLICA, TESOURARIA, PATRIMÔNIO, ALMOXARIFADO, COMPRAS, LICITAÇÕES E CONTRATOS,CONTROLE DE FROTA, RECURSOS HUMANOS, FOLHA DE PAGAMENTO, TRIBUTAÇÃO MUNICIPAL, NOTA FISCALDE SERVIÇOS ELETRÔNICA (NFS-E), PROTOCOLO E CONTROLE DE ",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 139200.0,
+"dataEncerramentoProposta": "2026-10-19T10:00:00",
+"dataPublicacaoPncp": "2026-10-02T16:37:10",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "125/2026"
+},
+{
 "numeroControlePNCP": "31443526000170-1-000039/2026",
 "orgao": "DEFENSORIA PUBLICA DO ESTADO DO RIO DE JANEIRO-DPE",
 "cnpj": "31443526000170",
@@ -8081,6 +8111,36 @@
 "processo": "53.01360/2026-0"
 },
 {
+"numeroControlePNCP": "42498733000148-1-002011/2026",
+"orgao": "MUNICIPIO DE RIO DE JANEIRO",
+"cnpj": "42498733000148",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MRJ-PREFEITURA MUNICIPAL DO RIO DE JANEIRO",
+"municipio": "Rio de Janeiro",
+"uf": "RJ",
+"codigoIbge": "3304557",
+"objeto": "Prestação de Serviços de disponibilização de solução de computação em nuvem privada, compreendendo Infraestrutura como Serviço (IaaS), Plataforma como Serviço (PaaS) e Software como Serviço (SaaS), incluindo implantação, suporte técnico e operação, para atender às necessidades da MOBI-Rio, pelo período de 24 (vinte e quatro) meses, caracterizados e especificados neste Edital e/ou no Termo de Referência, na forma da lei. ",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-10-20T11:00:00",
+"dataPublicacaoPncp": "2026-10-02T16:08:17",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98600105017572026",
+"processo": "007300.001875/2026-31"
+},
+{
 "numeroControlePNCP": "33654831000136-1-000025/2026",
 "orgao": "CONSELHO NACIONAL DE DESENVOLVIMENTO CIENTIFICO E TECNOLOGICO-CNPQ",
 "cnpj": "33654831000136",
@@ -8139,6 +8199,36 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "5883/2026"
+},
+{
+"numeroControlePNCP": "92963560000160-1-001269/2026",
+"orgao": "MUNICIPIO DE PORTO ALEGRE",
+"cnpj": "92963560000160",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "DLC - Diretoria de Licitações e Contratos",
+"municipio": "Porto Alegre",
+"uf": "RS",
+"codigoIbge": "4314902",
+"objeto": "[Portal de Compras Públicas] - Contratação de empresa para prestação de serviços relativos a licença de uso do Sistema de Administração de Créditos Imobiliários contratos ativos e inativos que compõem a carteira de créditos hipotecários do DEMHAB, legislados ou não pelo Sistema Financeiro de Habitação  SFH e assemelhados, em formato SaaS (Software as a Service), para uso nas instalações do Departamento Municipal de Habitação - DEMHAB, abrangendo os serviços relacionados conforme especificações e condições estabelecidas no TR",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 698615.01,
+"dataEncerramentoProposta": "2026-10-21T08:59:00",
+"dataPublicacaoPncp": "2026-10-02T16:55:44",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Porto-Alegre-206/PE-334-2026-2026-516054",
+"processo": "26.14.000000588-3"
 },
 {
 "numeroControlePNCP": "76484013000145-1-000106/2026",
@@ -8349,6 +8439,36 @@
 "prioritario": false,
 "linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]ZfPdCCekmiVbm0BP8lJBZe7DG9oksATCVzwNB3p1dZB8uZ5yHE98D5elezSUuoJYrMxTt9h2rRKuwFn1JOqTtjrcX7HZH85slu2y_SUBNUg=",
 "processo": "1045/2026"
+},
+{
+"numeroControlePNCP": "82777251000141-1-000060/2026",
+"orgao": "MUNICIPIO DE TREZE TILIAS",
+"cnpj": "82777251000141",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Treze Tilias",
+"municipio": "Treze Tílias",
+"uf": "SC",
+"codigoIbge": "4218509",
+"objeto": "[Portal de Compras Públicas] - Contratação de empresa especializada para fornecimento, implantação, configuração, treinamento, suporte e manutenção (corretiva, adaptativa e evolutiva) de solução integrada de comunicação em plataforma multicanal de atendimento centralizado, em nuvem (SaaS), incluindo: PABX virtual, automação de atendimentos e mensagens de WhatsApp Business API, com Chatbot e gestão de filas de atendimento por múltiplos operadores, envio e recebimento de mensagens com sessões de atendimento e protocolo; webchat (comunicador instantâneo interno); módulo de Gestão de Tarefas e módulo Helpdesk, para atendimento das demandas operacionais e necessidades das secretarias que compõem o Município de Treze Tílias, Fundo Municipal de Saúde e Fundo Municipal de Assistência Social, conforme especificações técnicas no Termo de Referência, nos termos da tabela abaixo, conforme condições e exigências estabelecidas neste instrumento.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 125203.2,
+"dataEncerramentoProposta": "2026-10-22T08:30:00",
+"dataPublicacaoPncp": "2026-10-02T17:16:16",
+"fonteRecurso": [
+"Fundo Municipal de Saúde"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/SC/Prefeitura-Municipal-de-Treze-Tilias-3952/PE-107-2026-2026-516061",
+"processo": "108 / 2026 - 91"
 },
 {
 "numeroControlePNCP": "46523239000147-1-000491/2026",
@@ -15155,7 +15275,7 @@
 "objeto": "Termo de Referência nº 065/2026/EMPAER-MT – Contratação de Empresa Especializada para Fornecimento de Solução de Gerenciamento de Dispositivos Móveis (MDM), em Ambiente de Nuvem, no Modelo Software as a Service (SaaS), para Gestão do Parque Tecnológico da EMPAER-MT",
 "modalidade": "Dispensa",
 "srp": false,
-"valorEstimado": null,
+"valorEstimado": 32775.84,
 "dataEncerramentoProposta": null,
 "dataPublicacaoPncp": "2026-09-28T15:40:01",
 "fonteRecurso": [
@@ -18623,6 +18743,36 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "25"
+},
+{
+"numeroControlePNCP": "44365866000171-1-000011/2026",
+"orgao": "AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS",
+"cnpj": "44365866000171",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS",
+"municipio": "Brasília",
+"uf": "DF",
+"codigoIbge": "5300108",
+"objeto": "Contratação da One Cursos Treinamento e Desenvolvimento, inscrita no CNPJ sob o nº 06.012.731/0001-33, para a prestação de serviços de capacitação de servidores, por meio do Curso Online: Governança, Gestão de Riscos e Compliance - uma abordagem teórica e prática na Administração Pública, com carga horária total de 21 horas/aula.",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 21980.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-02T17:31:20",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "00261.005282/2026-16"
 }
 ]
 }
