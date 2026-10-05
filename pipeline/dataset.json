@@ -1,8 +1,8 @@
 {
-"build": 1790986426,
-"geradoEm": "2026-10-03",
+"build": 1791178768,
+"geradoEm": "2026-10-05",
 "modo": "incremental",
-"totalCaptado": 624,
+"totalCaptado": 626,
 "itens": [
 {
 "numeroControlePNCP": "45699626000176-1-000463/2026",
@@ -5827,6 +5827,36 @@
 "prioritario": false,
 "linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]4bonoKGCckmHxoXgMo/be2a6uGKC7zQlRRHR/qkk3p7y_J5fQVDu8sjw0rbjbeSWxo0yw5NnYJW6CFLw2iUAot3XzuivUTGsXB7KKZqwhFQ=",
 "processo": "141/2026"
+},
+{
+"numeroControlePNCP": "10105955000167-1-000020/2026",
+"orgao": "MUNICIPIO DE ARCOVERDE",
+"cnpj": "10105955000167",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICIPIO DE ARCOVERDE",
+"municipio": "Arcoverde",
+"uf": "PE",
+"codigoIbge": "2601201",
+"objeto": "CONTRATAÇÃO DE SERVIÇOS ESPECIALIZADOS DE INTEGRAÇÃO DIGITAL E FORNECIMENTO DE SOLUÇÕES FINANCEIRAS POR API, NA MODALIDADE SOFTWARE COMO SERVIÇO (SAAS), CONSISTENTES NO FORNECIMENTO, IMPLANTAÇÃO, MANUTENÇÃO, SUPORTE E ATUALIZAÇÃO DE PLATAFORMA INFORMATIZADA PARA OTIMIZAÇÃO DA ARRECADAÇÃO E DOS PAGAMENTOS DO MUNICÍPIO, INCLUSIVE COM SERVIÇO DE MENSAGERIA",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 864000.0,
+"dataEncerramentoProposta": "2026-10-15T08:00:00",
+"dataPublicacaoPncp": "2026-10-03T10:08:19",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]z058FxLP_rkDlCuiNw2R2JJBTjz/B7JTSKmkFiAdK9g9TXHqkk/8pRgr5Q8b0KnwZ9AVnAc9_YAZHtQut84GYRs3nkHm8HmdsyjpqcE7lCM=",
+"processo": "244/2026"
 },
 {
 "numeroControlePNCP": "17058108000138-1-000111/2026",
@@ -18773,6 +18803,36 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "00261.005282/2026-16"
+},
+{
+"numeroControlePNCP": "20199198000191-1-000013/2026",
+"orgao": "CONSORCIO DE DESENVOLVIMENTO ECONOMICO DO PLANALTO NORTE",
+"cnpj": "20199198000191",
+"esfera": "Não informado",
+"poder": "Executivo",
+"unidade": "Consórcio de Desenvolvimento Econômico do Planalto Norte",
+"municipio": "Mafra",
+"uf": "SC",
+"codigoIbge": "4210100",
+"objeto": "Contratação de serviços de medicina ocupacional para a realização de cinco exames periódicos,\num exame admissional e dois exames demissionais, destinados aos colaboradores do CODEPLANSC.\nA medida visa atender às rotinas de acompanhamento da saúde ocupacional e às exigências\naplicáveis da NR-7 e do Programa de Controle Médico de Saúde Ocupacional (PCMSO), conforme\no vínculo e os riscos ocupacionais envolvidos",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 520.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-03T00:00:11",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "12-2026"
 }
 ]
 }
