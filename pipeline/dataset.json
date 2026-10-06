@@ -1,69 +1,9 @@
 {
-"build": 1791241371,
-"geradoEm": "2026-10-05",
+"build": 1791267433,
+"geradoEm": "2026-10-06",
 "modo": "incremental",
-"totalCaptado": 641,
+"totalCaptado": 639,
 "itens": [
-{
-"numeroControlePNCP": "14239578000100-1-000239/2026",
-"orgao": "MUNICIPIO DE VITORIA DA CONQUISTA",
-"cnpj": "14239578000100",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Prefeitura Municipal de Vitória da Conquista",
-"municipio": "Vitória da Conquista",
-"uf": "BA",
-"codigoIbge": "2933307",
-"objeto": "SOLUÇÃO EM NUVEM PARA ATENDIMENTO DIGITAL ",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 64896.0,
-"dataEncerramentoProposta": "2026-10-05T23:59:00",
-"dataPublicacaoPncp": "2026-09-29T09:58:14",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://licitacoes.pmvc.ba.gov.br/licitacao/76a53a68-03e0-45a1-8cc1-a7ad765c8f6d",
-"processo": "200112/2026"
-},
-{
-"numeroControlePNCP": "10358182000120-1-000016/2026",
-"orgao": "MUNICIPIO DE SANTA MARIA DA BOA VISTA",
-"cnpj": "10358182000120",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNICIPAL DE SANTA MARIA DA BOA VISTA - PE",
-"municipio": "Santa Maria da Boa Vista",
-"uf": "PE",
-"codigoIbge": "2612604",
-"objeto": "Prestação de serviços em Segurança e Saúde do Trabalho (SST), com o objetivo de garantir o cumprimento das normas regulamentadoras vigentes e promover condições adequadas de trabalho aos servidores municipais.",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 59400.0,
-"dataEncerramentoProposta": "2026-10-06T00:00:00",
-"dataPublicacaoPncp": "2026-09-29T11:50:23",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Psicologia / riscos psicossociais"
-],
-"cnaes": [
-"86.50-0/03"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]DZF_1lmv1sWtGN07JVaLo6pdEepVCidHwPJpyfpv3t7hxBj/q7gGhmvZVX2VAQN86RK0lAH67gBVwWqDY3cTL91KRYd74398bMuRbEHYwYM=",
-"processo": "027-2026"
-},
 {
 "numeroControlePNCP": "01740497000147-1-000090/2026",
 "orgao": "MUNICIPIO DE FLORES DE GOIAS",
