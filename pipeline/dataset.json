@@ -1,8 +1,8 @@
 {
-"build": 1791331922,
+"build": 1791352080,
 "geradoEm": "2026-10-07",
 "modo": "incremental",
-"totalCaptado": 667,
+"totalCaptado": 668,
 "itens": [
 {
 "numeroControlePNCP": "11201252000103-1-000018/2026",
@@ -20061,6 +20061,36 @@
 "prioritario": true,
 "linkEdital": null,
 "processo": "SD.0214-2026"
+},
+{
+"numeroControlePNCP": "04272905000171-1-000009/2026",
+"orgao": "INSTITUTO DE PREVIDENCIA SOCIAL DOS SERVIDORES PUBLICOS MUNICIPAIS DE CACADOR - IPASC",
+"cnpj": "04272905000171",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "IPASC - Instituto de Previdência Social dos Servidores Públicos Municipais de Caçador",
+"municipio": "Caçador",
+"uf": "SC",
+"codigoIbge": "4203006",
+"objeto": "Contratação de 03 (três) inscrições para participação de servidores e de membros do Comitê de Investimentos do IPASC no curso “IMERSÃO COMPLIANCE - Os erros que seu RPPS não pode cometer. Seus processos resistem à auditoria?”, promovido pela empresa LEMA Edu (LEMA Treinamentos LTDA.), no período de 07 a 09 de outubro de 2026, no município de Curitiba/PR, nos termos do art. 74, III, “f”, da Lei nº 14.133/2021.",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 6600.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-07T00:00:30",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "IL 007/2026"
 }
 ]
 }
