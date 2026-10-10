@@ -1,69 +1,9 @@
 {
-"build": 1791575734,
-"geradoEm": "2026-10-09",
+"build": 1791592351,
+"geradoEm": "2026-10-10",
 "modo": "incremental",
-"totalCaptado": 746,
+"totalCaptado": 749,
 "itens": [
-{
-"numeroControlePNCP": "13719646000175-1-000190/2026",
-"orgao": "MUNICIPIO DE ITABERABA",
-"cnpj": "13719646000175",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "FUNDO MUNICIPAL DE SAÚDE",
-"municipio": "Itaberaba",
-"uf": "BA",
-"codigoIbge": "2914703",
-"objeto": "Contratação de empresa especializada para fornecimento de sistema de controle de ponto\r\neletrônico, com licenças de uso, locação, suporte e instalação, para atender às necessidades do Fundo\r\nMunicipal de Saúde de Itaberaba/BA. \r\n",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 64646.22,
-"dataEncerramentoProposta": "2026-10-09T23:59:00",
-"dataPublicacaoPncp": "2026-10-06T16:59:19",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Gestão de RH / escalas e ponto"
-],
-"cnaes": [
-"78.30-2/00"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "sai.io.org.br/site/PublicadoPncp/171969?localConsulta=2&title=2&cod=1688",
-"processo": "FMS - 079/2026"
-},
-{
-"numeroControlePNCP": "63606479000124-1-001035/2025",
-"orgao": "ESTADO DO ACRE",
-"cnpj": "63606479000124",
-"esfera": "Estadual",
-"poder": "Não informado",
-"unidade": "SECRETARIA DE ESTADO DE SAUDE",
-"municipio": "Rio Branco",
-"uf": "AC",
-"codigoIbge": "1200401",
-"objeto": "Contratação emergencial de empresa(s) especializada(s) no fornecimento de serviços de conectividade e solução de segurança da informação, incluindo o suporte ao prontuário eletrônico estadual, isto, visando a manutenção da infraestrutura tecnológica e garantindo o funcionamento diário dos serviços executados nas unidades adiminstrativas e hospitalares, no âmbito da Secretaria de Estado de Saúde do Acre - SESACRE.",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": null,
-"dataEncerramentoProposta": "2026-10-09T23:59:00",
-"dataPublicacaoPncp": "2026-10-07T10:27:43",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Apoio à gestão de saúde"
-],
-"cnaes": [
-"86.60-7/00"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": null,
-"processo": "0019.004664.00137/2026-87"
-},
 {
 "numeroControlePNCP": "04407139000105-1-000031/2026",
 "orgao": "INSTITUTO DE PREVIDENCIA SOCIAL DOS SERVIDORES DE PLANALTINA",
@@ -93,38 +33,6 @@
 "prioritario": false,
 "linkEdital": "",
 "processo": "20462"
-},
-{
-"numeroControlePNCP": "46634374000160-1-000136/2026",
-"orgao": "MUNICIPIO DE ITABERA",
-"cnpj": "46634374000160",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNICIPAL DE ITABERA - SP",
-"municipio": "Itaberá",
-"uf": "SP",
-"codigoIbge": "3521705",
-"objeto": "Contratação de empresa para prestações de serviços contínuos de Licença de uso de sistema de gerenciamento de ponto eletrônico dos servidores públicos municipais.",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": null,
-"dataEncerramentoProposta": "2026-10-12T09:00:00",
-"dataPublicacaoPncp": "2026-10-05T09:35:32",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS",
-"Gestão de RH / escalas e ponto"
-],
-"cnaes": [
-"62.02/62.03/63.11",
-"78.30-2/00"
-],
-"categoria": "disputar",
-"prioritario": true,
-"linkEdital": "https://www.itabera.sp.gov.br/portal/editais/0/1/2806",
-"processo": "0/2026"
 },
 {
 "numeroControlePNCP": "06450191000170-1-000071/2026",
@@ -2507,6 +2415,38 @@
 "processo": "164854/2024"
 },
 {
+"numeroControlePNCP": "46634374000160-1-000136/2026",
+"orgao": "MUNICIPIO DE ITABERA",
+"cnpj": "46634374000160",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE ITABERA - SP",
+"municipio": "Itaberá",
+"uf": "SP",
+"codigoIbge": "3521705",
+"objeto": "Contratação de empresa para prestações de serviços contínuos de Licença de uso de sistema de gerenciamento de ponto eletrônico dos servidores públicos municipais.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-10-15T09:00:00",
+"dataPublicacaoPncp": "2026-10-05T09:35:32",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS",
+"Gestão de RH / escalas e ponto"
+],
+"cnaes": [
+"62.02/62.03/63.11",
+"78.30-2/00"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": "https://www.itabera.sp.gov.br/portal/editais/0/1/2806",
+"processo": "0/2026"
+},
+{
 "numeroControlePNCP": "13120613000104-1-000038/2026",
 "orgao": "MUNICIPIO DE LARANJEIRAS",
 "cnpj": "13120613000104",
@@ -2865,6 +2805,36 @@
 "prioritario": false,
 "linkEdital": "",
 "processo": "21814/2026"
+},
+{
+"numeroControlePNCP": "10572063000176-1-000010/2026",
+"orgao": "POLICIA CIVIL DE PERNAMBUCO",
+"cnpj": "10572063000176",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "UNID TEC DE IDENTIFICACAO CIVIL-IITB",
+"municipio": "Araripina",
+"uf": "PE",
+"codigoIbge": "2601102",
+"objeto": "LICENCA DE USO DE SOFTWARE - PLATAFORMA DE LOCALIZACAO DE DADOS CADASTRAIS DE PESSOAS FISICAS E/OU JURIDICAS.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 1400.0,
+"dataEncerramentoProposta": "2026-10-15T17:00:00",
+"dataPublicacaoPncp": "2026-10-09T17:02:09",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "www.peintegrado.pe.gov.br/Portal/Pages/DispensaLicitacoes.aspx?ncdmodulo=19&sdsprocesso=0008.2026.CCD.DL.0002.POLCIV-SDS&nCdProcesso=170183&nCdSituacao=1",
+"processo": "0008.2026.CCD.DL.0002.POLCIV-SDS"
 },
 {
 "numeroControlePNCP": "07947821000189-1-000145/2026",
@@ -4907,6 +4877,36 @@
 "prioritario": false,
 "linkEdital": "https://www.gp.srv.br/transparencia_novamutum/servlet/licitacoes_v2?1",
 "processo": "00001225/2026"
+},
+{
+"numeroControlePNCP": "03779133000104-1-000125/2026",
+"orgao": "SERVICO SOCIAL DA INDUSTRIA - SESI",
+"cnpj": "03779133000104",
+"esfera": "Não informado",
+"poder": "Não informado",
+"unidade": "SESI SP - GERENCIA DE LICITACOES",
+"municipio": "São Paulo",
+"uf": "SP",
+"codigoIbge": "3550308",
+"objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS DE FORNECIMENTO DE PLATAFORMA INTEGRADA DE WEB APPLICATION AND API PROTECTION (WAAP), NA MODALIDADE SOFTWARE AS A SERVICE (SAAS), PARA O SESI-SP E SENAI-SP.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-10-20T09:30:00",
+"dataPublicacaoPncp": "2026-10-09T18:31:57",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1102392",
+"processo": "2026-005894"
 },
 {
 "numeroControlePNCP": "13937032000160-1-002694/2026",
@@ -22429,6 +22429,96 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "69"
+},
+{
+"numeroControlePNCP": "88227764000165-1-000983/2026",
+"orgao": "MUNICIPIO DE TUPANCIRETA",
+"cnpj": "88227764000165",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL",
+"municipio": "Tupanciretã",
+"uf": "RS",
+"codigoIbge": "4322202",
+"objeto": "Contratacao de empresa ou profissional medico especializado em Medicina do Trabalho e Saude Ocupacional para realizacao de pericia tecnica individual.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 1800.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-09T16:41:38",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": " ",
+"processo": "1002"
+},
+{
+"numeroControlePNCP": "29418027000180-1-000013/2026",
+"orgao": "CONSELHO REGIONAL DE MUSEOLOGIA - SEGUNDA REGIAO (ES/RJ/MG)",
+"cnpj": "29418027000180",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "CRJ-CONSELHO REG. DE MUSEOLOGIA DA 2ª REGIÃO",
+"municipio": "Rio de Janeiro",
+"uf": "RJ",
+"codigoIbge": "3304557",
+"objeto": "Contratação de empresa especializada para prestação continuada de serviços de Segurança e Saúde no Trabalho – SST, pelo período de 12 meses, abrangendo PGR, AEP e riscos psicossociais, PCMSO, LTCAT, exames ocupacionais e ASO, PPP, eventos de SST no eSocial e suporte técnico aos empregados do COREM 2R.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 2760.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-09T18:44:41",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": null,
+"processo": "247/2026"
+},
+{
+"numeroControlePNCP": "95815379000102-1-000045/2026",
+"orgao": "MUNICIPIO DE BOMBINHAS",
+"cnpj": "95815379000102",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PROCURADORIA GERAL",
+"municipio": "Bombinhas",
+"uf": "SC",
+"codigoIbge": "4202453",
+"objeto": "Contratação de solução tecnológica especializada de inteligência artificial jurídica, mediante cessão de direito de uso/licenciamento de software, destinada ao apoio às atividades da Procuradoria-Geral do Município de Bombinhas/SC, contemplando 07 (sete) licenças individuais, pelo período de 60 (sessenta) meses, com funcionalidades de análise de processos e documentos, elaboração assistida de minutas e peças jurídicas, pesquisa de jurisprudência, integração com sistemas processuais e administrativos, suporte técnico, atualizações e recursos de segurança da informação.",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 44100.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-09T17:05:02",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "51/2026"
 }
 ]
 }
