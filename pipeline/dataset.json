@@ -1,39 +1,9 @@
 {
-"build": 1791592351,
-"geradoEm": "2026-10-10",
+"build": 1791784212,
+"geradoEm": "2026-10-12",
 "modo": "incremental",
 "totalCaptado": 749,
 "itens": [
-{
-"numeroControlePNCP": "04407139000105-1-000031/2026",
-"orgao": "INSTITUTO DE PREVIDENCIA SOCIAL DOS SERVIDORES DE PLANALTINA",
-"cnpj": "04407139000105",
-"esfera": "Municipal",
-"poder": "Executivo",
-"unidade": "ATIVIDADES DO PREVPLAN",
-"municipio": "Planaltina",
-"uf": "GO",
-"codigoIbge": "5217609",
-"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA ELABORAÇÃO DE CÁLCULO ATUARIAL DO RPPS, VISANDO AVALIAR SEU EQUILÍBRIO FINANCEIRO E ATUARIAL",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 8500.0,
-"dataEncerramentoProposta": "2026-10-11T10:32:53",
-"dataPublicacaoPncp": "2026-10-08T16:50:35",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Auditoria / consultoria atuarial"
-],
-"cnaes": [
-"66.21-5/02"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "",
-"processo": "20462"
-},
 {
 "numeroControlePNCP": "06450191000170-1-000071/2026",
 "orgao": "MUNICIPIO DE ARAIOSES",
@@ -22519,6 +22489,36 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "51/2026"
+},
+{
+"numeroControlePNCP": "46426573000182-1-000013/2026",
+"orgao": "CAMARA DO MUNICIPIO DE MARTINOPOLIS",
+"cnpj": "46426573000182",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "CAMARA MUNICIPAL DE MARTINOPOLIS",
+"municipio": "Martinópolis",
+"uf": "SP",
+"codigoIbge": "3529203",
+"objeto": "Contratação de solução integrada de gestão administrativa e legislativa em plataforma web, na modalidade SaaS, abrangendo a licença de uso e os serviços continuados, bem como a implantação e a transição tecnológica.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 56457.37,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-09T21:36:04",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "http://177.91.125.85:8079/compraseditalc/comprasedital.dll",
+"processo": "11"
 }
 ]
 }
