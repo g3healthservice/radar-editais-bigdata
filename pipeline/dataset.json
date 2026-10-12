@@ -1,39 +1,9 @@
 {
-"build": 1791784212,
+"build": 1791818930,
 "geradoEm": "2026-10-12",
 "modo": "incremental",
-"totalCaptado": 749,
+"totalCaptado": 748,
 "itens": [
-{
-"numeroControlePNCP": "06450191000170-1-000071/2026",
-"orgao": "MUNICIPIO DE ARAIOSES",
-"cnpj": "06450191000170",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Prefeitura Municipal de Araioses - MA",
-"municipio": "Araioses",
-"uf": "MA",
-"codigoIbge": "2100907",
-"objeto": "Registro de preços para futura e eventual contratação de empresa especializada para Contratação de empresa de tecnologia da informação para fornecimento de licença de uso de software de gestão escolar para atender todas as Unidades de Ensino do Município do Municipio de Araioses/MA",
-"modalidade": "Pregão - Eletrônico",
-"srp": true,
-"valorEstimado": null,
-"dataEncerramentoProposta": "2026-10-12T10:59:00",
-"dataPublicacaoPncp": "2026-09-30T20:56:09",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=48693",
-"processo": "202609064/2026-CPL/PMA"
-},
 {
 "numeroControlePNCP": "23776503000159-1-000014/2026",
 "orgao": "PAINEIRAS CAMARA MUNICIPAL",
