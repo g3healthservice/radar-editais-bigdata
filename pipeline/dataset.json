@@ -1,39 +1,9 @@
 {
-"build": 1791926797,
-"geradoEm": "2026-10-13",
+"build": 1791940698,
+"geradoEm": "2026-10-14",
 "modo": "incremental",
-"totalCaptado": 773,
+"totalCaptado": 774,
 "itens": [
-{
-"numeroControlePNCP": "03184058000120-1-000104/2026",
-"orgao": "MUNICIPIO DE BRASILANDIA",
-"cnpj": "03184058000120",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "MUNICÍPIO DE BRASILANDIA",
-"municipio": "Brasilândia",
-"uf": "MS",
-"codigoIbge": "5002308",
-"objeto": "Contratação de empresa especializada de tecnologia da informação para o fornecimento de Sistema de Gestão Escolar em Nuvem (SaaS), incluindo Licenciamento do Software, Implantação e Migração dos dados antigos, Treinamento para Servidores, Suporte Técnico e Manutenção de Sistema, para atender as Unidades Escolares e Secretaria Municipal de Educação e Cultura bem como seus respectivos Núcleos/Departamentos.",
-"modalidade": "Pregão - Presencial",
-"srp": false,
-"valorEstimado": null,
-"dataEncerramentoProposta": "2026-10-13T23:59:00",
-"dataPublicacaoPncp": "2026-09-23T08:15:09",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "http://portal.brasilandia.ms.gov.br:8079/transparenciacm/?fbclid=IwZXh0bgNhZW0CMTAAAR19ZyVhdP3KwS7sfopswuAXjQ2bSQHzIPeZUFGTylmsOB0fiMhpSZ6TFsk_aem_AdxlNojlEFka9gQ2SWbQeONKuyu0ashVZZZ-DFa1hsI7fryqKu5vSbABUCKpOIfqwRzZFI-Jb_IZ1TISiScCS04m",
-"processo": "28"
-},
 {
 "numeroControlePNCP": "18295295000136-1-000259/2026",
 "orgao": "MUNICIPIO DE OURO PRETO",
@@ -7433,6 +7403,36 @@
 "prioritario": false,
 "linkEdital": "",
 "processo": "912/2026"
+},
+{
+"numeroControlePNCP": "13761705000173-1-000059/2026",
+"orgao": "MUNICIPIO DE MUCURI",
+"cnpj": "13761705000173",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE MUCURI",
+"municipio": "Mucuri",
+"uf": "BA",
+"codigoIbge": "2922003",
+"objeto": "CONTRATAÇÃO DE SOLUÇÃO EM TECNOLOGIA DA INFORMAÇÃO, POR MEIO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS TÉCNICOS DE CESSÃO DE USO, IMPLANTAÇÃO, MIGRAÇÃO/CONVERSÃO DE DADOS, TREINAMENTO, SUPORTE TÉCNICO E MANUTENÇÃO DE SISTEMA INFORMATIZADO DE GESTÃO HOSPITALAR PARA O HOSPITAL MUNICIPAL SÃO JOSÉ.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 40765.5,
+"dataEncerramentoProposta": "2026-10-27T09:35:00",
+"dataPublicacaoPncp": "2026-10-13T18:30:11",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1100096",
+"processo": "43"
 },
 {
 "numeroControlePNCP": "00394460000141-1-000735/2026",
@@ -23241,6 +23241,36 @@
 "prioritario": true,
 "linkEdital": null,
 "processo": "16430/2026"
+},
+{
+"numeroControlePNCP": "26989715000102-1-001647/2026",
+"orgao": "MINISTERIO PUBLICO DA UNIAO",
+"cnpj": "26989715000102",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "PROCURADORIA REGIONAL DA REPUBLICA-2A.REGIÃO",
+"municipio": "Rio de Janeiro",
+"uf": "RJ",
+"codigoIbge": "3304557",
+"objeto": "Contratação de pessoa jurídica especializada para ministrar Curso de Yoga, com foco na Saúde Mental, no formato presencial, in company, com oito encontros de uma hora, turma de até 12 participantes e execução pessoal por Rodrigo Iorio, visando à Melhoria da Qualidade de Vida no Trabalho para os membros, servidores, terceirizados e estagiários da PRR 2ª Região, situada na Avenida Almirante Barroso, 54 – Centro, Rio de Janeiro-RJ, na forma descrita no Termo de Referência.",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 1600.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-13T19:08:54",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "1.02.000.000117/2026-19"
 }
 ]
 }
