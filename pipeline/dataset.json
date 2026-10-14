@@ -1,39 +1,9 @@
 {
-"build": 1791940698,
+"build": 1791963420,
 "geradoEm": "2026-10-14",
 "modo": "incremental",
-"totalCaptado": 774,
+"totalCaptado": 776,
 "itens": [
-{
-"numeroControlePNCP": "18295295000136-1-000259/2026",
-"orgao": "MUNICIPIO DE OURO PRETO",
-"cnpj": "18295295000136",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "SECRETARIA MUNICIPAL DE SEGURANÇA E TRÂNSITO",
-"municipio": "Ouro Preto",
-"uf": "MG",
-"codigoIbge": "3146107",
-"objeto": "CONTRATAÇAO DE EMPRESA ESPECIALIZADA PARA PRESTAÇAO DE SERVIÇOS DE DISPONIBILIZAÇAO DE SISTEMA INFORMATIZADO DE GESTÃO ADMINISTRATIVA DE TRANSITO, INCLUINDO PRE-PROCESSAMENTO E PROCESSAMNETO DAS IMFRAÇOES, DISPOPNIBILIZAÇAO DE TALONARIO ELETRONICO SISTEMA WEB DE ATENDIMENTO AO CIDADÃO, BEM COMO CESÃO DE LICENÇA DE USO POR TEMPO DETERMINADO, COMFORME CONDIÇOES ESPECIFICADAS  TECNICAS E QUANTITATIVOS ESTABELECIDOS NESTE TERMO DE REFERENCIA.",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 869999.28,
-"dataEncerramentoProposta": "2026-10-14T07:00:00",
-"dataPublicacaoPncp": "2026-09-28T07:51:51",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": null,
-"processo": "PL-229/2026 - PE - 19"
-},
 {
 "numeroControlePNCP": "75687681000107-1-000099/2026",
 "orgao": "MUNICIPIO DE GENERAL CARNEIRO",
@@ -7315,6 +7285,36 @@
 "processo": "15478/2026"
 },
 {
+"numeroControlePNCP": "45196698000109-1-000034/2026",
+"orgao": "MUNICIPIO DE BANANAL",
+"cnpj": "45196698000109",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Bananal",
+"municipio": "Bananal",
+"uf": "SP",
+"codigoIbge": "3504909",
+"objeto": "Contratação de empresa especializada para prestação de serviços de administração e gerenciamento compartilhado da manutenção preventiva e corretiva da frota de veículos, máquinas e equipamentos da Prefeitura Municipal de Bananal/SP, por meio de sistema informatizado e integrado de gestão, com disponibilização de rede credenciada de estabelecimentos especializados.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 378558.87,
+"dataEncerramentoProposta": "2026-10-27T08:30:00",
+"dataPublicacaoPncp": "2026-10-13T22:08:34",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "3504909.404.00004600/2026-07"
+},
+{
 "numeroControlePNCP": "95590832000111-1-000123/2026",
 "orgao": "MUNICIPIO DE PINHAL DO SAO BENTO",
 "cnpj": "95590832000111",
@@ -8005,6 +8005,36 @@
 "processo": "2025.0.000018271-0"
 },
 {
+"numeroControlePNCP": "00488478000102-1-000300/2026",
+"orgao": "SUPERIOR TRIBUNAL DE JUSTICA",
+"cnpj": "00488478000102",
+"esfera": "Federal",
+"poder": "Judiciário",
+"unidade": "STJ _ SUPERIOR TRIBUNAL DE JUSTICA/DF",
+"municipio": "Brasília",
+"uf": "DF",
+"codigoIbge": "5300108",
+"objeto": "Contratação de empresa especializada em serviço de CDN, WAF, proteção de DNS e API, proteção contra Bots, balanceamento de carga e mitigação de ataques de negação de serviço (DDoS), nas camadas 3 e 4 do modelo OSI, na modalidade SaaS, incluindo suporte técnico, garantia dos serviços e treinamento.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 8599110.72,
+"dataEncerramentoProposta": "2026-10-29T14:00:00",
+"dataPublicacaoPncp": "2026-10-14T04:00:21",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=05000105002772026",
+"processo": "032300/2025"
+},
+{
 "numeroControlePNCP": "06772859000103-1-000183/2026",
 "orgao": "MUNICIPIO DE SAO RAIMUNDO NONATO",
 "cnpj": "06772859000103",
@@ -8275,6 +8305,36 @@
 "prioritario": false,
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98756505000582026",
 "processo": "696/2026"
+},
+{
+"numeroControlePNCP": "05440725000114-1-000063/2026",
+"orgao": "FUNDACAO UNIVERSIDADE FEDERAL DO VALE DO SAO FRANCISCO",
+"cnpj": "05440725000114",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "FUND. UNIVERSIDADE FEDERAL VALE SAO FRANCISCO",
+"municipio": "Petrolina",
+"uf": "PE",
+"codigoIbge": "2611101",
+"objeto": "Contratação de Serviço Contínuo de Vigia e Controlador, em turnos diurnos e noturnos, com escala de trabalho 12X36, para atendimento dos projetos desenvolvidos pelo NGPS.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 461352.3,
+"dataEncerramentoProposta": "2026-11-03T09:00:00",
+"dataPublicacaoPncp": "2026-10-14T04:00:16",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Gestão de RH / escalas e ponto"
+],
+"cnaes": [
+"78.30-2/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15442105001142026",
+"processo": "23402.013998/2026-22"
 },
 {
 "numeroControlePNCP": "92787118000120-1-000959/2026",
