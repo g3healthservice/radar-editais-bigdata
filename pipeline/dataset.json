@@ -1,39 +1,9 @@
 {
-"build": 1792020360,
-"geradoEm": "2026-10-14",
+"build": 1792038279,
+"geradoEm": "2026-10-15",
 "modo": "incremental",
-"totalCaptado": 805,
+"totalCaptado": 804,
 "itens": [
-{
-"numeroControlePNCP": "01179647000195-1-000375/2026",
-"orgao": "MUNICIPIO DE PIRACANJUBA",
-"cnpj": "01179647000195",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PODER EXECUTIVO PIRACANJUBA",
-"municipio": "Piracanjuba",
-"uf": "GO",
-"codigoIbge": "5217104",
-"objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS NA ÁREA DE ENGENHARIA DE SEGURANÇA E MEDICINA DO TRABALHO – SST.",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": null,
-"dataEncerramentoProposta": "2026-10-15T00:00:00",
-"dataPublicacaoPncp": "2026-10-06T09:04:30",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Psicologia / riscos psicossociais"
-],
-"cnaes": [
-"86.50-0/03"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "",
-"processo": "8155"
-},
 {
 "numeroControlePNCP": "10105955000167-1-000020/2026",
 "orgao": "MUNICIPIO DE ARCOVERDE",
