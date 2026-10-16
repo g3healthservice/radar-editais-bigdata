@@ -1,8 +1,8 @@
 {
-"build": 1792100343,
-"geradoEm": "2026-10-15",
+"build": 1792111386,
+"geradoEm": "2026-10-16",
 "modo": "incremental",
-"totalCaptado": 833,
+"totalCaptado": 837,
 "itens": [
 {
 "numeroControlePNCP": "07947821000189-1-000145/2026",
@@ -5533,6 +5533,36 @@
 "processo": "175/2026"
 },
 {
+"numeroControlePNCP": "04253881000103-1-000061/2026",
+"orgao": "SERVICO NACIONAL DE APRENDIZAGEM RURAL - SENAR",
+"cnpj": "04253881000103",
+"esfera": "Não informado",
+"poder": "Não informado",
+"unidade": "SERVIÇO NACIONAL DE APRENDIZAGEM RURAL ADM REG MS",
+"municipio": "Campo Grande",
+"uf": "MS",
+"codigoIbge": "5002704",
+"objeto": "Contratação de solução tecnológica especializada para gestão estratégica, indicadores e gerenciamento de projetos, em ambiente 100% web e mobile, no modelo SaaS (Software as a Service), com fornecimento de licenças de uso por usuário, destinada ao planejamento, monitoramento e acompanhamento do Planejamento Estratégico do SENAR-AR/MS.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 93890.4,
+"dataEncerramentoProposta": "2026-10-26T09:30:00",
+"dataPublicacaoPncp": "2026-10-15T18:30:53",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1102162",
+"processo": "101/2026"
+},
+{
 "numeroControlePNCP": "01612355000102-1-000062/2026",
 "orgao": "MUNICIPIO DE PORTO REAL",
 "cnpj": "01612355000102",
@@ -7125,6 +7155,36 @@
 "processo": "19817/2026"
 },
 {
+"numeroControlePNCP": "04253881000103-1-000062/2026",
+"orgao": "SERVICO NACIONAL DE APRENDIZAGEM RURAL - SENAR",
+"cnpj": "04253881000103",
+"esfera": "Não informado",
+"poder": "Não informado",
+"unidade": "SERVIÇO NACIONAL DE APRENDIZAGEM RURAL ADM REG MS",
+"municipio": "Campo Grande",
+"uf": "MS",
+"codigoIbge": "5002704",
+"objeto": "Contratação de solução tecnológica, na modalidade Software como Serviço (SaaS), para automação da gestão de certidões de regularidade fiscal, incluindo implantação, treinamento, suporte técnico e atualizações, para atendimento das demandas do SENAR-AR/MS.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 49800.0,
+"dataEncerramentoProposta": "2026-10-29T14:00:00",
+"dataPublicacaoPncp": "2026-10-15T18:32:11",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1102593",
+"processo": "128/2026"
+},
+{
 "numeroControlePNCP": "06772859000103-1-000183/2026",
 "orgao": "MUNICIPIO DE SAO RAIMUNDO NONATO",
 "cnpj": "06772859000103",
@@ -7547,6 +7607,36 @@
 "prioritario": false,
 "linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]NT07auE0QPVoXCg86aRdM5ww99yQlNxsa2oSle2p38/azoyo38syWJ8HSb2LZ9RSt49SuTvQxRLUVqJaP7uLJGwSi_ZvnZRGxyzvmNgaOXQ=",
 "processo": "14/2026 - SMADM"
+},
+{
+"numeroControlePNCP": "45192275000102-1-000026/2026",
+"orgao": "MUNICIPIO DE CACHOEIRA PAULISTA",
+"cnpj": "45192275000102",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Cachoeira Paulista - SP",
+"municipio": "Cachoeira Paulista",
+"uf": "SP",
+"codigoIbge": "3508603",
+"objeto": "Contratação de empresa para fornecimento de Software as a Service (SaaS), de plataforma integrada de tecnologia da informação e gestão geográfica multifinalitária, com solução de monitoramento de alterações urbanas, rurais e invasões via satélite orbital, incluindo hospedagem em data center, central de atendimento, suporte e manutenção, implantação, capacitação e desenvolvimento incremental sob demanda, conforme condições, quantidades e exigências estabelecidas no Termo de Referência.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 775370.0,
+"dataEncerramentoProposta": "2026-11-03T08:30:00",
+"dataPublicacaoPncp": "2026-10-15T18:30:36",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "http://www.licitacaocachoeirapaulista.com.br",
+"processo": "159/2026"
 },
 {
 "numeroControlePNCP": "18468033000126-1-000288/2026",
@@ -24091,7 +24181,7 @@
 "objeto": "Contratação de solução tecnológica em modelo Software as a Service (SaaS), compreendendo a cessão do direito de uso da plataforma SAGEP, suporte técnico, manutenção corretiva, evolutiva e legal, atualizações tecnológicas, treinamento e demais serviços necessários ao funcionamento da solução destinada à gestão das atividades laborais, pecúlio, produção e controle de acesso das unidades prisionais do Estado de Santa Catarina.",
 "modalidade": "Inexigibilidade",
 "srp": false,
-"valorEstimado": null,
+"valorEstimado": 5577370.2,
 "dataEncerramentoProposta": null,
 "dataPublicacaoPncp": "2026-10-14T14:00:32",
 "fonteRecurso": [
@@ -25039,6 +25129,36 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "20714/2026"
+},
+{
+"numeroControlePNCP": "13120225000123-1-000202/2025",
+"orgao": "MUNICIPIO DE CANINDE DE SAO FRANCISCO",
+"cnpj": "13120225000123",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA DE CANINDE DE SAO FRANCISCO",
+"municipio": "Canindé de São Francisco",
+"uf": "SE",
+"codigoIbge": "2801207",
+"objeto": "prestação de serviços especializados em SST (Segurança de Saúde do Trabalho) com ênfase nos eventos de envio obrigatório ao e-Social, para atender as necessidades da Secretaria Municipal de Inclusão, Trabalho e Desenvolvimento Social.",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 36000.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-15T19:59:16",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://bnccompras.com/DirectBuy/DirectBuyView?param1=[gkz]GShejE2pAkVt_z/CAMrdgUUmvlxWvxiMOEQndxe4nb9y9VUGmOlrMCNdf7xfZDpRBJ9Pg06j2kF9aUpI26fDwPnID7yKQjwK_Lv1c1KHBc0=",
+"processo": "05290039/2025"
 }
 ]
 }
