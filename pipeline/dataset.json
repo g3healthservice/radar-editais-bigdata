@@ -1,69 +1,9 @@
 {
-"build": 1792185636,
-"geradoEm": "2026-10-16",
+"build": 1792198008,
+"geradoEm": "2026-10-17",
 "modo": "incremental",
-"totalCaptado": 863,
+"totalCaptado": 866,
 "itens": [
-{
-"numeroControlePNCP": "75741330000137-1-000353/2026",
-"orgao": "MUNICIPIO DE IVAIPORA",
-"cnpj": "75741330000137",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Unidade administrativa",
-"municipio": "Ivaiporã",
-"uf": "PR",
-"codigoIbge": "4111506",
-"objeto": "Contratação de empresa especializada para prestação continuada de serviços de rastreamento e monitoramento de veículos utilizados no transporte escolar terceirizado, por tecnologia GPS/GNSS e comunicação móvel, incluindo fornecimento dos equipamentos em comodato, instalação, configuração, chips e transmissão de dados, plataforma web e aplicativo, treinamento, manutenção, suporte técnico, substituição, retirada e reinstalação dos dispositivos.",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 2708.0,
-"dataEncerramentoProposta": "2026-10-16T23:59:00",
-"dataPublicacaoPncp": "2026-10-13T14:42:55",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": null,
-"processo": "6961"
-},
-{
-"numeroControlePNCP": "46634598000171-1-000462/2026",
-"orgao": "MUNICIPIO DE TIETE",
-"cnpj": "46634598000171",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNICIPAL DE TIETÊ - SP",
-"municipio": "Tietê",
-"uf": "SP",
-"codigoIbge": "3554508",
-"objeto": "Contratação de empresa especializada para a prestação de serviços de organização e execução do Congresso Técnico da 24ª Copa de Handebol do Estado de São Paulo, incluindo o fornecimento de sistema informatizado (plataforma digital) para gerenciamento integral da competição.",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 3000.0,
-"dataEncerramentoProposta": "2026-10-16T23:59:00",
-"dataPublicacaoPncp": "2026-10-13T16:41:59",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "",
-"processo": "281/2026"
-},
 {
 "numeroControlePNCP": "03238920000130-1-000039/2026",
 "orgao": "MUNICIPIO DE NOVA OLIMPIA",
@@ -6797,6 +6737,36 @@
 "processo": "165 / 2026 - 2174"
 },
 {
+"numeroControlePNCP": "63079453000175-1-000012/2026",
+"orgao": "FORMOSA DO RIO PRETO CAMARA MUNICIPAL",
+"cnpj": "63079453000175",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "Câmara Municipal de Formosa do Rio Preto",
+"municipio": "Formosa do Rio Preto",
+"uf": "BA",
+"codigoIbge": "2911105",
+"objeto": "prestação de serviços de tecnologia da informação para disponibilização de licença de uso de sistema digital, incluindo implantação, operação, suporte técnico e armazenamento seguro de documentos, com funcionalidades de gerenciamento eletrônico de documentos (GED), protocolo eletrônico, assinatura eletrônica e modelagem e tramitação eletrônica de processos por meio de fluxos de trabalho baseados na notação BPMN, para atender às necessidades da Câmara Municipal de Formosa do Rio Preto – BA",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 204463.2,
+"dataEncerramentoProposta": "2026-10-30T08:30:00",
+"dataPublicacaoPncp": "2026-10-16T18:37:53",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]D301fOk/kLj0QOyZXxrOoZxv7rrfBaWgO6rkwwYMtRRixSQkRr0mK3z_mUwh_tkEVbiwlpKCBNKNua8r4Xe8Zzl5XvFuMcHKx/v5/EECd0E=",
+"processo": "048/2026"
+},
+{
 "numeroControlePNCP": "18184942000132-1-000013/2026",
 "orgao": "FUNDO MUNICIPAL DE SAUDE DO MUNICIPIO DE BALNEARIO RINCAO",
 "cnpj": "18184942000132",
@@ -8729,6 +8699,66 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "38/2026"
+},
+{
+"numeroControlePNCP": "76484013000145-1-000160/2026",
+"orgao": "COMPANHIA DE SANEAMENTO DO PARANA SANEPAR",
+"cnpj": "76484013000145",
+"esfera": "Não informado",
+"poder": "Não informado",
+"unidade": "SEDE",
+"municipio": "Curitiba",
+"uf": "PR",
+"codigoIbge": "4106902",
+"objeto": "Serviços de Sistema Integrado e Automatizado de Gestão do Licenciamento Ambiental na SANEPAR, fornecido sob o modelo SaaS (Software as a Service)",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-11-11T09:00:00",
+"dataPublicacaoPncp": "2026-10-16T18:30:48",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1102450",
+"processo": "158026"
+},
+{
+"numeroControlePNCP": "83043745000165-1-000019/2026",
+"orgao": "CENTRO DE INFORMATICA E AUTOMACAO DO ESTADO DE SC S/A - CIASC",
+"cnpj": "83043745000165",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "Gerência de Administração",
+"municipio": "Florianópolis",
+"uf": "SC",
+"codigoIbge": "4205407",
+"objeto": "A presente licitação tem como objeto a seleção da proposta mais vantajosa para a contratação de empresa integradora especializada para a prestação, sob demanda, de serviços continuados de computação em nuvem na nuvem pública Oracle OCI (Oracle Cloud Infrastructure), contemplando as modalidades de Infraestrutura como Serviço (IaaS), Plataforma como Serviço (PaaS) e Software como Serviço (SaaS), em lote único, conforme Especificações Técnicas constantes no Anexo I, demais anexos e condições previstas neste Edital.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-11-11T13:30:00",
+"dataPublicacaoPncp": "2026-10-16T19:20:28",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "29389"
 },
 {
 "numeroControlePNCP": "07223670000116-1-000013/2026",
@@ -25057,7 +25087,7 @@
 "objeto": "Contratação da empresa Centro de Informática e Automação do Estado de Santa Catarina  S.A. (CIASC), para  a  implementação  e  disponibilização  de  solução  de  colaboração  e  comunicação corporativa,  baseada em  serviço  de  computação  em  nuvem, na modalidade  Software  como  Serviço  (SaaS), por meio da plataforma Google Workspace.",
 "modalidade": "Dispensa",
 "srp": false,
-"valorEstimado": null,
+"valorEstimado": 194093.18,
 "dataEncerramentoProposta": null,
 "dataPublicacaoPncp": "2026-10-15T18:20:32",
 "fonteRecurso": [
@@ -25947,6 +25977,66 @@
 "prioritario": false,
 "linkEdital": "",
 "processo": "115/2026"
+},
+{
+"numeroControlePNCP": "42498600000171-1-004526/2026",
+"orgao": "ESTADO DO RIO DE JANEIRO",
+"cnpj": "42498600000171",
+"esfera": "Estadual",
+"poder": "Não informado",
+"unidade": "Fundação de Previdência Complem do ERJ",
+"municipio": "Rio de Janeiro",
+"uf": "RJ",
+"codigoIbge": "3304557",
+"objeto": "Serviço de fornecimento de licença de uso de software integrado de gestão para previdência complementar, contemplando as funcionalidades de gestão previdenciária, gestão financeira e controladoria, gestão de investimentos e gerenciador de documentos digitalizados, e ainda com os serviços de manutenção, suporte técnico e acompanhamento durante o período contratual.",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-16T18:34:42",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://www.compras.rj.gov.br",
+"processo": "SEI-040015/000377/2025"
+},
+{
+"numeroControlePNCP": "84013408000198-1-000060/2026",
+"orgao": "SECRETARIA DE ESTADO DA SAUDE",
+"cnpj": "84013408000198",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "SECRETARIA DE ESTADO DA SAÚDE DE RR",
+"municipio": "Boa Vista",
+"uf": "RR",
+"codigoIbge": "1400100",
+"objeto": "PAGAMENTO DE TAXAS DE INSCRIÇÃO PARA PARTICIPAÇÃO NO CURSO “AUDITORIA GOVERNAMENTAL, CONTROLES INTERNO E EXTERNO, COMPLIANCE, GOVERNANÇA E GESTÃO DE RISCOS, COM BASE NO MANUAL DE NORMAS DOS TRABALHOS DE AUDITORIA APLICÁVEL AO SETOR PÚBLICO – MNTASP”, A SER REALIZADO NOS DIAS 20 A 23 DE OUTUBRO DE 2026, NA CIDADE DE SÃO PAULO/SP.",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 47900.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-16T19:18:41",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "20101.057284/2026.22"
 }
 ]
 }
