@@ -1,8 +1,8 @@
 {
-"build": 1792440822,
+"build": 1792454237,
 "geradoEm": "2026-10-19",
 "modo": "incremental",
-"totalCaptado": 904,
+"totalCaptado": 912,
 "itens": [
 {
 "numeroControlePNCP": "12640342000155-1-000067/2026",
@@ -3097,6 +3097,36 @@
 "prioritario": false,
 "linkEdital": "https://www.portaldecompraspublicas.com.br/processos/MA/Prefeitura-Municipal-de-Sao-Joao-do-Soter-1646/DP-009-2026-2026-519335",
 "processo": "566/2026"
+},
+{
+"numeroControlePNCP": "00581009000133-1-000018/2026",
+"orgao": "CONSELHO REGIONAL DE NUTRICIONISTAS 1 REGIAO",
+"cnpj": "00581009000133",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "CONSELHO REGIONAL DE NUTRICIONISTAS/1A REGIAO",
+"municipio": "Brasília",
+"uf": "DF",
+"codigoIbge": "5300108",
+"objeto": "Contratação de serviço de assinatura anual de software jurídico especializado, disponibilizado em ambiente de nuvem (SaaS – Software as a Service), destinado à gestão e ao acompanhamento de processos judiciais e administrativos da Unidade Jurídica do CRN-1, contemplando, no mínimo, cadastro e organização de processos, acompanhamento processual, captura de publicações, controle de prazos, gestão de tarefas, centralização de documentos e informações processuais.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 9543.96,
+"dataEncerramentoProposta": "2026-10-23T08:00:00",
+"dataPublicacaoPncp": "2026-10-19T17:03:04",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=38921706000192026",
+"processo": "010018.000003/2026-55"
 },
 {
 "numeroControlePNCP": "27165570000198-1-000127/2026",
@@ -7705,6 +7735,36 @@
 "processo": "130/2026"
 },
 {
+"numeroControlePNCP": "19193527000108-1-000052/2026",
+"orgao": "CONSORCIO INTERMUNICIPAL PARA O DESENVOLVIMENTO AMBIENTAL SUSTENTAVEL DO NORTE DE MINAS CODANORTE",
+"cnpj": "19193527000108",
+"esfera": "Não informado",
+"poder": "Executivo",
+"unidade": "Cons Interm Des Amb Ssust Norte de Minas - CODANORTE",
+"municipio": "Montes Claros",
+"uf": "MG",
+"codigoIbge": "3143302",
+"objeto": "Registro de Preços para contratação de pessoa jurídica para fornecimento de sistema de gestão hospitalar integrado, para atender às demandas dos Municípios consorciados ao CODANORTE",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 10609913.52,
+"dataEncerramentoProposta": "2026-11-04T09:00:00",
+"dataPublicacaoPncp": "2026-10-19T17:10:04",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Apoio à gestão de saúde"
+],
+"cnaes": [
+"86.60-7/00"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": "",
+"processo": "38/2026"
+},
+{
 "numeroControlePNCP": "59558305000166-1-000014/2026",
 "orgao": "CONSORCIO INTERFEDERATIVO DE COMPRAS PUBLICAS DO ESTADO DE MATO GROSSO",
 "cnpj": "59558305000166",
@@ -8613,6 +8673,36 @@
 "processo": "4000168/2026"
 },
 {
+"numeroControlePNCP": "83102285000107-1-000570/2026",
+"orgao": "MUNICIPIO DE BALNEARIO CAMBORIU",
+"cnpj": "83102285000107",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Balneário Camboriú",
+"municipio": "Balneário Camboriú",
+"uf": "SC",
+"codigoIbge": "4202008",
+"objeto": "Contratação de licença de uso de solução tecnológica em ambiente web (SaaS), destinada à gestão, tratamento, cruzamento, auditoria, fiscalização e inteligência de dados tributários, contemplando os serviços de implantação, parametrização, integração, capacitação, suporte técnico, manutenção, atualização tecnológica e hospedagem em nuvem, conforme especificações deste Termo de Referência.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 1371470.83,
+"dataEncerramentoProposta": "2026-11-09T09:59:01",
+"dataPublicacaoPncp": "2026-10-19T17:04:40",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "104/2026 - PE"
+},
+{
 "numeroControlePNCP": "00070532000103-1-000120/2026",
 "orgao": "DEPARTAMENTO DE ESTRADAS DE RODAGEM DO DISTRITO FEDERAL",
 "cnpj": "00070532000103",
@@ -8641,6 +8731,36 @@
 "prioritario": false,
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92612005001022026",
 "processo": "00113-00000866/2026-08"
+},
+{
+"numeroControlePNCP": "83102285000107-1-000569/2026",
+"orgao": "MUNICIPIO DE BALNEARIO CAMBORIU",
+"cnpj": "83102285000107",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL BALNEARIO DE CAMBORIU-SC",
+"municipio": "Balneário Camboriú",
+"uf": "SC",
+"codigoIbge": "4202008",
+"objeto": "Contratação de licença de uso de solução tecnológica em ambiente web (SaaS), destinada à gestão, tratamento, cruzamento, auditoria, fiscalização e inteligência de dados tributários, contemplando os serviços de implantação, parametrização, integração, capacitação, suporte técnico, manutenção, atualização tecnológica e hospedagem em nuvem, conforme especificações deste Termo de Referência.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 1371470.83,
+"dataEncerramentoProposta": "2026-11-09T10:00:00",
+"dataPublicacaoPncp": "2026-10-19T16:44:36",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98803905000382026",
+"processo": "104/2026"
 },
 {
 "numeroControlePNCP": "20720165000145-1-000052/2026",
@@ -27179,6 +27299,126 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "7595/2026"
+},
+{
+"numeroControlePNCP": "12474169000162-1-000007/2026",
+"orgao": "MUNICIPIO DE PEDRA BRANCA - CAMARA MUNICIPAL",
+"cnpj": "12474169000162",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "Câmara Municipal de Pedra Branca",
+"municipio": "Pedra Branca",
+"uf": "CE",
+"codigoIbge": "2310506",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA VISANDO O LEVANTAMENTO ESTRUTURAL, ANÁLISE E ACOMPANHAMENTO, BEM COMO A ELABORAÇÃO DE LAUDOS E DOCUMENTOS, RELACIONADOS A SAÚDE E SEGURANÇA DO TRABALHO SST, BEM COMO AS DEVIDAS REGULARIZAÇÕES, EXIGIDOS PELO MINISTÉRIO DO TRABALHO E EMPREGO MTE, PARA ATENDER AS DEMANDAS DA CÂMARA MUNICIPAL DE PEDRA BRANCA",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 58266.67,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-19T17:10:47",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "http://precodereferencia.m2atecnologia.com.br/c/nYKp6zgGTHax7ZC7dlUxLQ.MlRFT3_sLJgW/",
+"processo": "0000820260716000126"
+},
+{
+"numeroControlePNCP": "83509547000144-1-000104/2026",
+"orgao": "CAMARA DE VEREADORES DO MUNICIPIO DE LAGES",
+"cnpj": "83509547000144",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "CAMARA DE VEREADORES DO MUNICIPIO DE LAGES",
+"municipio": "Lages",
+"uf": "SC",
+"codigoIbge": "4209300",
+"objeto": "Contratação de solução corporativa de comunicação, produtividade, colaboração em nuvem e Área de Trabalho Digital (Solução CIASC ATD), baseada na plataforma Google Workspace (modalidade Software as a Service - SaaS), compreendendo o fornecimento de licenças de uso (Google Workspace Business Starter e Business Standard), além dos serviços continuados de administração da plataforma, governança, suporte técnico especializado, consultoria e gestão de segurança da informação, para atender às necessidades institucionais da Câmara Municipal De Lages.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 34157.7,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-19T18:05:58",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "93/2026"
+},
+{
+"numeroControlePNCP": "12474169000162-1-000003/2025",
+"orgao": "MUNICIPIO DE PEDRA BRANCA - CAMARA MUNICIPAL",
+"cnpj": "12474169000162",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "MUNICIPIO DE PEDRA BRANCA - CAMARA MUNICIPAL",
+"municipio": "Pedra Branca",
+"uf": "CE",
+"codigoIbge": "2310506",
+"objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS PARA LOCAÇÃO DE SOFTWARE DO CONTROLE LEGISLATIVO, CONTROLE DO SITE, SIC E OUVIDORIA, JUNTO A CÂMARA MUNICIPAL DE PEDRA BRANCA",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 38200.08,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-19T18:42:22",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "http://precodereferencia.m2atecnologia.com.br/c/bay1hO37RqGfglu_6GM60w.DOcLrWyfhF1y/",
+"processo": "0000820250203000144"
+},
+{
+"numeroControlePNCP": "83602151000147-1-000054/2026",
+"orgao": "CAMARA MUNICIPAL DE BRUSQUE",
+"cnpj": "83602151000147",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "Camara de Vereadores",
+"municipio": "Brusque",
+"uf": "SC",
+"codigoIbge": "4202909",
+"objeto": "Inscrição no evento \"Portal e LGPD, e-SIC e Ouvidoria.",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 2000.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-19T18:48:16",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "52/2026"
 }
 ]
 }
