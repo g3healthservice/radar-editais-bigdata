@@ -1,8 +1,8 @@
 {
-"build": 1792198008,
-"geradoEm": "2026-10-17",
+"build": 1792384329,
+"geradoEm": "2026-10-19",
 "modo": "incremental",
-"totalCaptado": 866,
+"totalCaptado": 867,
 "itens": [
 {
 "numeroControlePNCP": "03238920000130-1-000039/2026",
@@ -26037,6 +26037,36 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "20101.057284/2026.22"
+},
+{
+"numeroControlePNCP": "09125444000128-1-000077/2026",
+"orgao": "SUPERINTENDENCIA DE OBRAS DO PLANO DE DESENVOLVIMENTO DO ESTADO - SUPLAN",
+"cnpj": "09125444000128",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "SUPERINTENDENCIA DE OBRAS DO PLANO DE DESENVOLVIMENTO DO ESTADO",
+"municipio": "João Pessoa",
+"uf": "PB",
+"codigoIbge": "2507507",
+"objeto": "CURSO DE CAPACITAÇÃO- NR1 - PARA GESTORES: GERENCIAMENTO DE RISCOS OCUPACIONAIS E RISCOS PSICOSSOCIAIS",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 51870.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-17T02:00:13",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": "https://www.centraldecompras.pb.gov.br/appls/sgc/edital.nsf/Web?OpenAgent&pageClassName=EditalPage&action=abrir&unid=597B41D4BE12C77003258E920054E4A5",
+"processo": "31.202.003263.2026"
 }
 ]
 }
