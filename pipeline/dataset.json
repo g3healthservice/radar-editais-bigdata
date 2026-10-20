@@ -1,39 +1,9 @@
 {
-"build": 1792454237,
-"geradoEm": "2026-10-19",
+"build": 1792471322,
+"geradoEm": "2026-10-20",
 "modo": "incremental",
 "totalCaptado": 912,
 "itens": [
-{
-"numeroControlePNCP": "12640342000155-1-000067/2026",
-"orgao": "FUNDO MUNICIPAL DE SAUDE",
-"cnpj": "12640342000155",
-"esfera": "Municipal",
-"poder": "Executivo",
-"unidade": "FUNDO MUNICIPAL DE SAUDE DE PARATY",
-"municipio": "Paraty",
-"uf": "RJ",
-"codigoIbge": "3303807",
-"objeto": "CONTRATAÇÃO DE EMPRESA(S) ESPECIALIZADA(S) PARA PRESTAÇÃO DE SERVIÇOS DE APOIO ÀS AÇÕES DE SAÚDE DA OPERAÇÃO ALTA TEMPORADA 2026/2027 NA UBS DE TRINDADE, COMPREENDENDO A GESTÃO DE ESCALAS DE PROFISSIONAIS DE SAÚDE E A DISPONIBILIZAÇÃO DE UNIDADE MÓVEL DE ATENDIMENTO",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 1826094.0,
-"dataEncerramentoProposta": "2026-10-19T23:59:00",
-"dataPublicacaoPncp": "2026-10-01T16:55:27",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Gestão de RH / escalas e ponto"
-],
-"cnaes": [
-"78.30-2/00"
-],
-"categoria": "disputar",
-"prioritario": true,
-"linkEdital": "https://www.paraty.rj.gov.br/API/Areas/Admin/Conteudo/Documento/01102026194544032.pdf",
-"processo": "11"
-},
 {
 "numeroControlePNCP": "87564381000110-1-000267/2026",
 "orgao": "MUNICIPIO DE IBIRUBA",
@@ -3367,6 +3337,36 @@
 "prioritario": false,
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15441906000152026",
 "processo": "23101.001966/2026-79"
+},
+{
+"numeroControlePNCP": "08988847000138-1-000013/2026",
+"orgao": "INSTITUTO DE PREVIDENCIA DOS SERVIDORES DO MUNICIPIO DE ICAPUI - ICAPREV",
+"cnpj": "08988847000138",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES DO MUNICÍPIO",
+"municipio": "Icapuí",
+"uf": "CE",
+"codigoIbge": "2305357",
+"objeto": "Contratação de empresa especializada para prestação de serviços técnicos mensais de assessoria e suporte à gestão patrimonial do Instituto de Previdência dos Servidores do Município de Icapuí (ICAPREV), visando ao cumprimento das obrigações da Instrução Normativa TCE-CE nº 01/2025, compreendendo orientação aos usuários do sistema informatizado de gestão bem como suporte na elaboração da Prestação de Contas de Gestão (PCS) ao final de cada exercício",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 31040.04,
+"dataEncerramentoProposta": "2026-10-23T09:00:00",
+"dataPublicacaoPncp": "2026-10-20T00:54:11",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://licitamaisbrasil.com.br/detalhes-do-edital/SDjIGn9WC31LLPCY",
+"processo": "09.02-001/2026"
 },
 {
 "numeroControlePNCP": "46522942000130-1-000298/2026",
