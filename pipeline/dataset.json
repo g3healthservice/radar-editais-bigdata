@@ -1,8 +1,8 @@
 {
-"build": 1792516024,
+"build": 1792533905,
 "geradoEm": "2026-10-20",
 "modo": "incremental",
-"totalCaptado": 905,
+"totalCaptado": 919,
 "itens": [
 {
 "numeroControlePNCP": "13698766000133-1-000195/2026",
@@ -1299,36 +1299,6 @@
 "processo": "CPR 053/2026"
 },
 {
-"numeroControlePNCP": "33673237000192-1-000049/2026",
-"orgao": "CONSELHO REGIONAL DE SERVICO SOCIAL - 7 REGIAO",
-"cnpj": "33673237000192",
-"esfera": "Federal",
-"poder": "Executivo",
-"unidade": "CONSELHO REGIONAL DE SERVICO SOCIAL 7A - RJ",
-"municipio": "Rio de Janeiro",
-"uf": "RJ",
-"codigoIbge": "3304557",
-"objeto": "Contratação de empresa especializada para a prestação de serviços continuados, sem dedicação exclusiva de mão de obra, de promoção da saúde e qualidade de vida no trabalho, compreendendo ginástica laboral, palestras educativas e de conscientização, avaliações físicas e aplicação de questionários de qualidade de vida, destinados aos empregados do Conselho Regional de Serviço Social – 7ª Região – CRESS/RJ, conforme condições, quantidades e exigências estabelecidas no Termo de Referência. O prazo de vigência da contratação será de 24 (vinte e quatro) meses, contado da assinatura do contrato ou instrumento equivalente. A contratação possui natureza de serviço continuado, tendo em vista que as atividades de assessoria laboral e saúde ocupacional, incluindo a realização de ginástica laboral, palestras educativas e de conscientização, aplicação de questionários de qualidade de vida e avaliações físicas, destinam-se ao atendimento de necessidade permanente da Administração. A execução e o pagamento ficarão condicionados às atividades efetivamente programadas, executadas e aceitas pela Administração, não havendo obrigação de utilização integral do quantitativo estimado.",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 27240.0,
-"dataEncerramentoProposta": "2026-10-22T09:00:00",
-"dataPublicacaoPncp": "2026-10-16T16:32:12",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Psicologia / riscos psicossociais"
-],
-"cnaes": [
-"86.50-0/03"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=38927706000502026",
-"processo": "039/2026"
-},
-{
 "numeroControlePNCP": "18668376000134-1-000133/2026",
 "orgao": "MUNICIPIO DE MONTE BELO",
 "cnpj": "18668376000134",
@@ -1777,6 +1747,36 @@
 "prioritario": false,
 "linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]CoJC4m99Xbb7XVlA8gEkDlIbjxLwBZWrzDwLjUY0/ybP8Ipu_daErbavUBrZ6S2i1wKeFVIwKYpNYVR2Bck2Lxl1RlXZtGaG07gWM1RWZv4=",
 "processo": "57/2026"
+},
+{
+"numeroControlePNCP": "33673237000192-1-000049/2026",
+"orgao": "CONSELHO REGIONAL DE SERVICO SOCIAL - 7 REGIAO",
+"cnpj": "33673237000192",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "CONSELHO REGIONAL DE SERVICO SOCIAL 7A - RJ",
+"municipio": "Rio de Janeiro",
+"uf": "RJ",
+"codigoIbge": "3304557",
+"objeto": "Contratação de empresa especializada para a prestação de serviços continuados, sem dedicação exclusiva de mão de obra, de promoção da saúde e qualidade de vida no trabalho, compreendendo ginástica laboral, palestras educativas e de conscientização, avaliações físicas e aplicação de questionários de qualidade de vida, destinados aos empregados do Conselho Regional de Serviço Social – 7ª Região – CRESS/RJ, conforme condições, quantidades e exigências estabelecidas no Termo de Referência. O prazo de vigência da contratação será de 24 (vinte e quatro) meses, contado da assinatura do contrato ou instrumento equivalente. A contratação possui natureza de serviço continuado, tendo em vista que as atividades de assessoria laboral e saúde ocupacional, incluindo a realização de ginástica laboral, palestras educativas e de conscientização, aplicação de questionários de qualidade de vida e avaliações físicas, destinam-se ao atendimento de necessidade permanente da Administração. A execução e o pagamento ficarão condicionados às atividades efetivamente programadas, executadas e aceitas pela Administração, não havendo obrigação de utilização integral do quantitativo estimado.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 27240.0,
+"dataEncerramentoProposta": "2026-10-23T08:00:00",
+"dataPublicacaoPncp": "2026-10-16T16:32:12",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=38927706000502026",
+"processo": "039/2026"
 },
 {
 "numeroControlePNCP": "10651417000178-1-000204/2026",
@@ -3277,6 +3277,36 @@
 "prioritario": false,
 "linkEdital": "https://www.portaldecompraspublicas.com.br/processos/SP/Prefeitura-Estancia-Turistica-de-Joanopolis-2421/PE-26-2026-2026-517563",
 "processo": "64/2026"
+},
+{
+"numeroControlePNCP": "01613077000108-1-000111/2026",
+"orgao": "MUNICIPIO DE PERIQUITO",
+"cnpj": "01613077000108",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Unidade Única",
+"municipio": "Periquito",
+"uf": "MG",
+"codigoIbge": "3149952",
+"objeto": "A presente dispensa eletrônica tem por objeto a contratação de empresa\nespecializada para implantação e licenciamento de solução integrada de software para\ngestão da educação pública municipal, contemplando Sistema para Ambiente Virtual de\nAprendizagem – EaD, com instalação, configuração, hospedagem, treinamento de\nservidores, atualizações de versões e suporte técnico continuado, para atendimento da\nSecretaria Municipal de Educação de Periquito/MG.\n",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 31900.04,
+"dataEncerramentoProposta": "2026-10-26T09:00:00",
+"dataPublicacaoPncp": "2026-10-20T16:58:33",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://app2.licitardigital.com.br/pesquisa/116992",
+"processo": "109/2026"
 },
 {
 "numeroControlePNCP": "20101246000167-1-000026/2026",
@@ -7531,6 +7561,36 @@
 "processo": "08650019058202541"
 },
 {
+"numeroControlePNCP": "13817804000120-1-000081/2026",
+"orgao": "MUNICIPIO DE CANAVIEIRAS",
+"cnpj": "13817804000120",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICÍPIO DE CANAVIEIRAS/BA",
+"municipio": "Canavieiras",
+"uf": "BA",
+"codigoIbge": "2906303",
+"objeto": "[LICITANET] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE LICENCIAMENTO DE SOFTWARE DESTINADO A PUBLICAÇÃO DE ATOS OFICIAIS EM DIÁRIO OFICIAL PRÓPRIO, JORNAL DE GRANDE CIRCULAÇÃO NO ESTADO DA BAHIA E DIÁRIO OFICIAL DE UNIÃO, BEM COMO MANUTENÇÃO, ATUALIZAÇÃO E SUPORTE TÉCNICO DO PORTAL DA TRANSPARENCIA DO MUNICIPIO DE CANAVIEIRAS, BAHIA",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-11-05T09:00:00",
+"dataPublicacaoPncp": "2026-10-20T15:40:07",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://licitanet.com.br/sessao/205410",
+"processo": "093/2026"
+},
+{
 "numeroControlePNCP": "16958425000148-1-000445/2026",
 "orgao": "SECRETARIA DE ESTADO DE INDUSTRIA, CIENCIA E TECNOLOGIA",
 "cnpj": "16958425000148",
@@ -7803,6 +7863,36 @@
 "processo": "2026.10.06.01"
 },
 {
+"numeroControlePNCP": "77636520000110-1-000062/2026",
+"orgao": "CAMARA MUNICIPAL DE CURITIBA",
+"cnpj": "77636520000110",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "CÂMARA MUNICIPAL DE CURITIBA - PR",
+"municipio": "Curitiba",
+"uf": "PR",
+"codigoIbge": "4106902",
+"objeto": "Contratação de empresa especializada na prestação de serviços técnicos em medicina do trabalho, saúde ocupacional, segurança do trabalho e terapias integrativas, contemplando modelos de execução de serviços de rotina (jornada programada), com jornada flexibilizada (banco de horas) e atendimentos sob demanda estruturada, para elaboração, coordenação, implementação e execução das atividades nas dependências da Câmara Municipal de Curitiba, conforme condições estabelecidas no Termo de Referência.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 2430301.4,
+"dataEncerramentoProposta": "2026-11-06T09:00:00",
+"dataPublicacaoPncp": "2026-10-20T16:01:18",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92763105000182026",
+"processo": "00933/2026"
+},
+{
 "numeroControlePNCP": "02929034000190-1-000019/2026",
 "orgao": "CREA - RR CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE RORAIMA",
 "cnpj": "02929034000190",
@@ -7861,6 +7951,36 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "791/2026"
+},
+{
+"numeroControlePNCP": "44855443000130-1-000151/2026",
+"orgao": "MUNICIPIO DE MARTINOPOLIS",
+"cnpj": "44855443000130",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Martinópolis - SP",
+"municipio": "Martinópolis",
+"uf": "SP",
+"codigoIbge": "3529203",
+"objeto": "Contratação de empresa especializada para disponibilização, implantação, instalação, configuração, atualização e manutenção de sistema informatizado de gerenciamento de senhas, com exibição das chamadas em TV ou monitor, controle de relatórios e dados estatísticos de atendimento, incluindo a integração com o totem de autoatendimento e a impressora térmica pertencentes ao Município, para utilização na Farmácia do Posto de Saúde Dr. José Carlos Macuco Janini.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 45166.8,
+"dataEncerramentoProposta": "2026-11-09T07:45:00",
+"dataPublicacaoPncp": "2026-10-20T14:06:04",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=49142",
+"processo": "159/2026"
 },
 {
 "numeroControlePNCP": "01613123000160-1-000130/2026",
@@ -8025,7 +8145,7 @@
 "objeto": "[LICITANET] - Contratação de empresa especializada para execução de serviços de construção, manutenção, adequação e expansão de infraestrutura física elétrica e de rede lógica, incluindo o fornecimento de materiais, equipamentos e mão de obra especializada, visando assegurar o adequado funcionamento e a continuidade dos serviços relacionados aos equipamentos de tecnologia da informação e comunicação (TIC), tais como microcomputadores, servidores, ativos de rede, relógios de ponto eletrônico, sistemas de videomonitoramento (CFTV), equipamentos de impressão, sistemas de telefonia IP e sistemas de climatização.",
 "modalidade": "Pregão - Eletrônico",
 "srp": true,
-"valorEstimado": 399.96,
+"valorEstimado": 0.04,
 "dataEncerramentoProposta": "2026-11-09T09:30:00",
 "dataPublicacaoPncp": "2026-10-20T10:39:33",
 "fonteRecurso": [
@@ -8221,6 +8341,36 @@
 "prioritario": false,
 "linkEdital": "",
 "processo": "738/2026"
+},
+{
+"numeroControlePNCP": "01217538000115-1-000159/2026",
+"orgao": "MUNICIPIO DE TRINDADE",
+"cnpj": "01217538000115",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Trindade",
+"municipio": "Trindade",
+"uf": "GO",
+"codigoIbge": "5221403",
+"objeto": "[Portal de Compras Públicas] - REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE GESTÃO INTEGRADA DE FROTAS, DESTINADOS AO ATENDIMENTO DAS NECESSIDADES DO MUNICÍPIO DE TRINDADE, POR MEIO DE SISTEMA INFORMATIZADO E INTEGRADO, ABRANGENDO A ADMINISTRAÇÃO, CONTROLE E GERENCIAMENTO OPERACIONAL DA FROTA DE VEÍCULOS, MÁQUINAS E EQUIPAMENTOS PERTENCENTES OU UTILIZADOS PELA ADMINISTRAÇÃO MUNICIPAL.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 102.33,
+"dataEncerramentoProposta": "2026-11-10T08:30:00",
+"dataPublicacaoPncp": "2026-10-20T14:21:52",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/GO/Prefeitura-Municipal-de-Trindade-1042/PE-017-2026-2026-519419",
+"processo": "21018/2026"
 },
 {
 "numeroControlePNCP": "45332095000189-1-000180/2026",
@@ -8523,6 +8673,36 @@
 "processo": "08022001803202682"
 },
 {
+"numeroControlePNCP": "07237373000120-1-000088/2026",
+"orgao": "BANCO DO NORDESTE DO BRASIL",
+"cnpj": "07237373000120",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "BANCO DO NORDESTE DO BRASIL S/A",
+"municipio": "Fortaleza",
+"uf": "CE",
+"codigoIbge": "2304400",
+"objeto": "Aquisição de Portal de Governança, com solução de gestão de reuniões, na modalidade SAAS, acessível em microcomputadores e dispositivo móveis, em modos online e off-line, em conjunto com os serviços de treinamento, implantação, manutenção, suporte técnico e licenciamento para 120 (cento e vinte) usuários",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-11-16T09:59:00",
+"dataPublicacaoPncp": "2026-10-20T14:45:45",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=17908505000322026",
+"processo": "2026/000218"
+},
+{
 "numeroControlePNCP": "34164319000174-1-000199/2026",
 "orgao": "CASA DA MOEDA DO BRASIL",
 "cnpj": "34164319000174",
@@ -8551,6 +8731,36 @@
 "prioritario": false,
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=17908305001612026",
 "processo": "18750.003211/2026-24"
+},
+{
+"numeroControlePNCP": "83043745000165-1-000021/2026",
+"orgao": "CENTRO DE INFORMATICA E AUTOMACAO DO ESTADO DE SC S/A - CIASC",
+"cnpj": "83043745000165",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "Gerência de Administração",
+"municipio": "Florianópolis",
+"uf": "SC",
+"codigoIbge": "4205407",
+"objeto": "A presente licitação tem como objeto a seleção da proposta mais vantajosa para a contratação de empresa especializada para a prestação de serviços de manutenção preventiva e corretiva (on-site) para a infraestrutura de servidores e switches e fornecimento de licenciamento de software de virtualização, em 04 (quatro) lotes, conforme Especificações Técnicas constantes no Anexo I, demais anexos e condições previstas neste Edital.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-11-17T13:30:00",
+"dataPublicacaoPncp": "2026-10-20T18:31:45",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "29386"
 },
 {
 "numeroControlePNCP": "27149095000166-1-000043/2026",
@@ -27209,6 +27419,216 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "BJD-060105/000063/2026"
+},
+{
+"numeroControlePNCP": "59097984000113-1-000112/2026",
+"orgao": "SERVICO AUTONOMO DE AGUA E ESGOTO DE JAGUARIUNA",
+"cnpj": "59097984000113",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "MSP-SERVIÇO AUT. ÁGUA ESG. JAGUARIUNA",
+"municipio": "Jaguariúna",
+"uf": "SP",
+"codigoIbge": "3524709",
+"objeto": "Contratação de empresa especializada, por meio de compra direta, para a prestação de serviços de manutenção preventiva e corretiva em 1 (um) relógio de ponto eletrônico modelo SF ADV R2  - Marca Henry",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 235.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-20T15:08:49",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Gestão de RH / escalas e ponto"
+],
+"cnaes": [
+"78.30-2/00"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": null,
+"processo": "CD127/2026"
+},
+{
+"numeroControlePNCP": "18585570000156-1-000072/2026",
+"orgao": "MUNICIPIO DE PRATINHA",
+"cnpj": "18585570000156",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICÍPIO DE PRATINHA/MG",
+"municipio": "Pratinha",
+"uf": "MG",
+"codigoIbge": "3153004",
+"objeto": "[LICITANET] - Contratação de empresa especializada para fornecimento de licença de uso temporário de sistema integrado de Gestão em Saúde Pública, em ambiente web e hospedado em nuvem, destinado ao atendimento das diversas áreas da Secretaria Municipal de Saúde de Pratinha/MG, incluindo implantação, configuração, parametrização, migração e conversão de dados, treinamento, manutenção, suporte técnico e demais serviços necessários ao pleno funcionamento do sistema, em conformidade com a Lei Geral de Proteção de Dados (LGPD).",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 35874.72,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-20T16:02:22",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Apoio à gestão de saúde"
+],
+"cnaes": [
+"86.60-7/00"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": "https://licitanet.com.br/sessao/205417",
+"processo": "062/2026"
+},
+{
+"numeroControlePNCP": "49677917000114-1-000064/2026",
+"orgao": "VOTUPORANGA CAMARA MUNICIPAL",
+"cnpj": "49677917000114",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "CÂMARA MUNICIPAL DE VOTUPORANGA",
+"municipio": "Votuporanga",
+"uf": "SP",
+"codigoIbge": "3557105",
+"objeto": "Contratação de empresa especializada para disponibilização de solução informatizada, na modalidade Software as a Service (SaaS), destinada à gestão, indexação, consolidação, compilação, versionamento, atualização e disponibilização pública da legislação municipal e dos atos normativos do Poder Legislativo do Município de Votuporanga/SP, incluindo implantação e migração do acervo, hospedagem, manutenção e suporte técnico, conforme condições e exigências estabelecidas no Termo de Referência.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 13152.96,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-20T17:04:18",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://web.votuporanga.sp.gov.br:8056/transparencia/",
+"processo": "49"
+},
+{
+"numeroControlePNCP": "51278885000126-1-000035/2026",
+"orgao": "CAMARA MUNICIPAL DE CAMPO LIMPO PAULISTA",
+"cnpj": "51278885000126",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "CAMARA MUNICIPAL DE CAMPO LIMPO PAULISTA",
+"municipio": "Campo Limpo Paulista",
+"uf": "SP",
+"codigoIbge": "3509601",
+"objeto": "Contratacao de empresa especializada na area de engenharia de seguranca do trabalho e medicina  do trabalho para elaboracao de  PGR   Programa de Gerenciamento de Riscos  PCMSO   Programa  de Controle Medico de Saude Ocupacional  Exames Medicos Periodicos do PCMSO  Exames  Medicos Admissional   Demissional. Exames Complementares  conforme PGR e PCMSO . Pelo  periodo de 12 meses com possiblidade de prorrogacao.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 9407.35,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-20T17:16:38",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": " ",
+"processo": "26"
+},
+{
+"numeroControlePNCP": "07954480000179-1-026485/2026",
+"orgao": "ESTADO DO CEARA",
+"cnpj": "07954480000179",
+"esfera": "Estadual",
+"poder": "Não informado",
+"unidade": "CONTROLADORIA E OUVIDORIA GERAL DO ESTADO",
+"municipio": "Fortaleza",
+"uf": "CE",
+"codigoIbge": "2304400",
+"objeto": "Contratação de 05 (cinco) inscrições para participação de servidores da Controladoria e Ouvidoria Geral do Estado do Ceará - CGE no curso “Reforma Tributária nas Contratações Públicas: os impactos da CBS, IBS e do novo modelo tributário no planejamento, contratação, execução contratual e equilíbrio econômico-financeiro”, a ser realizado na modalidade online, nos dias 19, 20 e 21 de outubro de 2026. ",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 8670.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-20T15:02:23",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "41001003570202676"
+},
+{
+"numeroControlePNCP": "00509968000148-1-003603/2026",
+"orgao": "TRIBUNAL SUPERIOR DO TRABALHO",
+"cnpj": "00509968000148",
+"esfera": "Federal",
+"poder": "Judiciário",
+"unidade": "TRIBUNAL REGIONAL DO TRABALHO DA 15A.REGIAO",
+"municipio": "Campinas",
+"uf": "SP",
+"codigoIbge": "3509502",
+"objeto": "Contratação da palestra “O uso da linguagem simples nas Ouvidorias Públicas”, integrante do 49º Encontro do Colégio de Ouvidores da Justiça Do Trabalho - Ouvidorias do Futuro: Escuta, Inovação e Cidadania, a ocorrer no dia 12/11/2026, a ser realizada por Thiago Pinheiro Rosa, no espaço Co.Labora do TRT da 15ª Região, destinada a  Ouvidores, Vice-Ouvidores e Gestores de Ouvidoria, sendo o pagamento efetuado conforme Ato Regulamentar GP-EJ n. 01/2019. ",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 720.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-20T17:02:11",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "20711/2026"
+},
+{
+"numeroControlePNCP": "32974503000154-1-000021/2026",
+"orgao": "INSTITUTO MUNICIPAL DE PREVIDENCIA SOCIAL DOS SERVIDORES DE RONDONOPOLIS/MT",
+"cnpj": "32974503000154",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "UNIDADE ADMINISTRATIVA",
+"municipio": "Rondonópolis",
+"uf": "MT",
+"codigoIbge": "5107602",
+"objeto": "Inscrição de servidores do Instituto Municipal de Previdência Social dos Servidores de Rondonópolis/MT – IMPRO no 11º Congresso Estadual da ADIMP-MS, 3º ENCOPREVOESTE e 6º ENCOPREV, para capacitação, atualização técnica e aperfeiçoamento profissional nas áreas de gestão dos Regimes Próprios de Previdência Social (RPPS), legislação previdenciária, governança, investimentos, equilíbrio financeiro e atuarial, controles internos, certificação profissional e demais temas correlatos.",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 7800.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-20T18:03:27",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Auditoria / consultoria atuarial"
+],
+"cnaes": [
+"66.21-5/02"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "20"
 }
 ]
 }
