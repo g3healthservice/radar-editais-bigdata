@@ -1,39 +1,9 @@
 {
-"build": 1792533905,
-"geradoEm": "2026-10-20",
+"build": 1792543555,
+"geradoEm": "2026-10-21",
 "modo": "incremental",
 "totalCaptado": 919,
 "itens": [
-{
-"numeroControlePNCP": "13698766000133-1-000195/2026",
-"orgao": "MUNICIPIO DE MONTE SANTO",
-"cnpj": "13698766000133",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO",
-"municipio": "Monte Santo",
-"uf": "BA",
-"codigoIbge": "2921500",
-"objeto": "CONTRATAÇÃO DE EMPRESA PARA LOCAÇÃO DE SOFTWARE DE CONTROLE DE PONTO ELETRÔNICO PARA O MUNICÍPIO DE MONTE SANTO – BA.",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 42754.92,
-"dataEncerramentoProposta": "2026-10-20T23:59:59",
-"dataPublicacaoPncp": "2026-10-15T17:20:41",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Gestão de RH / escalas e ponto"
-],
-"cnaes": [
-"78.30-2/00"
-],
-"categoria": "disputar",
-"prioritario": true,
-"linkEdital": null,
-"processo": "PROCESSO ADMINISTRATIVO N° 205/2026"
-},
 {
 "numeroControlePNCP": "22156676000101-1-000029/2026",
 "orgao": "SECRETARIA DE ESTADO DE ADMINISTRACAO PENITENCIARIA - SEAP",
@@ -843,6 +813,36 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "131/2026"
+},
+{
+"numeroControlePNCP": "22156676000101-1-000030/2026",
+"orgao": "SECRETARIA DE ESTADO DE ADMINISTRACAO PENITENCIARIA - SEAP",
+"cnpj": "22156676000101",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "SECRETARIA DE ESTADO DE ADMINISTRAÃ‡ÃƒO PENITENCIÃRIA",
+"municipio": "Manaus",
+"uf": "AM",
+"codigoIbge": "1302603",
+"objeto": "Serviço de Ponto Eletrônico",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-10-22T00:59:59",
+"dataPublicacaoPncp": "2026-10-20T21:24:49",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Gestão de RH / escalas e ponto"
+],
+"cnaes": [
+"78.30-2/00"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": "https://www.e-compras.am.gov.br/publico/licitacoes_detalhes.asp?ident=256733",
+"processo": "041101.000874/2026"
 },
 {
 "numeroControlePNCP": "11201252000103-1-000020/2026",
