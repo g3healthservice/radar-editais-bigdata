@@ -1,69 +1,9 @@
 {
-"build": 1792543555,
+"build": 1792568691,
 "geradoEm": "2026-10-21",
 "modo": "incremental",
-"totalCaptado": 919,
+"totalCaptado": 918,
 "itens": [
-{
-"numeroControlePNCP": "22156676000101-1-000029/2026",
-"orgao": "SECRETARIA DE ESTADO DE ADMINISTRACAO PENITENCIARIA - SEAP",
-"cnpj": "22156676000101",
-"esfera": "Estadual",
-"poder": "Executivo",
-"unidade": "SECRETARIA DE ESTADO DE ADMINISTRAÃ‡ÃƒO PENITENCIÃRIA",
-"municipio": "Manaus",
-"uf": "AM",
-"codigoIbge": "1302603",
-"objeto": "SERVIÇO DE PONTO ELETRONICO",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": null,
-"dataEncerramentoProposta": "2026-10-21T00:59:59",
-"dataPublicacaoPncp": "2026-10-19T09:45:04",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Gestão de RH / escalas e ponto"
-],
-"cnaes": [
-"78.30-2/00"
-],
-"categoria": "disputar",
-"prioritario": true,
-"linkEdital": "https://www.e-compras.am.gov.br/publico/licitacoes_detalhes.asp?ident=256660",
-"processo": "041101.000874/2026"
-},
-{
-"numeroControlePNCP": "10593919000190-1-000050/2026",
-"orgao": "FUNDO MUNICIPAL DE SAUDE",
-"cnpj": "10593919000190",
-"esfera": "Municipal",
-"poder": "Executivo",
-"unidade": "FUNDO MUNICIPAL DE SAUDE",
-"municipio": "Padre Bernardo",
-"uf": "GO",
-"codigoIbge": "5215603",
-"objeto": "Solicitação de abertura de processo licitatório na modalidade Pregão Eletrônico para a contratação de empresa especializada na prestação de serviços de locação de parque tecnológico, licenciamento de software e infraestrutura em modelo integrado (As-a-Service), para atendimento da Secretaria Municipal de Saúde de Padre Bernardo-GO.",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": null,
-"dataEncerramentoProposta": "2026-10-21T07:30:00",
-"dataPublicacaoPncp": "2026-10-02T10:40:30",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": null,
-"processo": "5883/2026"
-},
 {
 "numeroControlePNCP": "27167394000123-1-000081/2026",
 "orgao": "MUNICIPIO DE IUNA",
@@ -7771,6 +7711,36 @@
 "prioritario": false,
 "linkEdital": " ",
 "processo": "70"
+},
+{
+"numeroControlePNCP": "00394502000144-1-014034/2026",
+"orgao": "COMANDO DA MARINHA",
+"cnpj": "00394502000144",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "CAPITANIA FLUVIAL DO TIETE-PARANA",
+"municipio": "Barra Bonita",
+"uf": "SP",
+"codigoIbge": "3505302",
+"objeto": "GERENCIAMENTO DA MANUTENÇÃO DE VIATURAS E EMBARCAÇÕES, JUNTO A REDE CREDENCIADA, SISTEMA INFORMATIZADO OU A INTEGRAÇÃO DA GESTÃO DE FROTA.",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 623399.29,
+"dataEncerramentoProposta": "2026-11-06T08:00:00",
+"dataPublicacaoPncp": "2026-10-21T04:00:47",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=78932005000422026",
+"processo": "63356001688202682"
 },
 {
 "numeroControlePNCP": "92324706000127-1-000207/2026",
