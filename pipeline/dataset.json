@@ -1,8 +1,8 @@
 {
-"build": 1792689937,
+"build": 1792705851,
 "geradoEm": "2026-10-22",
 "modo": "incremental",
-"totalCaptado": 935,
+"totalCaptado": 938,
 "itens": [
 {
 "numeroControlePNCP": "87246120000151-1-000203/2026",
@@ -28109,6 +28109,96 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "0009849-48.2026.6.14.8000"
+},
+{
+"numeroControlePNCP": "23701345000178-1-000013/2026",
+"orgao": "MUNICIPIO DE DOM PEDRO - CAMARA MUNICIPAL",
+"cnpj": "23701345000178",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "Câmara Municipal de Dom Pedro",
+"municipio": "Dom Pedro",
+"uf": "MA",
+"codigoIbge": "2103802",
+"objeto": "Contratação de empresa especializada para locação de software para sistema integrado para processo legislativo eletrônico e digital em plataforma web com protocolo web; votação eletrônica; incluindo a prestação de serviços técnicos correlatos, implantação do sistema, migração e conversão de dados, suporte técnico especializado, treinamento, serviços de manutenção corretiva, evolutiva e adaptativa para atendimento da Câmara Municipal de Dom Pedro/MA",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 64980.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-22T10:34:15",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "018/2026"
+},
+{
+"numeroControlePNCP": "32752798000114-1-000026/2026",
+"orgao": "CONSELHO REGIONAL DOS TECNICOS INDUSTRIAIS DO RIO GRANDE DO NORTE",
+"cnpj": "32752798000114",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "Conselho Regional dos Técnicos Industriais do Rio Grande do Norte",
+"municipio": "Natal",
+"uf": "RN",
+"codigoIbge": "2408102",
+"objeto": "[Portal de Compras Públicas] - O objeto da presente dispensa é a Contratação de pessoa jurídica especializada na prestação de serviços de Segurança e Saúde no Trabalho – SST, sem dedicação exclusiva de mão de obra, para atendimento das unidades do Conselho Regional dos Técnicos Industriais do Rio Grande do Norte –RN, conforme condições, quantidades e exigências estabelecidas neste Aviso de Contratação Direta e seus anexos",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 25642.04,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-22T10:42:21",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/RN/Conselho-Regional-dos-Tecnicos-Industriais-do-Rio-Grande-do-Norte-3385/DE-015-2026-2026-520355",
+"processo": "13641.000145/2026-54"
+},
+{
+"numeroControlePNCP": "25053133000157-1-000130/2026",
+"orgao": "TRIBUNAL DE CONTAS DO ESTADO DO TOCANTINS",
+"cnpj": "25053133000157",
+"esfera": "Estadual",
+"poder": "Legislativo",
+"unidade": "TRIBUNAL DE CONTAS DO ESTADO DE TOCANTINS",
+"municipio": "Palmas",
+"uf": "TO",
+"codigoIbge": "1721000",
+"objeto": "Pagamento de 1 (uma) inscrição destinada à participação do servidor Arlan Marcos Lima Sousa no curso online “Governança, Gestão de Riscos e Compliance: Uma abordagem teórica e prática na Administração Pública\".",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 2790.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-22T10:26:07",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "26.005367-8"
 }
 ]
 }
