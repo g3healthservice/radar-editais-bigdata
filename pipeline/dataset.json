@@ -1,69 +1,9 @@
 {
-"build": 1792626195,
-"geradoEm": "2026-10-21",
+"build": 1792643633,
+"geradoEm": "2026-10-22",
 "modo": "incremental",
-"totalCaptado": 947,
+"totalCaptado": 945,
 "itens": [
-{
-"numeroControlePNCP": "18338160000100-1-000141/2026",
-"orgao": "MUNICIPIO DE GUARANI",
-"cnpj": "18338160000100",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNICIPAL DE GUARANI - MG",
-"municipio": "Guarani",
-"uf": "MG",
-"codigoIbge": "3128402",
-"objeto": "Contratação de empresa especializada em assessoria e consultoria em Saúde e Segurança do Trabalho (SST), para elaboração, revisão e adequação dos documentos e programas legais, incluindo PGR, PCMSO, LTCAT, laudos de insalubridade e periculosidade e respectivas ART/TRT, quando exigíveis, visando à regularização das condições de SST e ao cumprimento das exigências do Auto de Infração SES/URSUBA-CVS-NUVISA nº 24/2026.",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 20000.0,
-"dataEncerramentoProposta": "2026-10-21T23:59:00",
-"dataPublicacaoPncp": "2026-10-19T12:51:33",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Psicologia / riscos psicossociais"
-],
-"cnaes": [
-"86.50-0/03"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": null,
-"processo": "131/2026"
-},
-{
-"numeroControlePNCP": "22156676000101-1-000030/2026",
-"orgao": "SECRETARIA DE ESTADO DE ADMINISTRACAO PENITENCIARIA - SEAP",
-"cnpj": "22156676000101",
-"esfera": "Estadual",
-"poder": "Executivo",
-"unidade": "SECRETARIA DE ESTADO DE ADMINISTRAÃ‡ÃƒO PENITENCIÃRIA",
-"municipio": "Manaus",
-"uf": "AM",
-"codigoIbge": "1302603",
-"objeto": "Serviço de Ponto Eletrônico",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": null,
-"dataEncerramentoProposta": "2026-10-22T00:59:59",
-"dataPublicacaoPncp": "2026-10-20T21:24:49",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Gestão de RH / escalas e ponto"
-],
-"cnaes": [
-"78.30-2/00"
-],
-"categoria": "disputar",
-"prioritario": true,
-"linkEdital": "https://www.e-compras.am.gov.br/publico/licitacoes_detalhes.asp?ident=256733",
-"processo": "041101.000874/2026"
-},
 {
 "numeroControlePNCP": "11201252000103-1-000020/2026",
 "orgao": "CONSORCIO INTERMUNICIPAL PARA ASSISTENCIA DA CRIANCA E DO ADOLESCENTE - CIACA",
