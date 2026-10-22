@@ -1,129 +1,9 @@
 {
-"build": 1792670096,
+"build": 1792689937,
 "geradoEm": "2026-10-22",
 "modo": "incremental",
-"totalCaptado": 927,
+"totalCaptado": 935,
 "itens": [
-{
-"numeroControlePNCP": "15718459000100-1-000082/2026",
-"orgao": "CONSORCIO INTERMUNICIPAL DA REDE DE URGENCIAS E EMERGENCIAS DO NOROESTE DO PARANA - CIUENP",
-"cnpj": "15718459000100",
-"esfera": "Não informado",
-"poder": "Executivo",
-"unidade": "UNIDADE ADMINISTRATIVA",
-"municipio": "Umuarama",
-"uf": "PR",
-"codigoIbge": "4128104",
-"objeto": "Registro de Preços para futura e eventual aquisição de Seladora para atender a Central de Regulação e nas bases Descentralizadas do CIUENP – SAMU 192 – Noroeste do Paraná",
-"modalidade": "Pregão - Eletrônico",
-"srp": true,
-"valorEstimado": 11906.0,
-"dataEncerramentoProposta": "2026-10-22T13:30:00",
-"dataPublicacaoPncp": "2026-10-07T15:41:29",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Apoio à gestão de saúde"
-],
-"cnaes": [
-"86.60-7/00"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": null,
-"processo": "84"
-},
-{
-"numeroControlePNCP": "10391817000191-1-000035/2026",
-"orgao": "FUNDO MUNICIPAL DE SAUDE DE CATANDUVAS",
-"cnpj": "10391817000191",
-"esfera": "Municipal",
-"poder": "Executivo",
-"unidade": "Fundo Municipal de Saúde de Catanduvas",
-"municipio": "Catanduvas",
-"uf": "SC",
-"codigoIbge": "4204004",
-"objeto": "Contratação de empresa especializada para prestação de serviços técnicos de assessoria e consultoria em Regulação Ambulatorial, em apoio a Central Municipal de Regulação, conforme informações constantes no anexo \"II\".",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 102000.0,
-"dataEncerramentoProposta": "2026-10-22T13:30:01",
-"dataPublicacaoPncp": "2026-09-30T09:50:31",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Apoio à gestão de saúde"
-],
-"cnaes": [
-"86.60-7/00"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": null,
-"processo": "PE12/2026"
-},
-{
-"numeroControlePNCP": "11800731000138-1-000222/2026",
-"orgao": "FUNDO MUNICIPAL DE SAUDE/SUS DO MUNICIPIO DE RESENDE",
-"cnpj": "11800731000138",
-"esfera": "Municipal",
-"poder": "Executivo",
-"unidade": "FUNDO MUNICIPAL DE SAÚDE DE RESENDE - SUS",
-"municipio": "Resende",
-"uf": "RJ",
-"codigoIbge": "3304201",
-"objeto": "RSD-020116/008783/2026- CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA AQUISIÇÃO DE RELÓGIO DE PONTO ELETRÔNICO COM RECONHECIMENTO FACIAL E PROGRAMA SOFTWARE PARA GERENCIAMENTO E CONTROLE DO PONTO (LICENÇA), VISANDO ATENDER ÀS NECESSIDADES DA UNIDADE DE PRONTO ATENDIMENTO (UPA 24 HORAS CIDADE ALEGRIA), ATRAVÉS DA SECRETARIA MUNICIPAL DE SAÚDE.",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 4257.0,
-"dataEncerramentoProposta": "2026-10-22T14:00:00",
-"dataPublicacaoPncp": "2026-10-07T08:36:39",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Gestão de RH / escalas e ponto"
-],
-"cnaes": [
-"78.30-2/00"
-],
-"categoria": "disputar",
-"prioritario": true,
-"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]6mw031gJ7_eSTBHyhvenBwrbYj5c1DncEJ0AsO0D_9szg89ns3cu0ZDukENNqIXJmA3u3vNk73AtLY9k1ECXMgso9HGqOGch8wuOhVmdFNI=",
-"processo": "RSD-020116/008783/2026"
-},
-{
-"numeroControlePNCP": "45093267000109-1-000137/2026",
-"orgao": "MUNICIPIO DE BADY BASSITT",
-"cnpj": "45093267000109",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNIC DE BADY BASSITT",
-"municipio": "Bady Bassitt",
-"uf": "SP",
-"codigoIbge": "3504602",
-"objeto": "Contratação de empresa especializada em Licenciamento de plataforma integrada em nuvem (SaaS) para novos processos de Engenharia e Tributos, com usuários e processos ilimitados, incluindo implantação, parametrização, capacitação, hospedagem, conferência documental, suporte, manutenção e exportação dos dados",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 60000.0,
-"dataEncerramentoProposta": "2026-10-22T17:00:00",
-"dataPublicacaoPncp": "2026-10-20T08:41:09",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "http://200.95.223.250:5656/comprasedital/",
-"processo": "102"
-},
 {
 "numeroControlePNCP": "87246120000151-1-000203/2026",
 "orgao": "MUNICIPIO DE ESTRELA",
@@ -7683,6 +7563,36 @@
 "processo": "21018/2026"
 },
 {
+"numeroControlePNCP": "70946009000175-1-000417/2026",
+"orgao": "MUNICIPIO DE SAO ROQUE",
+"cnpj": "70946009000175",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE SÃO ROQUE",
+"municipio": "São Roque",
+"uf": "SP",
+"codigoIbge": "3550605",
+"objeto": "PE 88 2026   CONTRATACAO DE EMPRESA ESPECIALIZADA NA PRESTACAO DE  SERVICOS DE SOLUCAO TECNOLOGICA INTEGRADA  SOB O MODELO DE SOFTWARE COMO SERVICO  SAAS   DESTINADA AO GERENCIAMENTO  MONITORAMENTO E CONTROLE OPERACIONAL  EM TEMPO REAL  DAS ATIVIDADES DA GUARDA CIVIL MUNICIPAL DA PREFEITURA DA ESTANCIA TURISTICA DE SAO ROQUE  PETSR ",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 126433.33,
+"dataEncerramentoProposta": "2026-11-10T08:45:00",
+"dataPublicacaoPncp": "2026-10-22T08:51:14",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": " ",
+"processo": "88"
+},
+{
 "numeroControlePNCP": "45332095000189-1-000180/2026",
 "orgao": "MUNICIPIO DE MOGI-MIRIM",
 "cnpj": "45332095000189",
@@ -7713,6 +7623,96 @@
 "processo": "001041.000120/2026-31"
 },
 {
+"numeroControlePNCP": "77007474000190-1-000105/2026",
+"orgao": "MUNICIPIO DE PAULO FRONTIN",
+"cnpj": "77007474000190",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICIPIO DE PAULO FRONTIN/PR",
+"municipio": "Paulo Frontin",
+"uf": "PR",
+"codigoIbge": "4118709",
+"objeto": "Registro de preços para futura e eventual aquisição em definitivo de equipamentos registradores/coletadores de ponto eletrônico com reconhecimento facial e contratação de serviços contínuos vinculados à solução de controle eletrônico de jornada dos servidores públicos municipais de Paulo Frontin-PR, conforme condições e exigências do Termo de Referência.",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 53647.5,
+"dataEncerramentoProposta": "2026-11-10T09:00:00",
+"dataPublicacaoPncp": "2026-10-22T08:56:37",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Gestão de RH / escalas e ponto"
+],
+"cnaes": [
+"78.30-2/00"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]MG4U8G96Ire/kB8kv77xvAXH8K5oJRE_4njR44/Bq6jkPiilNbRmsf6NKraG0ZBy3QKNcw33qSuIWwZ0rGzklewBt6rHkyx2jCWgDo8FcOg=",
+"processo": "96/2026"
+},
+{
+"numeroControlePNCP": "51792919000104-1-000117/2026",
+"orgao": "CAMARA MUNICIPAL DE SAO CARLOS",
+"cnpj": "51792919000104",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "1",
+"municipio": "São Carlos",
+"uf": "SP",
+"codigoIbge": "3548906",
+"objeto": "fornecimento de licença de uso de sistemas aplicativos de gestão administrativa, nas áreas de recursos humanos incluindo portal de servidores, compras e licitações, controle de estoque, contratos, controle de bens patrimoniais e reavaliação de bens, contratações anuais, bem como transparência para Câmara Municipal de São Carlos",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 2344445.03,
+"dataEncerramentoProposta": "2026-11-10T09:00:00",
+"dataPublicacaoPncp": "2026-10-22T09:02:56",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]7lwh2R1H54JAarkbP0k70kG5a1mosC/Rd_j1/9osgQhVqrnUzLt_d4HdRUIE7UML2k_cMK2LCT/VwFo7gNVhqsKM6kI1d_NGLT_7vWX0JqQ=",
+"processo": "3.743/26"
+},
+{
+"numeroControlePNCP": "87088670000190-1-000056/2026",
+"orgao": "CONSELHO REGIONAL DE ENFERMAGEM DO RIO GRANDE DO SUL",
+"cnpj": "87088670000190",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "CONSELHO REGIONAL DE ENFERMAGEM - RS",
+"municipio": "Porto Alegre",
+"uf": "RS",
+"codigoIbge": "4314902",
+"objeto": "Contratação de solução de Telefonia Corporativa e Comunicação Unificada baseada em PABX em Nuvem no modelo SaaS, para assegurar a continuidade das comunicações institucionais do Coren-RS, incluindo fornecimento de equipamentos (telefones IP e headsets), portabilidade numérica, tráfego de voz e serviços de implantação, nos termos da tabela constante ao ponto 1.1 do Termo de Referência, anexo I do Edital, e demais condições e exigências estabelecidas no edital e seus anexos",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 406191.83,
+"dataEncerramentoProposta": "2026-11-10T09:00:00",
+"dataPublicacaoPncp": "2026-10-22T09:07:16",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92737405000482026",
+"processo": "01637/2026"
+},
+{
 "numeroControlePNCP": "92963776000125-1-000021/2026",
 "orgao": "CONSELHO REGIONAL DOS REPRESENTANTES COMERCIAIS NO ESTADO DO RIO GRANDE DO SUL",
 "cnpj": "92963776000125",
@@ -7741,6 +7741,36 @@
 "prioritario": false,
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92656005000442026",
 "processo": "040/2026"
+},
+{
+"numeroControlePNCP": "12228375000192-1-000023/2026",
+"orgao": "MUNICIPIO DE IGACI",
+"cnpj": "12228375000192",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE IGACI",
+"municipio": "Igaci",
+"uf": "AL",
+"codigoIbge": "2703106",
+"objeto": "Contratação de empresa especializada para o serviço de fornecimento de licença de uso de software de gestão pública integrada, incluindo serviços de instalação, configuração, testes, implantação, capacitação dos usuários, suporte técnico, atendimento eventual pós-implantação e atualização de versões, visando o atendimento das demandas administrativas e operacionais da Prefeitura Municipal de Igaci/AL.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-11-10T09:59:00",
+"dataPublicacaoPncp": "2026-10-22T08:43:34",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]vTc457IxNnGUJepEJ6iQ4kCrLU_jGNGe8M4Ir2j0Oudiq6KhFhN_/7U5/PT3ifCLMLuHR26B9OW4uDwaY43Xke6gsIo3IBfAVZO3JD0vPtE=",
+"processo": "20260814.001"
 },
 {
 "numeroControlePNCP": "08036157000189-1-000185/2026",
@@ -27869,6 +27899,216 @@
 "prioritario": false,
 "linkEdital": "",
 "processo": "2026004692"
+},
+{
+"numeroControlePNCP": "02287757000133-1-000018/2026",
+"orgao": "SECRETARIA DE ESTADO DE ADMINISTRACAO E GESTAO",
+"cnpj": "02287757000133",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "SECRETARIA DE ESTADO DE ADMINISTRAÃ‡ÃƒO E GESTÃƒO",
+"municipio": "Manaus",
+"uf": "AM",
+"codigoIbge": "1302603",
+"objeto": "Software - SaaS - RH_Folha - SEAD",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-22T09:06:20",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://www.e-compras.am.gov.br/publico/licitacoes_detalhes.asp?ident=256745",
+"processo": "013101.003695/2025"
+},
+{
+"numeroControlePNCP": "44437549000113-1-000028/2026",
+"orgao": "MUNICIPIO DE RUBIACEA",
+"cnpj": "44437549000113",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura do Município de Rubiácea",
+"municipio": "Rubiácea",
+"uf": "SP",
+"codigoIbge": "3544400",
+"objeto": "Contratação de empresa especializada para o fornecimento de equipamentos de rastreamento veicular com telemetria, incluindo instalação, configuração, ativação e prestação mensal de serviços de rastreamento, monitoramento, telemetria, disponibilização de plataforma Web e aplicativo móvel, transmissão e armazenamento de dados, relatórios, suporte técnico, treinamentos in loco e consultoria mensal, destinados aos veículos da frota do Município de Rubiácea/SP",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 53142.37,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-22T09:18:16",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "10"
+},
+{
+"numeroControlePNCP": "77646438000176-1-000070/2026",
+"orgao": "UMUARAMA CAMARA MUNICIPAL",
+"cnpj": "77646438000176",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "Unidade administrativa",
+"municipio": "Umuarama",
+"uf": "PR",
+"codigoIbge": "4128104",
+"objeto": "Contratação da Empresa AKM Treinamentos Públicos – LTDA, CNPJ 62.759.380.0001-08 para a participação no Seminário Outubro Rosa  “ Decoro Parlamentar, Emendas Impositivas, Controle Interno e Externo, Ouvidoria e Procuradoria da Mulher”, entre os dias 20 e 23 de outubro",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 13160.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-22T08:45:33",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "67/2026"
+},
+{
+"numeroControlePNCP": "87849923000109-1-000736/2026",
+"orgao": "MUNICIPIO DE BENTO GONCALVES",
+"cnpj": "87849923000109",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Município de Bento Gonçalves",
+"municipio": "Bento Gonçalves",
+"uf": "RS",
+"codigoIbge": "4302105",
+"objeto": "CONTRATAÇÃO DE EMPRESA DE LICENCIAMENTO DE USO DE SOFTWARE DE INTELIGÊNCIA ARTIFICIAL, COM INTERAÇÃO JUNTO AOS SISTEMAS E-PROC, PJE, PROJUDI, E-SAI, JPE, SEEI, STF, STJ E TRIBUNAIS DE JUSTIÇA, COM A FINALIDADE DE GERAR MINUTAS DE PROCESSOS JUDICIAIS, ESSENCIAIS ÀS ATIVIDADES DOS SERVIDORES DA PROCURADORIA-GERAL.",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 10080.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-22T08:50:41",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "573"
+},
+{
+"numeroControlePNCP": "11049848000121-1-000030/2026",
+"orgao": "MUNICIPIO DE POMBOS",
+"cnpj": "11049848000121",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE POMBOS",
+"municipio": "Pombos",
+"uf": "PE",
+"codigoIbge": "2611309",
+"objeto": "Locação do imóvel situado na Av. Joaquim Falcão, 84 - Centro, Pombos/ PE, Imóvel perfeitamente adequado às necessidades da administração, para fins não residenciais e com destinação específica instalações ouvidoria e uma extensa arquivo documental.",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-22T09:43:50",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://bnccompras.com/DirectBuy/DirectBuyView?param1=[gkz]nY8VwZTXTy_N9G_T7Jc5gtkVVRLbFqTMg9o/BpNuC6bBQOa6mRlc/asGd9a1OPrESpbxY0DGQ65Ru6U8ANwkxjNqwh/GT2Q505/VYjyerfU=",
+"processo": "00011"
+},
+{
+"numeroControlePNCP": "34481804000171-1-000030/2026",
+"orgao": "INST DE PREV ASSIST DOS SERVIDORES DO MUN DE P VELHO",
+"cnpj": "34481804000171",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "MRO-INSTITUTO PREV. ASSIST. PORTO VELHO",
+"municipio": "Porto Velho",
+"uf": "RO",
+"codigoIbge": "1100205",
+"objeto": "Contratação de serviços técnicos especializados, por inexigibilidade de licitação, consistente na inscrição de 01 (uma) servidora do Instituto de Previdência e Assistência dos Servidores do Município de Porto Velho – IPAM no curso presencial “Auditoria Governamental, Controles Interno e Externo, Compliance, Governança e Gestão de Riscos”, Turma 04/2026, promovido pela ESAFI – ESCOLA DE ADMINISTRAÇÃO E TREINAMENTO LTDA.,CNPJ nº 35.963.479/0001-46, ",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 4790.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-22T10:11:11",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "011.003969/2026-51"
+},
+{
+"numeroControlePNCP": "00509018000113-1-002433/2026",
+"orgao": "TRIBUNAL SUPERIOR ELEITORAL",
+"cnpj": "00509018000113",
+"esfera": "Federal",
+"poder": "Judiciário",
+"unidade": "TRIBUNAL REGIONAL ELEITORAL DO PARA",
+"municipio": "Belém",
+"uf": "PA",
+"codigoIbge": "1501402",
+"objeto": "Credenciamento de pessoas físicas e jurídicas para a prestação de serviços de assistência à saúde aos beneficiários do Plano de Autogestão em Saúde do Tribunal Regional Eleitoral do Pará, PAS TRE/PA. ",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 40251027.14,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-22T10:12:02",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Monitorar (operadoras/planos — não disputar)"
+],
+"cnaes": [
+"—"
+],
+"categoria": "monitorar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "0009849-48.2026.6.14.8000"
 }
 ]
 }
