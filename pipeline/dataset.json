@@ -1,8 +1,8 @@
 {
-"build": 1792781467,
+"build": 1792798651,
 "geradoEm": "2026-10-23",
 "modo": "incremental",
-"totalCaptado": 989,
+"totalCaptado": 1003,
 "itens": [
 {
 "numeroControlePNCP": "01613321000124-1-000146/2026",
@@ -2265,6 +2265,36 @@
 "processo": "S00017"
 },
 {
+"numeroControlePNCP": "01298975000100-1-000162/2026",
+"orgao": "MUNICIPIO DE ALEXANIA",
+"cnpj": "01298975000100",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE ALEXÂNIA",
+"municipio": "Alexânia",
+"uf": "GO",
+"codigoIbge": "5200308",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA ELABORAÇÃO, EMISSÃO E REGULARIZAÇÃO DO PERFIL  PROFISSIOGRÁFICO (PPP), LTCAT, PCMSO, PGR E LTIP",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 38910.0,
+"dataEncerramentoProposta": "2026-10-28T17:00:00",
+"dataPublicacaoPncp": "2026-10-23T15:32:45",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "6825"
+},
+{
 "numeroControlePNCP": "11117243000120-1-000126/2026",
 "orgao": "CONSORCIO INTERMUNICIPAL DE DESENVOLVIMENTO DA INFRAESTRUTURA RODOVIARIA - CIDIR",
 "cnpj": "11117243000120",
@@ -2293,6 +2323,36 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "139/2026"
+},
+{
+"numeroControlePNCP": "03507415002600-1-000019/2026",
+"orgao": "ESTADO DE MATO GROSSO",
+"cnpj": "03507415002600",
+"esfera": "Estadual",
+"poder": "Não informado",
+"unidade": "SECRETARIA DE ESTADO DE CULTURA, ESPORTE E LAZER",
+"municipio": "Cuiabá",
+"uf": "MT",
+"codigoIbge": "5103403",
+"objeto": "Aquisição de utensílios para atendimento à diretrizes da A3P, visando à promoção da qualidade de vida no trabalho",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 28398.5,
+"dataEncerramentoProposta": "2026-10-28T17:40:00",
+"dataPublicacaoPncp": "2026-10-23T17:24:16",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "SECEL-PRO-2026/06607"
 },
 {
 "numeroControlePNCP": "07849532000147-1-000073/2026",
@@ -2865,6 +2925,36 @@
 "prioritario": false,
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=93205905000712026",
 "processo": "23.581.713-6"
+},
+{
+"numeroControlePNCP": "27446441000178-1-000001/2026",
+"orgao": "CONSELHO REGIONAL DE EDUCACAO FISICA DA 19 REGIAO - CREF19/AL",
+"cnpj": "27446441000178",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "Conselho Regional de Educação Física da 19 Região- CREF19",
+"municipio": "Maceió",
+"uf": "AL",
+"codigoIbge": "2704302",
+"objeto": "[Portal de Compras Públicas] - Contratação de empresa especializada em serviços de guarda física de documentos em galpão especializado (off-site), para atender às necessidades do Conselho Regional de Educação Física da 19ª Região (CREF19/AL), abrangendo:\n a) Guarda e custódia física de 150 caixas contêineres de documentos;\n b) Fornecimento de caixas contêineres padronizadas para acondicionamento;\n c) Transporte seguro de coleta na sede do CREF19/AL e entregas;\n d) Licença de uso de sistema de gestão online para consulta, rastreamento e solicitação\nde acervo;\n e) Digitalização por demanda de documentos sob custódia, quando solicitado pelo\nórgão.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 650.0,
+"dataEncerramentoProposta": "2026-10-29T10:00:00",
+"dataPublicacaoPncp": "2026-10-23T16:02:25",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/AL/Conselho-Regional-de-Educacao-Fisica-da-19-Regiao-CREF-19-3400/DE-001-2026-2026-2026-520884",
+"processo": "000962/000056/2026"
 },
 {
 "numeroControlePNCP": "06170517000105-1-000136/2026",
@@ -7477,6 +7567,36 @@
 "processo": "0192339"
 },
 {
+"numeroControlePNCP": "46523080000160-1-000180/2026",
+"orgao": "MUNICIPIO DE FRANCO DA ROCHA",
+"cnpj": "46523080000160",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Franco da Rocha",
+"municipio": "Franco da Rocha",
+"uf": "SP",
+"codigoIbge": "3516408",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO, IMPLANTAÇÃO, LICENCIAMENTO, HOSPEDAGEM, MANUTENÇÃO, SUPORTE TÉCNICO E TREINAMENTO DE SISTEMA INFORMATIZADO, EM MODELO SAAS, DESTINADO À GESTÃO DO CADASTRO HABITACIONAL PERMANENTE E DA REGULARIZAÇÃO FUNDIÁRIA URBANA, COM ACESSO VIA PLATAFORMA WEB E APLICATIVO MÓVEL",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 59342.16,
+"dataEncerramentoProposta": "2026-11-10T10:00:00",
+"dataPublicacaoPncp": "2026-10-23T16:56:05",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "2175/2026"
+},
+{
 "numeroControlePNCP": "82928706000182-1-000081/2026",
 "orgao": "MUNICIPIO DE LAGUNA",
 "cnpj": "82928706000182",
@@ -7837,6 +7957,36 @@
 "prioritario": false,
 "linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]WzCVvEtYTYsUYRVywV7d05OJymsZ/rk1x3/bP2bbzwMtAhymIQUIjgCZlKMF8ZmoY02ve8VnGnsCi_vNIKo5jZ5LcJQ031yjzGiUSTxOSzg=",
 "processo": "876/2026"
+},
+{
+"numeroControlePNCP": "92963560000160-1-001383/2026",
+"orgao": "MUNICIPIO DE PORTO ALEGRE",
+"cnpj": "92963560000160",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "DLC - Diretoria de Licitações e Contratos",
+"municipio": "Porto Alegre",
+"uf": "RS",
+"codigoIbge": "4314902",
+"objeto": "[Portal de Compras Públicas] - CONTRATAÇÃO DE SOLUÇÃO DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO (TIC) PARA A GESTÃO HABITACIONAL DO DEMHAB, NA MODALIDADE SOFTWARE COMO SERVIÇO (SAAS), COMPREENDENDO LICENÇA DE USO (SUBSCRIÇÃO), HOSPEDAGEM EM NUVEM, IMPLANTAÇÃO E PARAMETRIZAÇÃO, MIGRAÇÃO ASSISTIDA DOS DADOS DO SISTEMA ATUALMENTE UTILIZADO, SUPORTE TÉCNICO CONTÍNUO, MANUTENÇÕES CORRETIVAS, ADAPTATIVAS E EVOLUTIVAS, TREINAMENTO DE USUÁRIOS E APOIO À TRANSIÇÃO CONTRATUAL.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 408730.8,
+"dataEncerramentoProposta": "2026-11-12T08:59:00",
+"dataPublicacaoPncp": "2026-10-23T15:56:43",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Porto-Alegre-206/PE-386-2026-2026-520916",
+"processo": "26.14.000000350-3"
 },
 {
 "numeroControlePNCP": "23098510000149-1-000071/2026",
@@ -29739,6 +29889,276 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "2/2026"
+},
+{
+"numeroControlePNCP": "00394452000103-1-022886/2026",
+"orgao": "COMANDO DO EXERCITO",
+"cnpj": "00394452000103",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "COMANDO DA 4 REGIAO MILITAR/DIV EX",
+"municipio": "Belo Horizonte",
+"uf": "MG",
+"codigoIbge": "3106200",
+"objeto": "Prestação do serviço de gestão de pagamento de vale-pedágio obrigatório (VPO), por meio de TAG eletrônica, no sistema de multi tag, devendo o ecossistema operacional ser integrado por meio de plataforma web e tecnologia eletrônica de cobertura nacional, regulados e autorizados pela ANTT.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 61642.11,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-23T15:36:16",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "64316.033512/2026-29"
+},
+{
+"numeroControlePNCP": "01067248000132-1-000182/2026",
+"orgao": "MUNICIPIO DE ISRAELANDIA",
+"cnpj": "01067248000132",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICIPIO DE ISRAELANDIA - PREFEITURA",
+"municipio": "Israelândia",
+"uf": "GO",
+"codigoIbge": "5210307",
+"objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇO DE ARBITRAGEM NOS EVENTOS ESPORTIVOS( JOGOS DE FUTEBOL SOCIETY) JUNTO A SECRETARIA MUNICIPAL DE ESPORTE E LAZER DO MUNICIPIO DE ISRAELANDIA, ESTADO DE GOIAS. CONFORME ANEXOS INSERIDOS VIA SISTEMA INFORMATIZADOS, OS ORÇAMENTOS DEVERAM SER ENVIADOS POR E-MAIL: propostas.orcamentopmisr@gmail.com",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 9450.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-23T15:42:26",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "2682/2026"
+},
+{
+"numeroControlePNCP": "00697295009668-1-000041/2026",
+"orgao": "SECRETARIA DE ESTADO DA SAUDE - SUSAM",
+"cnpj": "00697295009668",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "SERVIÃ‡O DE PRONTO ATENDIMENTO _ JOVENTINA DIAS",
+"municipio": "Manaus",
+"uf": "AM",
+"codigoIbge": "1302603",
+"objeto": "SERVIÇO CONTROLE PONTO ELETRÔNICO/SPAJD",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 10966.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-23T15:44:37",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Gestão de RH / escalas e ponto"
+],
+"cnaes": [
+"78.30-2/00"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": "https://www.e-compras.am.gov.br/publico/licitacoes_detalhes.asp?ident=256820",
+"processo": "017129.000273/2026"
+},
+{
+"numeroControlePNCP": "33787094000140-1-000519/2026",
+"orgao": "FUNDACAO INSTIT BRAS DE GEOGRAFIA E ESTATISTICA IBGE",
+"cnpj": "33787094000140",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "EPI-SUPERINTENDÊNCIA ESTAD. DO IBGE NO PIAUÍ",
+"municipio": "Teresina",
+"uf": "PI",
+"codigoIbge": "2211001",
+"objeto": "CONTRATAÇÃO DE EMPRESA PARA ELABORAÇÃO DE PROGRAMA DE GERENCIAMENTO DE RISCOS (PGR) E LAUDOS TÉCNICOS DAS CONDIÇÕES AMBIENTAIS DO TRABALHO (LTCAT), NO ÂMBITO DA SES/PI (SEDE E AGÊNCIAS).\n",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 20800.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-23T15:59:10",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "03622.000353/2026-28"
+},
+{
+"numeroControlePNCP": "88254875000160-1-000516/2026",
+"orgao": "MUNICIPIO DE NOVO HAMBURGO",
+"cnpj": "88254875000160",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Diretoria de Gestão Documental",
+"municipio": "Novo Hamburgo",
+"uf": "RS",
+"codigoIbge": "4313409",
+"objeto": "Aquisição de cadeiras ergonômicas giratórias para atender aos operadores de teleatendimento do Serviço de Atendimento ao Cidadão (SAC) da Prefeitura Municipal de Novo Hamburgo.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 6380.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-23T16:01:02",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Assistencial / telessaúde"
+],
+"cnaes": [
+"86.30-5/03 · 86.50"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "615/2026"
+},
+{
+"numeroControlePNCP": "00509968000148-1-003671/2026",
+"orgao": "TRIBUNAL SUPERIOR DO TRABALHO",
+"cnpj": "00509968000148",
+"esfera": "Federal",
+"poder": "Judiciário",
+"unidade": "TRIBUNAL REGIONAL DO TRABALHO DA 9A.REGIAO",
+"municipio": "Curitiba",
+"uf": "PR",
+"codigoIbge": "4106902",
+"objeto": "Revisão do Programa de Gerenciamento de Riscos (PGR), dos Mapas de Riscos e da Analise Ergonômica do\nTrabalho (AET).",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 62000.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-23T16:23:29",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "PROAD 4763/2026"
+},
+{
+"numeroControlePNCP": "90544511000167-1-002807/2026",
+"orgao": "MUNICIPIO DE IPE",
+"cnpj": "90544511000167",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "FUNDO DE PREVIDÊNCIA SOCIAL",
+"municipio": "Ipê",
+"uf": "RS",
+"codigoIbge": "4310439",
+"objeto": "REFERENTE A DESPESA COM SERVICO DO SEGUNDO ADITAMENTO DO CONTRATO 93 2023 PARA PRESTACAO DE SERVICOS DA AVALIACAO ATUARIAL DO RPPS",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 7778.98,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-23T17:05:35",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Auditoria / consultoria atuarial"
+],
+"cnaes": [
+"66.21-5/02"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": " ",
+"processo": "2752"
+},
+{
+"numeroControlePNCP": "00509968000148-1-003673/2026",
+"orgao": "TRIBUNAL SUPERIOR DO TRABALHO",
+"cnpj": "00509968000148",
+"esfera": "Federal",
+"poder": "Judiciário",
+"unidade": "TRIBUNAL REGIONAL DO TRABALHO DA 15A.REGIAO",
+"municipio": "Campinas",
+"uf": "SP",
+"codigoIbge": "3509502",
+"objeto": "Contratação da aula musicada “Viola Paulista: sons, memórias e identidades”, integrante do 49º Encontro do Colégio de Ouvidores da Justiça do Trabalho - Ouvidorias do Futuro: Escuta, Inovação e Cidadania, a ocorrer no dia 11/11/2026, a ser realizada por JOÃO PAULO DO AMARAL PINTO, contratado por intermédio da sua pessoa jurídica de mesmo nome (CNPJ 21.504.842/0001/50), no espaço “Tribunal Pleno” do TRT da 15ª Região (3º andar da sede judicial).",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 6000.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-23T18:16:07",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "20709/2026"
+},
+{
+"numeroControlePNCP": "42498600000171-1-004617/2026",
+"orgao": "ESTADO DO RIO DE JANEIRO",
+"cnpj": "42498600000171",
+"esfera": "Estadual",
+"poder": "Não informado",
+"unidade": "SECRETARIA DE ESTADO DE SEGURANCA PUBLICA",
+"municipio": "Rio de Janeiro",
+"uf": "RJ",
+"codigoIbge": "3304557",
+"objeto": "A contratação de empresa especializada para disponibilização de vagas em curso de capacitação denominado ``Auditoria Governamental, Controles Interno e Externo, Compliance, Governança e Gestão de Riscos``",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-23T19:22:01",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://www.compras.rj.gov.br",
+"processo": "SEI-090001/002172/2026"
 }
 ]
 }
