@@ -1,8 +1,8 @@
 {
-"build": 1793046040,
-"geradoEm": "2026-10-26",
+"build": 1793060087,
+"geradoEm": "2026-10-27",
 "modo": "incremental",
-"totalCaptado": 1018,
+"totalCaptado": 1025,
 "itens": [
 {
 "numeroControlePNCP": "07728421000182-1-000095/2026",
@@ -7027,6 +7027,36 @@
 "processo": "22 / 2026 - 20870"
 },
 {
+"numeroControlePNCP": "44733608000109-1-000959/2026",
+"orgao": "MUNICIPIO DE INDAIATUBA",
+"cnpj": "44733608000109",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Indaiatuba",
+"municipio": "Indaiatuba",
+"uf": "SP",
+"codigoIbge": "3520509",
+"objeto": "Contratação de empresa especializada para fornecimento de solução tecnológica em modelo Software as a Service (SaaS), destinada à transformação digital da Administração Pública e ao avanço do Município no contexto de cidades inteligentes, em conformidade com a Lei nº 14.129/2021 (Lei do Governo Digital), contemplando licenciamento, implantação, conversão e migração de dados, interoperabilidade, capacitação, suporte técnico, manutenção e atualizações, voltada à gestão das áreas de Saúde e Assistência Social do Município de Indaiatuba/SP, bem como à disponibilização de plataformas digitais de atendimento ao cidadão, serviços de mensageria e gestão do Cadastro Técnico Multifinalitário do Cidadão (CTMC), sendo a solução de Governo Digital utilizada de forma integrada pelo Município, com vistas à centralização de dados, eficiência administrativa e melhoria contínua dos serviços públicos, com prazo do contrato de 12 (doze) meses, de acordo com as descrições constantes no Termo de Referência que faz parte integrante do edital.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 23935563.74,
+"dataEncerramentoProposta": "2026-11-11T08:30:00",
+"dataPublicacaoPncp": "2026-10-26T16:59:13",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "0121/2026"
+},
+{
 "numeroControlePNCP": "06981344000105-1-000147/2026",
 "orgao": "TRIBUNAL DE JUSTICA DO ESTADO DO PIAUI",
 "cnpj": "06981344000105",
@@ -7687,6 +7717,36 @@
 "processo": "26/2026"
 },
 {
+"numeroControlePNCP": "01618430000134-1-000010/2026",
+"orgao": "CAMARA MUNICIPAL DE MARATAIZES",
+"cnpj": "01618430000134",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "Câmara Municipal de Marataízes",
+"municipio": "Marataízes",
+"uf": "ES",
+"codigoIbge": "3203320",
+"objeto": "[Portal de Compras Públicas] - 1.1. O objeto da presente licitação é a contratação de empresa especializada para licenciar, implantar, sustentar e evoluir solução tecnológica integrada destinada à Câmara Municipal de Marataízes/ES, composta por:\nI. Plataforma para Portal Institucional do Poder Legislativo, compreendendo página institucional, diário oficial eletrônico, carta de serviços, serviço de informação ao cidadão (e-SIC) e ouvidoria (e-OUV);\nII. Software para Gestão de Processos do Poder Legislativo, compreendendo a gestão dos processos administrativos e legislativos, com organização arquivística, tramitação por fluxos de trabalho em notação BPMN, informações legislativas e portais de legislação compilada e de produção legislativa;\nIII. Software para Gestão e Transparência de Emendas Parlamentares, compreendendo o cadastro e a apreciação de emendas à LOA e ao PPA e o acompanhamento da execução orçamentária;\nIV. Software de Inteligência Artificial para Transcrição e Pesquisa em Conteúdos Audiovisuais, compreendendo transcrição automática, pesquisa textual e portal público de consulta; e\nV. Serviços técnicos sob demanda de mapeamento e modelagem de processos em BPMN, de compilação de atos normativos e de desenvolvimento, customização, integração e manutenção evolutiva de aplicações web, medidos por UST,\nconforme especificações, quantitativos e condições do Termo de Referência (Anexo I) e de seus anexos.\n1.2. Integram o objeto os serviços de implantação, migração de dados, capacitação, suporte técnico remoto, manutenção e hospedagem gerenciada de cada componente, na forma do item 5 do Termo de Referência.\n1.3. O objeto tem natureza de serviço comum de tecnologia da informação, nos termos do art. 6º, inc. XIII, da Lei nº 14.133/2021, sendo continuados os serviços de sustentação (art. 106 da Lei nº 14.133/2021).",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 492236.08,
+"dataEncerramentoProposta": "2026-11-12T13:00:00",
+"dataPublicacaoPncp": "2026-10-26T16:09:14",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/ES/Camara-Municipal-de-Marataizes-5107/PE-2026044L0200001010002-2026-2026-517929",
+"processo": "114/2026"
+},
+{
 "numeroControlePNCP": "13982640000196-1-000183/2025",
 "orgao": "MUNICIPIO DE GUANAMBI",
 "cnpj": "13982640000196",
@@ -7895,6 +7955,36 @@
 "prioritario": false,
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98798905000502026",
 "processo": "146"
+},
+{
+"numeroControlePNCP": "07424905000138-1-000364/2026",
+"orgao": "AGENCIA DE MODERNIZACAO DA GESTAO DE PROCESSOS",
+"cnpj": "07424905000138",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "EAL-AGENCIA DE MODERNIZACAO DA GEST. PROCESSO",
+"municipio": "Maceió",
+"uf": "AL",
+"codigoIbge": "2704302",
+"objeto": "REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL CONTRATAÇÃO DE SOLUÇÃO INTEGRADA DE CIBERSEGURANÇA, NA MODALIDADE SAAS (SOFTWARE AS A SERVICE).",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 49491654.52,
+"dataEncerramentoProposta": "2026-11-16T09:00:00",
+"dataPublicacaoPncp": "2026-10-26T15:20:18",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92599805002642026",
+"processo": "41506.0000000158/2026"
 },
 {
 "numeroControlePNCP": "24950495000188-1-000160/2026",
@@ -8259,6 +8349,36 @@
 "prioritario": true,
 "linkEdital": "",
 "processo": "9"
+},
+{
+"numeroControlePNCP": "04407920000180-1-000006/2026",
+"orgao": "PRODAM PROCESSAMENTO DE DADOS AMAZONAS S A",
+"cnpj": "04407920000180",
+"esfera": "Não informado",
+"poder": "Não informado",
+"unidade": "PROCESSAMENTO DE DADOS AMAZONAS S/A",
+"municipio": "Manaus",
+"uf": "AM",
+"codigoIbge": "1302603",
+"objeto": "Contratação de empresa especializada para fornecimento, implantação, parametrização, disponibilização, suporte, manutenção e sustentação de solução tecnológica integrada, em modelo Software as a Service (SaaS), destinada ao desenvolvimento de competências socioemocionais no âmbito da rede pública de ensino.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-11-24T10:00:00",
+"dataPublicacaoPncp": "2026-10-26T20:34:38",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92713105000062026",
+"processo": "Nº 1213/2026-70"
 },
 {
 "numeroControlePNCP": "76205673000140-1-000141/2026",
@@ -30611,6 +30731,100 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "547/2026"
+},
+{
+"numeroControlePNCP": "13879390000163-1-000097/2026",
+"orgao": "MUNICIPIO DE GENTIO DO OURO",
+"cnpj": "13879390000163",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E PLANEJAMENTO",
+"municipio": "Gentio do Ouro",
+"uf": "BA",
+"codigoIbge": "2911303",
+"objeto": "Contratação de empresa especializada para fornecimento, implantação, parametrização, licenciamento de uso, hospedagem, manutenção, suporte técnico e atualização de Sistema Informatizado de Gestão e Controle de Frequência/Ponto Eletrônico, destinado ao gerenciamento da jornada de trabalho dos servidores públicos vinculados às Secretarias Municipais de Administração, Educação, Saúde e Assistência Social do Município de Gentio do Ouro/BA.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 13600.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-26T19:48:39",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS",
+"Gestão de RH / escalas e ponto"
+],
+"cnaes": [
+"62.02/62.03/63.11",
+"78.30-2/00"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": null,
+"processo": "413/2026"
+},
+{
+"numeroControlePNCP": "83602151000147-1-000056/2026",
+"orgao": "CAMARA MUNICIPAL DE BRUSQUE",
+"cnpj": "83602151000147",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "Camara de Vereadores",
+"municipio": "Brusque",
+"uf": "SC",
+"codigoIbge": "4202909",
+"objeto": "Licença de uso, manutenção, provimento de datacenter e suporte técnico para sistema informatizado de Gestão em ambiente WEB (programa de compras e licitações, programa de contabilidade pública, programa de recursos humanos e folha de pagamento, ponto eletrônico, programa de portal da transparência, programa de patrimônio e programa de almoxarifado),  e hora técnica conforme utilização.",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 66901.76,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-26T17:26:51",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS",
+"Gestão de RH / escalas e ponto"
+],
+"cnaes": [
+"62.02/62.03/63.11",
+"78.30-2/00"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": null,
+"processo": "53/2026"
+},
+{
+"numeroControlePNCP": "01409580000138-1-001650/2026",
+"orgao": "ESTADO DE GOIAS",
+"cnpj": "01409580000138",
+"esfera": "Estadual",
+"poder": "Não informado",
+"unidade": "UNIVERSIDADE ESTADUAL DE GOIÁS",
+"municipio": "Anápolis",
+"uf": "GO",
+"codigoIbge": "5201108",
+"objeto": "Contratação de serviços de capacitação em cultura do cuidado, saúde mental no trabalho e gestão de riscos psicossociais, destinados à servidores em cargos/função de liderança na Universiade Estadual de Goias, incluindo atividades presenciais, aplicação de questionário on-line, material de referência, devolutiva técnica e certificação. Capacitação a ser realizada pela empresa J F TEMOTEO Treinamento LTDA - Instituto RHEDES, CNPJ nº 28.867.262/0001-77.",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 83000.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-26T19:12:37",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": "",
+"processo": "202600005032534"
 }
 ]
 }
