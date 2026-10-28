@@ -1,221 +1,9 @@
 {
-"build": 1793165373,
+"build": 1793192678,
 "geradoEm": "2026-10-28",
 "modo": "incremental",
-"totalCaptado": 1052,
+"totalCaptado": 1049,
 "itens": [
-{
-"numeroControlePNCP": "19659196000159-1-000009/2026",
-"orgao": "SUPERINTENDENCIA AUTONOMA DE AGUA E ESGOTO DE SAO JOSE DO RIO PARDO - SAERP",
-"cnpj": "19659196000159",
-"esfera": "Municipal",
-"poder": "Executivo",
-"unidade": "SUPERINTENDENCIA AUTONOMA DE AGUA E ESGOTO DE SAO JOSE DO RIO PARDO - SAERP",
-"municipio": "São José do Rio Pardo",
-"uf": "SP",
-"codigoIbge": "3549706",
-"objeto": "Contratação de empresa especializada para locação de licença de uso de software de gestão de serviços de água, esgoto, dívida ativa, baixa integrada e protocolo para a SAERP, incluindo conversão de dados, implantação, treinamento, suporte técnico e atualizações.",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 65390.04,
-"dataEncerramentoProposta": "2026-10-28T07:59:00",
-"dataPublicacaoPncp": "2026-10-14T10:43:58",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]4JOOLPxQDjbi9B/WGn2gRm6t2chQqcNIyt302oMnOGNF4_LKvqNqG_pJWOpbN9mDqzjXdPLWhKrwVxDTO60eMKzrEmKOENTqMTS55qVKPig=",
-"processo": "10/2026"
-},
-{
-"numeroControlePNCP": "76206473000101-1-000220/2026",
-"orgao": "MUNICIPIO DE CEU AZUL",
-"cnpj": "76206473000101",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Departamento de Educação",
-"municipio": "Céu Azul",
-"uf": "PR",
-"codigoIbge": "4105300",
-"objeto": "contratação a seleção de empresa especializada para a prestação de serviços de implantação, administração, gerenciamento, emissão, fornecimento e operacionalização do Programa Cartão Educação - Auxílio Material Escolar, mediante disponibilização de cartão eletrônico e sistema informatizado de gestão, destinado à concessão de auxílio financeiro para aquisição exclusiva de materiais escolares aos estudantes regularmente matriculados nas etapas obrigatórias da Educação Básica da Rede Municipal de Ensino de Céu Azul - Paraná, compreendendo a Pré-escola (Infantil IV e V) e o Ensino Fundamental (1º ao 5º ano).",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 245750.0,
-"dataEncerramentoProposta": "2026-10-28T08:00:00",
-"dataPublicacaoPncp": "2026-10-06T07:14:14",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": null,
-"processo": "216/2026"
-},
-{
-"numeroControlePNCP": "73966913000130-1-000057/2026",
-"orgao": "PARANAVAI CONSORCIO INTERMUNICIPAL DE SAUDE",
-"cnpj": "73966913000130",
-"esfera": "Não informado",
-"poder": "Executivo",
-"unidade": "CONSORCIO INTERMUNICIPAL DE SAUDE - SEDE",
-"municipio": "Paranavaí",
-"uf": "PR",
-"codigoIbge": "4118402",
-"objeto": "CONTRATAÇÃO DE PESSOA JURÍDICA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE TELEMEDICINA DIAGNÓSTICA - TELEDIAGNÓSTICO DE ELETROCARDIOGRAMA (TELE-ECG), COM DISPONIBILIZAÇÃO DE EQUIPAMENTOS EM REGIME DE COMODATO, PARA ATENDIMENTO AOS MUNICÍPIOS CONSORCIADOS AO CIS/AMUNPAR",
-"modalidade": "Pregão - Eletrônico",
-"srp": true,
-"valorEstimado": 409386.0,
-"dataEncerramentoProposta": "2026-10-28T08:00:00",
-"dataPublicacaoPncp": "2026-10-08T08:14:08",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Assistencial / telessaúde"
-],
-"cnaes": [
-"86.30-5/03 · 86.50"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": null,
-"processo": "54/2026"
-},
-{
-"numeroControlePNCP": "45122603000102-1-000642/2026",
-"orgao": "MUNICIPIO DE CATANDUVA",
-"cnpj": "45122603000102",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNICIPAL DE CATANDUVA",
-"municipio": "Catanduva",
-"uf": "SP",
-"codigoIbge": "3511102",
-"objeto": "Contratação de empresa única e especializada em Engenharia de Segurança e Medicina do Trabalho para a prestação de serviços técnicos de elaboração, implementação, acompanhamento, atualização, emissão de laudos e gestão integrada do Programa de Gerenciamento de Riscos (PGR), do Laudo Técnico das Condições Ambientais do Trabalho (LTCAT) e do Programa de Controle Médico de Saúde Ocupacional (PCMSO), destinados a atender aos servidores ativos do Poder Executivo da Prefeitura Municipal de Catanduva",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 54000.0,
-"dataEncerramentoProposta": "2026-10-28T08:30:00",
-"dataPublicacaoPncp": "2026-10-13T15:44:59",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Psicologia / riscos psicossociais"
-],
-"cnaes": [
-"86.50-0/03"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]vE5O/sOGHzt5/lmVkAWkkuR9Q8cH2Xfv7TrknQiMREp3kwBfMeASDX_IqbPljoom7BVMDmWji95tlPQShneQ76Td4W00zofKAxjFZAmIg9I=",
-"processo": "14855/2026"
-},
-{
-"numeroControlePNCP": "08894859000101-1-000059/2026",
-"orgao": "MUNICIPIO DE BAIA DA TRAICAO",
-"cnpj": "08894859000101",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Prefeitura Municipal de Baia Da Traição",
-"municipio": "Baía da Traição",
-"uf": "PB",
-"codigoIbge": "2501401",
-"objeto": "[Portal de Compras Públicas] - Contratação de empresa do ramo pertinente para aquisição de equipamentos de informática destinados ao fortalecimento da infraestrutura tecnológica das Unidades Básicas de Saúde do Município de Baía da Traição/PB, garantindo a utilização plena do Prontuário Eletrônico do Cidadão (PEC e-SUS APS), sistemas do Ministério da Saúde, telessaúde, regulação, assistência farmacêutica e demais sistemas corporativos utilizados pela Secretaria Municipal de Saúde",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 223002.5,
-"dataEncerramentoProposta": "2026-10-28T08:59:00",
-"dataPublicacaoPncp": "2026-10-15T11:32:49",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Apoio à gestão de saúde",
-"Assistencial / telessaúde"
-],
-"cnaes": [
-"86.60-7/00",
-"86.30-5/03 · 86.50"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/PB/Prefeitura-Municipal-de-Baia-Da-Traicao-2641/PE-31-2026-2026-518571",
-"processo": "261008PE00031"
-},
-{
-"numeroControlePNCP": "46523080000160-1-000170/2026",
-"orgao": "MUNICIPIO DE FRANCO DA ROCHA",
-"cnpj": "46523080000160",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Prefeitura Municipal de Franco da Rocha",
-"municipio": "Franco da Rocha",
-"uf": "SP",
-"codigoIbge": "3516408",
-"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO DE LICENÇA DE USO DE SISTEMA INTEGRADO ONLINE DE GESTÃO PARA CONTROLE E GERENCIAMENTO DA COMUNICAÇÃO, DOCUMENTAÇÃO E ATIVIDADES ESPORTIVAS, PARADESPORTIVAS E DE LAZER",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 36000.0,
-"dataEncerramentoProposta": "2026-10-28T10:00:00",
-"dataPublicacaoPncp": "2026-10-13T16:38:38",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "",
-"processo": "9978/2025"
-},
-{
-"numeroControlePNCP": "11431327000134-1-000116/2026",
-"orgao": "PERNAMBUCO TRIBUNAL DE JUSTICA",
-"cnpj": "11431327000134",
-"esfera": "Estadual",
-"poder": "Judiciário",
-"unidade": "Unidade Única",
-"municipio": "Recife",
-"uf": "PE",
-"codigoIbge": "2611606",
-"objeto": "(6225411) - LICENCA DE USO DE SOFTWARE - GEOIP WEB SERVICES - GEOIP CITY PLUS (GEOIP2 CITY),CREDITOS PARA 6.000.000 DE CONSULTAS,VERSAO ATUAL NA PLATAFORMA MAXMIND.",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 18123.15,
-"dataEncerramentoProposta": "2026-10-28T12:00:00",
-"dataPublicacaoPncp": "2026-10-20T10:17:00",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://app2.licitardigital.com.br/pesquisa/103023",
-"processo": "009/2026"
-},
 {
 "numeroControlePNCP": "07242972000131-1-000039/2026",
 "orgao": "CONSORCIO INTERESTADUAL E INTERMUNICIPAL DE MUNICIPIOS DE SC, PR E RS, DE SEG. ALIMENTAR, ATENCAO A SANID. AGROP. E DESENVOLVIMENTO LOCAL-CONSAD",
@@ -7351,6 +7139,66 @@
 "processo": "83/2026"
 },
 {
+"numeroControlePNCP": "87958658000199-1-001137/2026",
+"orgao": "SUBSECRETARIA DA ADMINISTRACAO CENTRAL DE LICITACOES",
+"cnpj": "87958658000199",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "CELIC - SUBSECRETARIA DA ADMINISTRAÇÃO CENTRAL DE LICITAÇÕES",
+"municipio": "Porto Alegre",
+"uf": "RS",
+"codigoIbge": "4314902",
+"objeto": "Contratação de empresa especializada em saúde ocupacional para execução\r\ndo Programa de Controle Médico de Saúde Ocupacional – PCMSO da FASE\r\nnas unidades CASE e CAS Uruguaiana, conforme anexo VI - Termo de Referência.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 14318.08,
+"dataEncerramentoProposta": "2026-11-13T09:00:00",
+"dataPublicacaoPncp": "2026-10-28T08:30:48",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://www.compras.rs.gov.br/editais/9323_2026/358728",
+"processo": "23/2158-0001561-0"
+},
+{
+"numeroControlePNCP": "87530978000143-1-000439/2026",
+"orgao": "MUNICIPIO DE CACHOEIRA DO SUL",
+"cnpj": "87530978000143",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura de Cachoeira do Sul",
+"municipio": "Cachoeira do Sul",
+"uf": "RS",
+"codigoIbge": "4303004",
+"objeto": "[Portal de Compras Públicas] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM IMPLANTAÇÃO DE SISTEMA DE GESTÃO DE SAÚDE, LOCAÇÃO DE SERVIDOR REMOTO, LICENCIAMENTO ANUAL DE USO DE SOFTWARE, GESTÃO E TREINAMENTO.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 508059.8,
+"dataEncerramentoProposta": "2026-11-13T09:00:00",
+"dataPublicacaoPncp": "2026-10-28T08:33:33",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Apoio à gestão de saúde"
+],
+"cnaes": [
+"86.60-7/00"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/RS/Prefeitura-Municipal-de-Cachoeira-do-Sul-27/PE-149-2026-2026-521645",
+"processo": "11219"
+},
+{
 "numeroControlePNCP": "50793660000145-1-000157/2026",
 "orgao": "CAMARA DE VEREADORES DA ESTANCIA TURISTICA DE ITU",
 "cnpj": "50793660000145",
@@ -7679,6 +7527,36 @@
 "prioritario": false,
 "linkEdital": "https://licitanet.com.br/sessao/206169",
 "processo": "221"
+},
+{
+"numeroControlePNCP": "10391817000191-1-000040/2026",
+"orgao": "FUNDO MUNICIPAL DE SAUDE DE CATANDUVAS",
+"cnpj": "10391817000191",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "Fundo Municipal de Saúde de Catanduvas",
+"municipio": "Catanduvas",
+"uf": "SC",
+"codigoIbge": "4204004",
+"objeto": "Contratação de empresa especializada para prestação de serviços técnicos de assessoria e consultoria em Regulação Ambulatorial, em apoio a Central Municipal de Regulação, conforme informações constantes no anexo \"II\".",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 102000.0,
+"dataEncerramentoProposta": "2026-11-16T13:30:01",
+"dataPublicacaoPncp": "2026-10-28T08:26:04",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Apoio à gestão de saúde"
+],
+"cnaes": [
+"86.60-7/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "PE15/2026 FMS"
 },
 {
 "numeroControlePNCP": "57741852000157-1-000011/2026",
@@ -31629,6 +31507,36 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "29630"
+},
+{
+"numeroControlePNCP": "06096655000191-1-000038/2026",
+"orgao": "MUNICIPIO DE AFONSO CUNHA",
+"cnpj": "06096655000191",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Afonso Cunha",
+"municipio": "Afonso Cunha",
+"uf": "MA",
+"codigoIbge": "2100105",
+"objeto": "Prestação de serviços técnicos especializados em Saúde e Segurança do Trabalho SST",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 132000.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-28T08:33:14",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "http://www.licitaafonsocunha.com.br",
+"processo": "002.01.00007"
 }
 ]
 }
