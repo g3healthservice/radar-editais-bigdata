@@ -1,8 +1,8 @@
 {
-"build": 1793304845,
-"geradoEm": "2026-10-29",
+"build": 1793321475,
+"geradoEm": "2026-10-30",
 "modo": "incremental",
-"totalCaptado": 1105,
+"totalCaptado": 1111,
 "itens": [
 {
 "numeroControlePNCP": "04986163000146-1-000026/2026",
@@ -2509,6 +2509,36 @@
 "processo": "67005.002555/2026-64"
 },
 {
+"numeroControlePNCP": "00394502000144-1-014803/2026",
+"orgao": "COMANDO DA MARINHA",
+"cnpj": "00394502000144",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "CENT.INTEND.DA MARINHA EM S.PEDRO DA ALDEIA",
+"municipio": "São Pedro da Aldeia",
+"uf": "RJ",
+"codigoIbge": "3305208",
+"objeto": "Contratação de serviços de gerenciamento de manutenção de viaturas junto à rede credenciada, para atender as demandas do Centro de Intendência da Marinha em São Pedro da Aldeia (CeIMSPA), com o propósito de atender as necessidades de manutenção preventiva e corretiva dos veículos, inclusive com o serviço de assistência 24 (vinte e quatro) horas para veículos; com o fornecimento de peças e acessórios; com implantação e operação de sistema informatizado, via web.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 64299.27,
+"dataEncerramentoProposta": "2026-11-05T08:00:00",
+"dataPublicacaoPncp": "2026-10-29T16:36:29",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=79118106001562026",
+"processo": "63398.001896/2026-95"
+},
+{
 "numeroControlePNCP": "88073291000199-1-000332/2026",
 "orgao": "MUNICIPIO DE BAGE",
 "cnpj": "88073291000199",
@@ -3293,6 +3323,36 @@
 "processo": "29653"
 },
 {
+"numeroControlePNCP": "00335142000100-1-000010/2026",
+"orgao": "CAMARA MUNICIPAL DE RESPLENDOR",
+"cnpj": "00335142000100",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "CÂMARA MUNICIPAL",
+"municipio": "Resplendor",
+"uf": "MG",
+"codigoIbge": "3154309",
+"objeto": "CONTRATAÇÃO DE EMPRESA PARA LICENCIAMENTO DE USO DE SISTEMAS DE TECNOLOGIA INTEGRADOS PARA A GESTÃO PÚBLICA MUNICIPAL, EM AMBIENTE DE NUVEM (DATA CENTER EXTERNO), PARA ATENDER ÀS DEMANDAS DA CÂMARA MUNICIPAL DE RESPLENDOR, INCLUINDO OS SERVIÇOS DE CONVERSÃO DE DADOS, IMPLANTAÇÃO, MIGRAÇÃO DE DADOS PREEXISTENTES, TREINAMENTO, MANUTENÇÃO, SUPORTE TÉCNICO E ACOMPANHAMENTO DURANTE O PERÍODO CONTRATUAL, COM ATENDIMENTO AOS REQUISITOS DO SIAFIC  SISTEMA ÚNICO E INTEGRADO DE EXECUÇÃO ORÇAMENTÁRIA, ADM",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 54000.0,
+"dataEncerramentoProposta": "2026-11-05T23:59:00",
+"dataPublicacaoPncp": "2026-10-29T17:16:49",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://www.camararesplendor.mg.gov.br/detalhe-da-licitacao/info/dp-10-2026/53",
+"processo": "10"
+},
+{
 "numeroControlePNCP": "34870576000121-1-000092/2026",
 "orgao": "TRIBUNAL DE JUSTICA DO ESTADO DO AMAPA",
 "cnpj": "34870576000121",
@@ -3411,6 +3471,36 @@
 "prioritario": false,
 "linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]OKvCb5SwJb3cVFjZxBoKJ4wXZmfiMgoqGG91R/ZtkW2kBU2N0qcU8_S1AiCbJeXv5J12L4AhMgsxnA_XbSf4cRZtWBU8_FNW9Od93KW14k4=",
 "processo": "15/2026"
+},
+{
+"numeroControlePNCP": "00509612000104-1-000028/2026",
+"orgao": "Empresa de Assistência Técnica e Extensão Rural do Distrito Federal",
+"cnpj": "00509612000104",
+"esfera": "Não informado",
+"poder": "Não informado",
+"unidade": "EMPRESA DE ASSITENCIA TECNICA E EXT. RURAL",
+"municipio": "Brasília",
+"uf": "DF",
+"codigoIbge": "5300108",
+"objeto": "Contratação de locação de espaço com atividades de Turismo Rural, localizado no Distrito Federal, destinado à realização do II Encontro de Excelência em Qualidade de Vida no Trabalho (QVT) e Ética da Emater-DF, com infraestrutura coberta para 200 (duzentas) pessoas sentadas, além de sanitários, área de alimentação, estacionamento e espaço para atividades recreativas e de bem-estar.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-11-06T08:00:00",
+"dataPublicacaoPncp": "2026-10-29T16:43:38",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92624106000232026",
+"processo": "00072-00002447/2026-53"
 },
 {
 "numeroControlePNCP": "10221760000182-1-000063/2026",
@@ -6779,6 +6869,36 @@
 "processo": "6057.2026/0003648-7"
 },
 {
+"numeroControlePNCP": "18385120000110-1-000094/2026",
+"orgao": "MUNICIPIO DE SIMONESIA",
+"cnpj": "18385120000110",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Unidade Única",
+"municipio": "Simonésia",
+"uf": "MG",
+"codigoIbge": "3167608",
+"objeto": "Contratação de empresa especializada para\nlocação de software de gestão de ponto eletrônico e banco de horas, plenamente\ncompatível com o relógio de ponto Control iD iDClass, com biometria e proximidade\nASK, destinado ao controle e gerenciamento da jornada de trabalho dos servidores da\nSecretaria Municipal de Saúde, contemplando cadastro e gestão de colaboradores, horários, escalas, justificativas, ausências, abonos, horas extras, adicional noturno,\nférias, afastamentos e banco de horas, com acesso via web por computadores e\nsmartphones, gerenciamento multiusuários, atualizações, instalação e treinamento dos\nusuários, em conformidade com a Portaria nº 671/2021 do Ministério do Trabalho e\nEmprego, conforme especificações constantes no Termo de Referência, em\natendimento as necessidades da Secretaria Municipal de Saúde de Simonésia/MG.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-11-13T09:00:00",
+"dataPublicacaoPncp": "2026-10-29T16:42:46",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Gestão de RH / escalas e ponto"
+],
+"cnaes": [
+"78.30-2/00"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": "https://app2.licitardigital.com.br/pesquisa/117959",
+"processo": "139/2026"
+},
+{
 "numeroControlePNCP": "50793660000145-1-000157/2026",
 "orgao": "CAMARA DE VEREADORES DA ESTANCIA TURISTICA DE ITU",
 "cnpj": "50793660000145",
@@ -7107,6 +7227,36 @@
 "prioritario": false,
 "linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]01QOJRg/XCq4NS5xPPjUcH3YM07E7iTSSRHHdwjARcvaxV2lz5BD0BUldfUVoTmlly00cKEQLu4VHedt/hzDLuMof5kuz7f_F9tINGbKO8k=",
 "processo": "061/2026"
+},
+{
+"numeroControlePNCP": "83102558000105-1-000079/2026",
+"orgao": "MUNICIPIO DE IRINEOPOLIS",
+"cnpj": "83102558000105",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE IRINEÓPOLIS",
+"municipio": "Irineópolis",
+"uf": "SC",
+"codigoIbge": "4207908",
+"objeto": "[Portal de Compras Públicas] - \"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A IMPLANTAÇÃO E OPERAÇÃO DE SISTEMA INFORMATIZADO DESTINADO À ADMINISTRAÇÃO E AO GERENCIAMENTO DO BENEFÍCIO VALE-UNIFORME ESCOLAR, INCLUINDO A DISPONIBILIZAÇÃO E O GERENCIAMENTO DE CARTÕES ELETRÔNICOS PERSONALIZADOS, COM CHIP E/OU TARJA MAGNÉTICA E TECNOLOGIA DE PAGAMENTO POR APROXIMAÇÃO, PARA UTILIZAÇÃO NA AQUISIÇÃO DE UNIFORMES ESCOLARES PELOS ESTUDANTES DA REDE MUNICIPAL DE ENSINO DO MUNICÍPIO DE IRINEÓPOLIS/SC\"",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 4.95,
+"dataEncerramentoProposta": "2026-11-16T08:59:00",
+"dataPublicacaoPncp": "2026-10-29T16:32:12",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/SC/Prefeitura-Municipal-de-Irineopolis-1705/PEP-80-2026-2026-522226",
+"processo": "40/2026 - PM"
 },
 {
 "numeroControlePNCP": "78101821000101-1-000195/2026",
@@ -33219,6 +33369,36 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "1.00.000.008598/2026-77"
+},
+{
+"numeroControlePNCP": "04816835000175-1-000058/2026",
+"orgao": "INSTITUTO DE PREVIDENCIA SOCIAL DOS SERVIDORES PUBLICOS DE PALHOCA",
+"cnpj": "04816835000175",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "Instituto de Previdência de Palhoça",
+"municipio": "Palhoça",
+"uf": "SC",
+"codigoIbge": "4211900",
+"objeto": "Inscrição de ALLAN PYETRO MELO SOUZA, PRESIDENTE DO IPPA, e OSVALDO BOSSOLAN NETO, CARGO DE CONSELHEIRO FISCAL, para participação no \"14º Congresso Brasileiro de Conselheiros de RPPS\", que ocorrerá nos dias 02 a 04 de dezembro de 2026 em Fortaleza - Ceará. O objetivo do evento é capacitar os conselheiros e servidores públicos para atuarem de forma colegiada como agentes promotores da boa governança, do equilíbrio financeiro e atuarial, de investimentos e de políticas previdenciárias do RPPS, contribuindo para a Instituição - IPPA.",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 2400.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-29T16:37:39",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Auditoria / consultoria atuarial"
+],
+"cnaes": [
+"66.21-5/02"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "59/2026"
 }
 ]
 }
