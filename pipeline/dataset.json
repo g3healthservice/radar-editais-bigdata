@@ -1,39 +1,9 @@
 {
-"build": 1793321475,
+"build": 1793339989,
 "geradoEm": "2026-10-30",
 "modo": "incremental",
-"totalCaptado": 1111,
+"totalCaptado": 1113,
 "itens": [
-{
-"numeroControlePNCP": "04986163000146-1-000026/2026",
-"orgao": "FUNDACAO AMAZONPREV",
-"cnpj": "04986163000146",
-"esfera": "Estadual",
-"poder": "Executivo",
-"unidade": "FUNDAÃ‡ÃƒO FUNDO PREVIDENCIÃRIO DO ESTADO DO AMAZONAS",
-"municipio": "Manaus",
-"uf": "AM",
-"codigoIbge": "1302603",
-"objeto": "Serv. Saúde Ocupacional - AMAZONPREV",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": null,
-"dataEncerramentoProposta": "2026-10-30T00:59:59",
-"dataPublicacaoPncp": "2026-10-26T14:33:08",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Psicologia / riscos psicossociais"
-],
-"cnaes": [
-"86.50-0/03"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://www.e-compras.am.gov.br/publico/licitacoes_detalhes.asp?ident=256839",
-"processo": "013301.009853/2026"
-},
 {
 "numeroControlePNCP": "06772859000103-1-000183/2026",
 "orgao": "MUNICIPIO DE SAO RAIMUNDO NONATO",
@@ -3503,6 +3473,36 @@
 "processo": "00072-00002447/2026-53"
 },
 {
+"numeroControlePNCP": "14921092000157-1-000190/2026",
+"orgao": "PROCURADORIA GERAL DE JUSTICA DO ESTADO DE MATO GROSSO",
+"cnpj": "14921092000157",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "MINISTéRIO PúBLICO DO ESTADO DO MATO GROSSO",
+"municipio": "Cuiabá",
+"uf": "MT",
+"codigoIbge": "5103403",
+"objeto": "Contratação de empresa especializada para fornecimento do serviço de acesso à internet via satélite de órbita baixa, para uso veicular, incluindo equipamentos, instalação e suporte técnico, durante a vigência do contrato, para atendimento das demandas da Procuradoria-Geral de Justiça, da Corregedoria-Geral e da Ouvidoria-Geral do Ministério Público, nas condições estabelecidas neste termo de referência e seus anexos.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-11-06T08:00:00",
+"dataPublicacaoPncp": "2026-10-29T18:53:04",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92662506002182026",
+"processo": "20.14.0001.0002889/2026-05"
+},
+{
 "numeroControlePNCP": "10221760000182-1-000063/2026",
 "orgao": "MUNICIPIO DE TRAIRAO",
 "cnpj": "10221760000182",
@@ -6957,6 +6957,36 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "28940"
+},
+{
+"numeroControlePNCP": "00550694000130-1-000071/2026",
+"orgao": "VIAMAO CAMARA MUNICIPAL",
+"cnpj": "00550694000130",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "CAMARA MUNICIPAL DE VEREADORES",
+"municipio": "Viamão",
+"uf": "RS",
+"codigoIbge": "4323002",
+"objeto": "Contratacao de Empresa especializada na prestacao de servicos de saude ocupacional e de medicina e seguranca do trabalho  conforme descrito neste Termo de Referencia",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 80893.1,
+"dataEncerramentoProposta": "2026-11-13T13:50:00",
+"dataPublicacaoPncp": "2026-10-29T17:51:55",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": " ",
+"processo": "18"
 },
 {
 "numeroControlePNCP": "00550694000130-1-000070/2026",
@@ -31163,7 +31193,7 @@
 "objeto": "Software - SaaS- RH_Folha - SEAD",
 "modalidade": "Dispensa",
 "srp": false,
-"valorEstimado": null,
+"valorEstimado": 17820000.0,
 "dataEncerramentoProposta": null,
 "dataPublicacaoPncp": "2026-10-27T09:18:38",
 "fonteRecurso": [
@@ -32977,7 +33007,7 @@
 ],
 "categoria": "disputar",
 "prioritario": false,
-"linkEdital": null,
+"linkEdital": "https://portal.tce.rs.gov.br/aplicprod/f?p=50500:10:::NO:10:P10_ID_LICITACAO,P10_PAG_RETORNO,F50500_CD_ORGAO:1609055,14,88302&cs=1Y4SpXnpkuDB7Tv6kg829e0ZRbsE",
 "processo": "33"
 },
 {
@@ -33399,6 +33429,36 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "59/2026"
+},
+{
+"numeroControlePNCP": "04629283000196-1-000077/2025",
+"orgao": "MUNICIPIO DE BOA VISTA DO RAMOS",
+"cnpj": "04629283000196",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Boa Vista do Ramos",
+"municipio": "Boa Vista do Ramos",
+"uf": "AM",
+"codigoIbge": "1300680",
+"objeto": "[Portal de Compras Públicas] - 1.1.\tContratação de empresa especializada para fornecimento de licença de uso de sistema destinado à realização de pesquisa de preços, análises comparativas e apoio ao planejamento de compras públicas, visando atender às necessidades da Prefeitura Municipal de Boa Vista do Ramos/AM",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 10000.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-29T18:12:06",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/AM/Prefeitura-Municipal-de-Boa-Vista-do-Ramos-5175/INEX-030-2025-2026-522262",
+"processo": "5074/2025"
 }
 ]
 }
