@@ -1,8 +1,8 @@
 {
-"build": 1793389065,
-"geradoEm": "2026-10-30",
+"build": 1793404985,
+"geradoEm": "2026-10-31",
 "modo": "incremental",
-"totalCaptado": 1106,
+"totalCaptado": 1114,
 "itens": [
 {
 "numeroControlePNCP": "18348094000150-1-000097/2026",
@@ -6565,6 +6565,36 @@
 "processo": "139/2026"
 },
 {
+"numeroControlePNCP": "18303214000100-1-000058/2026",
+"orgao": "MUNICIPIO DE MORRO DO PILAR",
+"cnpj": "18303214000100",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Unidade Única",
+"municipio": "Morro do Pilar",
+"uf": "MG",
+"codigoIbge": "3143708",
+"objeto": "O Registro de Preço visando a aquisição de Equipamentos de Proteção Individual – EPI, destinados aos servidores e colaboradores do Município de Morro do Pilar/MG, para atendimento às necessidades das diversas Secretarias Municipais e respectivos setores, visando assegurar condições adequadas de saúde e segurança no trabalho",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 68453.73,
+"dataEncerramentoProposta": "2026-11-13T09:00:00",
+"dataPublicacaoPncp": "2026-10-30T14:56:12",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://app2.licitardigital.com.br/pesquisa/117993",
+"processo": "000126/2026"
+},
+{
 "numeroControlePNCP": "50793660000145-1-000157/2026",
 "orgao": "CAMARA DE VEREADORES DA ESTANCIA TURISTICA DE ITU",
 "cnpj": "50793660000145",
@@ -6803,6 +6833,40 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "158/2026"
+},
+{
+"numeroControlePNCP": "02319394000170-1-000087/2026",
+"orgao": "CISALP-CONSORCIO PUBLICO INTERMUNICIPAL DE SAUDE A MICRO-REGIAO DO ALTO PARANAIBA",
+"cnpj": "02319394000170",
+"esfera": "Não informado",
+"poder": "Executivo",
+"unidade": "CONSÓRCIO INTERMUNICIPAL DE SAÚDE DO ALTO PARANAÍBA - CISALP/MG",
+"municipio": "Lagoa Formosa",
+"uf": "MG",
+"codigoIbge": "3137502",
+"objeto": "[LICITANET] - Registro de Preços para futura e eventual contratação de empresa especializada para implantação de Espaço Pedagógico Sensorial (EPS) – Sala Multissensorial, incluindo projeto, fornecimento de equipamentos, mobiliários, materiais, instalação, treinamento e entrega em pleno funcionamento, bem como disponibilização de plataforma web em nuvem para gestão da educação especial, gestão de equipes multiprofissionais para neurodivergentes e teleatendimento, contemplando prontuário eletrônico, gestão de atendimentos, PEI, PTS, teleatendimento, relatórios, dashboards e recursos de inteligência artificial com processamento seguro de dados, destinada à estruturação, ampliação e fortalecimento dos serviços especializados ofertados pelos entes consorciados ao CISALP e pelas unidades geridas pelo consórcio.",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 18540004.65,
+"dataEncerramentoProposta": "2026-11-16T08:30:00",
+"dataPublicacaoPncp": "2026-10-30T15:52:19",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Apoio à gestão de saúde",
+"Licenciamento de software / SaaS",
+"Assistencial / telessaúde"
+],
+"cnaes": [
+"86.60-7/00",
+"62.02/62.03/63.11",
+"86.30-5/03 · 86.50"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://licitanet.com.br/sessao/206644",
+"processo": "071/2026"
 },
 {
 "numeroControlePNCP": "24651234000167-1-000064/2026",
@@ -33245,6 +33309,186 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "INEX 11/2026"
+},
+{
+"numeroControlePNCP": "27165711000172-1-000185/2026",
+"orgao": "MUNICIPIO DE RIO NOVO DO SUL",
+"cnpj": "27165711000172",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE RIO NOVO DO SUL",
+"municipio": "Rio Novo do Sul",
+"uf": "ES",
+"codigoIbge": "3204401",
+"objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS PARA GERAÇÃO DOS EVENTOS DE SEGURANÇA E SAÚDE NO TRABALHO (SST) DESTINADOS AO ESOCIAL, COMPREENDENDO A GERAÇÃO DOS ARQUIVOS ELETRÔNICOS DOS EVENTOS S-2210 (COMUNICAÇÃO DE ACIDENTE DE TRABALHO - CAT), S-2220 (MONITORAMENTO DA SAÚDE DO TRABALHADOR) E S-2240 (CONDIÇÕES AMBIENTAIS DO TRABALHO - AGENTES NOCIVOS), BEM COMO A DISPONIBILIZAÇÃO DE AMBIENTE INFORMATIZADO PARA REGISTRO DA CAT, EMISSÃO DOS RESPECTIVOS ARQUIVOS EM FORMATO XML E SUPORTE TÉCNICO RELACIONADO AOS SERVIÇOS CONTRATADOS, CONFORME ESPECIFICAÇÕES CONSTANTES NO TERMO DE REFERÊNCIA.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 24860.04,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-30T11:54:15",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "2026-CJ8N4/2026"
+},
+{
+"numeroControlePNCP": "58987629000157-1-000516/2026",
+"orgao": "MUNICIPIO DE ALUMINIO",
+"cnpj": "58987629000157",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE ALUMÍNIO",
+"municipio": "Alumínio",
+"uf": "SP",
+"codigoIbge": "3501152",
+"objeto": "bobina termossensivel para ponto eletronico",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 2460.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-30T11:58:28",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Gestão de RH / escalas e ponto"
+],
+"cnaes": [
+"78.30-2/00"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": null,
+"processo": "519/2026"
+},
+{
+"numeroControlePNCP": "58987629000157-1-000554/2026",
+"orgao": "MUNICIPIO DE ALUMINIO",
+"cnpj": "58987629000157",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE ALUMÍNIO",
+"municipio": "Alumínio",
+"uf": "SP",
+"codigoIbge": "3501152",
+"objeto": "FORNECIMENTO DE LICENÇA DE USO DE SOFTWARE AUTOCAD",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 15819.3,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-30T12:28:09",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "561/2026"
+},
+{
+"numeroControlePNCP": "76276849000154-1-000399/2026",
+"orgao": "MINISTERIO PUBLICO DO ESTADO DE SANTA CATARINA PROCURADORIA GERAL DE JUSTICA",
+"cnpj": "76276849000154",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "MPSC",
+"municipio": "Florianópolis",
+"uf": "SC",
+"codigoIbge": "4205407",
+"objeto": "CONTRATAÇÃO DE PLATAFORMA CORPORATIVA DE DESENVOLVIMENTO LOW-CODE - PLATAFORMA MTI SIMPLIFICA, BASEADA NA TECNOLOGIA SYDLE ONE, DISPONIBILIZADA EM MODALIDADE SOFTWARE AS A SERVICE (SAAS), COMPREENDENDO LICENCIAMENTO, INFRAESTRUTURA DE COMPUTAÇÃO EM NUVEM, SERVIÇOS ESPECIALIZADOS DE IMPLANTAÇÃO, PARAMETRIZAÇÃO, MIGRAÇÃO DE DADOS, CAPACITAÇÃO, SUPORTE TÉCNICO E DESENVOLVIMENTO DE SOFTWARE SOB DEMANDA, TENDO COMO PRIMEIRA ENTREGA A IMPLEMENTAÇÃO DOS SISTEMAS DE AUXÍLIO-SAÚDE E CARTÓRIO VIRTUAL.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 1977721.96,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-30T15:34:42",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "2026/028546"
+},
+{
+"numeroControlePNCP": "01488169000103-1-000019/2025",
+"orgao": "UNIAO DOS MUNICIPIOS DA MEDIA SOROCABANA - UMMES",
+"cnpj": "01488169000103",
+"esfera": "Não informado",
+"poder": "Executivo",
+"unidade": "UMMES UNIAO DOS MUNICIPIOS DA MEDIA SOROCABANA",
+"municipio": "Santa Cruz do Rio Pardo",
+"uf": "SP",
+"codigoIbge": "3546405",
+"objeto": "CONTRATACAO DE PESSOA JURIDICA ESPECIALIZADA PARA PRESTACAO DOS SERVICOS DE SEGURO POR UM PERIODO DE 12 MESES, PARA DUAS AMBULANCIAS DOADAS 475/2025 PARA A RENOVACAO DA FROTA DO SERVICO DE ATENDIMENTO MOVEL DE URGENCIA(SAMU) PERTENCENTE A CENTRAL DE REGULACAO DAS URGENCIAS DE SANTA CRUZ DO |RIO PARDO, CONFORME DESCRITO NO TERMO DE REFERENCIA.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 31160.38,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-30T15:53:29",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Apoio à gestão de saúde"
+],
+"cnaes": [
+"86.60-7/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "http://pncpmap.jelastic.saveincloud.net",
+"processo": "9/2025"
+},
+{
+"numeroControlePNCP": "79869772000114-1-000079/2026",
+"orgao": "CAMARA MUNICIPAL DE CAMPO MOURAO",
+"cnpj": "79869772000114",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "Câmara Municipal",
+"municipio": "Campo Mourão",
+"uf": "PR",
+"codigoIbge": "4104303",
+"objeto": "Contratação de empresa especializada para a promoção do curso de treinamento com os temas \"Regras para Emendas Impositivas nas Câmaras Municipais - Análise Prática da EC Nº 126/2022, da ADI 7493 e Impactos Diretos no seu Município.\" e \"Gestão Municipal Transparente e Digital - Portal da Transparência, Ouvidoria e Publicidade Oficial.\", a ser realizado na cidade de Maringá/PR, nos dias 03, 04, 05 e 06 de novembro de 2026, visando a participação do vereador Edilson Vedovatti Martins.",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 2790.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-30T14:42:38",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "68/2026"
 }
 ]
 }
