@@ -1,8 +1,8 @@
 {
-"build": 1793404985,
-"geradoEm": "2026-10-31",
+"build": 1793598790,
+"geradoEm": "2026-11-02",
 "modo": "incremental",
-"totalCaptado": 1114,
+"totalCaptado": 1116,
 "itens": [
 {
 "numeroControlePNCP": "18348094000150-1-000097/2026",
@@ -3137,6 +3137,36 @@
 "prioritario": false,
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92662506002182026",
 "processo": "20.14.0001.0002889/2026-05"
+},
+{
+"numeroControlePNCP": "01015676000111-1-000061/2026",
+"orgao": "CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE GOIAS",
+"cnpj": "01015676000111",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "CONSELHO REGIONAL DE CONTABILIDADE - GO",
+"municipio": "Goiânia",
+"uf": "GO",
+"codigoIbge": "5208707",
+"objeto": "Contratação de empresa especializada em serviços em Segurança e Saúde do Trabalho para elaboração do\nPrograma de Gerenciamento de Risco (PGR), Programa de Controle Médico de Saúde Ocupacional (PCMSO), Laudo\nTécnico de Insalubridade e Periculosidade (LTIP) e Laudo De Condições Ambientais de Trabalho (LTCAT) e PPP -\nPerfil Profissiográfico Previdenciário, seguindo os parâmetros da NR-15 e NR-16 conforme exigido pela Lei n° 8.213\n/91 e suas modificações.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 31042.95,
+"dataEncerramentoProposta": "2026-11-06T08:00:00",
+"dataPublicacaoPncp": "2026-10-30T17:07:31",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92686406000582026",
+"processo": "000169/2026-20"
 },
 {
 "numeroControlePNCP": "10221760000182-1-000063/2026",
@@ -33489,6 +33519,36 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "68/2026"
+},
+{
+"numeroControlePNCP": "01488169000103-1-000024/2025",
+"orgao": "UNIAO DOS MUNICIPIOS DA MEDIA SOROCABANA - UMMES",
+"cnpj": "01488169000103",
+"esfera": "Não informado",
+"poder": "Executivo",
+"unidade": "UMMES UNIAO DOS MUNICIPIOS DA MEDIA SOROCABANA",
+"municipio": "Santa Cruz do Rio Pardo",
+"uf": "SP",
+"codigoIbge": "3546405",
+"objeto": "CONTRATACAO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO DE LICENCIAMENTO DE USO DE PROGRAMAS DE INFORMATICA (SOFTWARES) EM AMBIENTE DE NUVEM, ABRANGENDO SUPORTE TECNICO, MANUTENCAO, ATUALIZACOES, OPERACAO ASSISTIDA E DEMAIS SERVICOS NECESSARIOS AO FUNCIONAMENTO DOS MODULOS INTEGRADOS",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 104173.33,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-10-30T23:19:34",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "http://pncpmap.jelastic.saveincloud.net",
+"processo": "33/2025"
 }
 ]
 }
