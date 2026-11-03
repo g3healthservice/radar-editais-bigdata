@@ -1,39 +1,9 @@
 {
-"build": 1793663041,
-"geradoEm": "2026-11-02",
+"build": 1793687060,
+"geradoEm": "2026-11-03",
 "modo": "incremental",
 "totalCaptado": 1116,
 "itens": [
-{
-"numeroControlePNCP": "18348094000150-1-000097/2026",
-"orgao": "MUNICIPIO DE AIMORES",
-"cnpj": "18348094000150",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Unidade Única",
-"municipio": "Aimorés",
-"uf": "MG",
-"codigoIbge": "3101102",
-"objeto": "Constitui objeto deste Edital o credenciamento de microempreendedores individuais, microempresas ou pessoas jurídicas interessadas na prestação de serviços de instrutor(a)/facilitador(a) de oficina de capoeira, para atendimento aos serviços socioassistenciais, incluindo aulas teóricas e práticas de capoeira, musicalidade, ritmo, expressão corporal, disciplina, convivência comunitária, coordenação de grupos, registros de atividades, controle de frequência, participação em apresentações, campanhas e eventos comunitários e valorização da cultura brasileira.",
-"modalidade": "Credenciamento",
-"srp": false,
-"valorEstimado": 30000.0,
-"dataEncerramentoProposta": "2026-11-02T23:59:59",
-"dataPublicacaoPncp": "2026-09-02T12:55:50",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Gestão de RH / escalas e ponto"
-],
-"cnaes": [
-"78.30-2/00"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://app2.licitardigital.com.br/pesquisa/112315",
-"processo": "095/2026"
-},
 {
 "numeroControlePNCP": "76169879000161-1-000192/2026",
 "orgao": "MUNICIPIO DE RESERVA",
@@ -33549,6 +33519,36 @@
 "prioritario": false,
 "linkEdital": "http://pncpmap.jelastic.saveincloud.net",
 "processo": "33/2025"
+},
+{
+"numeroControlePNCP": "01488169000103-1-000025/2025",
+"orgao": "UNIAO DOS MUNICIPIOS DA MEDIA SOROCABANA - UMMES",
+"cnpj": "01488169000103",
+"esfera": "Não informado",
+"poder": "Executivo",
+"unidade": "UMMES UNIAO DOS MUNICIPIOS DA MEDIA SOROCABANA",
+"municipio": "Santa Cruz do Rio Pardo",
+"uf": "SP",
+"codigoIbge": "3546405",
+"objeto": "EVENTUAL AQUISICAO DE EQUIPAMENTO ELETRONICO DO TIPO RELOGIO DE PONTO COM RECONHECIMENTO FACIAL, DE ACORDO COM AS NECESSIDADES OPERACIONAIS DAS BASES DO SAMU, DESTINADO AO CONTROLE DE FREQUENCIA DOS COLABORADORES DA UMMES - UNIAO DOS MUNICIPIOS DA MEDIA SOROCABANA, EM CONFORMIDADE COM A PORTARIA 671/2021 DO MINISTERIO DO TRABALHO E EMPREGO",
+"modalidade": "Dispensa",
+"srp": true,
+"valorEstimado": 32713.33,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-02T21:01:00",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Gestão de RH / escalas e ponto"
+],
+"cnaes": [
+"78.30-2/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "http://pncpmap.jelastic.saveincloud.net",
+"processo": "16/2025"
 }
 ]
 }
