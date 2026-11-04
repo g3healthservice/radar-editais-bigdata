@@ -1,39 +1,9 @@
 {
-"build": 1793748427,
-"geradoEm": "2026-11-03",
+"build": 1793771877,
+"geradoEm": "2026-11-04",
 "modo": "incremental",
-"totalCaptado": 1144,
+"totalCaptado": 1143,
 "itens": [
-{
-"numeroControlePNCP": "61876801000100-1-000012/2026",
-"orgao": "REDENCAO DA SERRA CAMARA MUNICIPAL",
-"cnpj": "61876801000100",
-"esfera": "Municipal",
-"poder": "Legislativo",
-"unidade": "GERAL",
-"municipio": "Redenção da Serra",
-"uf": "SP",
-"codigoIbge": "3542305",
-"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE SAÚDE E SEGURANÇA DO TRABALHO PARA A CÂMARA MUNICIPAL.",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 4882.33,
-"dataEncerramentoProposta": "2026-11-03T23:59:59",
-"dataPublicacaoPncp": "2026-10-27T15:57:49",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Psicologia / riscos psicossociais"
-],
-"cnaes": [
-"86.50-0/03"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": null,
-"processo": "PC 000012/2026"
-},
 {
 "numeroControlePNCP": "45226214000119-1-000450/2026",
 "orgao": "MUNICIPIO DE PINDAMONHANGABA",
@@ -33849,7 +33819,7 @@
 ],
 "categoria": "disputar",
 "prioritario": false,
-"linkEdital": null,
+"linkEdital": "https://portal.tce.rs.gov.br/aplicprod/f?p=50500:10:::NO:10:P10_ID_LICITACAO,P10_PAG_RETORNO,F50500_CD_ORGAO:1610462,14,46600&cs=1Rk3oXOR0HR-GyZo8K79eRM4sHXk",
 "processo": "2596"
 },
 {
