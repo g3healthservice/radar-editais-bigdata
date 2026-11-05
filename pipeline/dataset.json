@@ -1,39 +1,9 @@
 {
-"build": 1793881159,
+"build": 1793913724,
 "geradoEm": "2026-11-05",
 "modo": "incremental",
-"totalCaptado": 1149,
+"totalCaptado": 1161,
 "itens": [
-{
-"numeroControlePNCP": "83891283000136-1-001249/2026",
-"orgao": "FUNDACAO UNIVERSIDADE DO ESTADO DE SC UDESC",
-"cnpj": "83891283000136",
-"esfera": "Estadual",
-"poder": "Executivo",
-"unidade": "Centro de Ciências Tecnológicas - Joinville",
-"municipio": "Joinville",
-"uf": "SC",
-"codigoIbge": "4209102",
-"objeto": "Aquisição de Totem Digital de Telemedicina (2 unidades) customizado para projetos de pesquisa junto ao PPGELL UDESC Joinville, conforme especificações complementares presentes no Anexo III.",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": null,
-"dataEncerramentoProposta": "2026-11-05T14:00:00",
-"dataPublicacaoPncp": "2026-10-28T15:19:17",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Assistencial / telessaúde"
-],
-"cnaes": [
-"86.30-5/03 · 86.50"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": null,
-"processo": "29653"
-},
 {
 "numeroControlePNCP": "00335142000100-1-000010/2026",
 "orgao": "CAMARA MUNICIPAL DE RESPLENDOR",
@@ -1083,6 +1053,36 @@
 "prioritario": false,
 "linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]WHad9ovRxSucEDjQ7v4WFcXczXDvnSnb0tUO5NyZ1vOdEJ9WyuK5Zbdx3wC3RFrx9MQHDZbYo44XMWTFouOYKAIPmkd_zKeEZwz7EH9QeZ4=",
 "processo": "RSD-020116/007355/2026"
+},
+{
+"numeroControlePNCP": "07982010000119-1-000032/2026",
+"orgao": "MUNICIPIO DE NOVO ORIENTE",
+"cnpj": "07982010000119",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "SECRETARIA DE EDUCACAO",
+"municipio": "Novo Oriente",
+"uf": "CE",
+"codigoIbge": "2309409",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE LEVANTAMENTO, DIAGNÓSTICO, PREPARAÇÃO, HIGIENIZAÇÃO, TRIAGEM, CLASSIFICAÇÃO, ORGANIZAÇÃO, DIGITALIZAÇÃO, INDEXAÇÃO, CONTROLE DE QUALIDADE, CATALOGAÇÃO E DISPONIBILIZAÇÃO ELETRÔNICA DE DOCUMENTOS E DO ACERVO DOCUMENTAL FÍSICO DA PREFEITURA MUNICIPAL DE NOVO ORIENTE/CE, INCLUINDO DOCUMENTOS ADMINISTRATIVOS, FINANCEIROS, CONTÁBEIS, ORÇAMENTÁRIOS, PATRIMONIAIS, DE PESSOAL, DE COMPRAS, LICITAÇÕES, CONTRATOS, CONVÊNIOS, OBRAS E DEMAIS DOCUMENTOS INSTITUCIONAIS, COM FORNECIMENTO DE MÃO DE OBRA, EQUIPAMENTOS, INSUMOS, PROCEDIMENTOS DE SEGURANÇA DA INFORMAÇÃO, ENTREGA DE ARQUIVOS DIGITAIS PESQUISÁVEIS E METADADOS, ORGANIZAÇÃO E DEVOLUÇÃO DO ACERVO ORIGINAL, OBSERVADAS AS NORMAS ARQUIVÍSTICAS, A LEGISLAÇÃO DE PROTEÇÃO DE DADOS E OS REQUISITOS DEFINIDOS NO TERMO DE REFERÊNCIA, INCLUINDO DISPONIBILIZAÇÃO, CONFIGURAÇÃO, OPERAÇÃO, SUPORTE E HOSPEDAGEM EM NUVEM DE SISTEMA DE GERENCIAMENTO ELETRÔNICO DE DOCUMENTOS (GED), COM CONTROLE DE ACESSO, CONSULTA, PESQUISA, BACKUP E EXPORTAÇÃO DOS ARQUIVOS DURANTE A VIGÊNCIA CONTRATUAL, ATENDENDO AS NECESSIDADES DAS DIVERSAS SECRETARIAS DO MUNICÍPIO DE NOVO ORIENTE, ESTADO DO CEARÁ.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 298601.52,
+"dataEncerramentoProposta": "2026-11-09T08:59:00",
+"dataPublicacaoPncp": "2026-11-05T09:56:02",
+"fonteRecurso": [
+"Convênio"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "http://precodereferencia.m2atecnologia.com.br/c/dTyF7Nr2RY6et69fPZpLDg.725yfzicGlej/",
+"processo": "00.025/2026"
 },
 {
 "numeroControlePNCP": "33787094000140-1-000493/2026",
@@ -6227,6 +6227,36 @@
 "processo": "107/2026"
 },
 {
+"numeroControlePNCP": "18303271000181-1-000227/2026",
+"orgao": "MUNICIPIO DE SERRO",
+"cnpj": "18303271000181",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICIPIO DE SERRO",
+"municipio": "Serro",
+"uf": "MG",
+"codigoIbge": "3167103",
+"objeto": "Contratação de empresa especializada para a prestação de serviços de Engenharia e Segurança do Trabalho (LTCAT/PGR), compreendendo a elaboração, atualização, implantação, gestão e assistência técnica dos programas de saúde ocupacional exigidos pela legislação trabalhista e previdenciária, em conformidade com as Normas Regulamentadoras do Ministério do Trabalho e Emprego e as exigências do sistema e-Social, para atender às necessidades do Setor de Saúde e Segurança do Trabalho (SST) do Departamento de Recursos Humanos da Prefeitura Municipal de Serro/MG",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-11-18T08:15:00",
+"dataPublicacaoPncp": "2026-11-05T08:35:47",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://www.serro.mg.gov.br/portal/editais/0/1/1710",
+"processo": "107/2026"
+},
+{
 "numeroControlePNCP": "83622985000114-1-000031/2026",
 "orgao": "RIO DO SUL CAMARA DE VEREADORES",
 "cnpj": "83622985000114",
@@ -7373,6 +7403,66 @@
 "processo": "07150087/2026"
 },
 {
+"numeroControlePNCP": "13491152000186-1-000013/2026",
+"orgao": "FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL",
+"cnpj": "13491152000186",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL DE ARARIPINA/PE",
+"municipio": "Araripina",
+"uf": "PE",
+"codigoIbge": "2601102",
+"objeto": "[LICITANET] - Contratação de empresa para prestação de serviços de implantação e operacionalização de sistema informatizado (VIAINTERNET), tendo em vista o fornecimento, contínuo e ininterrupto, de combustíveis (GASOLINA), através de tecnologia de cartão, via postos de abastecimentos credenciados, para os veículos automotores à serviço da Secretaria Municipal de Assistência Social e Combate a Fome de Araripina – PE, CONFORME ESPECIFICAÇÕES CONSTANTES NO TERMO DE REFERÊNCIA.  \n\n",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 5.58,
+"dataEncerramentoProposta": "2026-11-23T09:00:00",
+"dataPublicacaoPncp": "2026-11-05T09:21:54",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://licitanet.com.br/sessao/206844",
+"processo": "013"
+},
+{
+"numeroControlePNCP": "12200168000120-1-000223/2026",
+"orgao": "MUNICIPIO DE RIO LARGO",
+"cnpj": "12200168000120",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "SECRETARIA MUNICIPAL DE FINANÇAS",
+"municipio": "Rio Largo",
+"uf": "AL",
+"codigoIbge": "2707701",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇO DE CESSÃO E LICENCIAMENTO DE SOFTWARES PARA IMPLANTAÇÃO DE SISTEMAS INTEGRADOS DE GESTÃO PÚBLICA PARA O MUNICÍPIO DE RIO LARGO/AL",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 551000.0,
+"dataEncerramentoProposta": "2026-11-23T09:00:00",
+"dataPublicacaoPncp": "2026-11-05T09:41:22",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "07150087"
+},
+{
 "numeroControlePNCP": "11546530000156-1-000030/2026",
 "orgao": "FUNDO MUNICIPAL DE SAUDE",
 "cnpj": "11546530000156",
@@ -7705,6 +7795,36 @@
 "prioritario": false,
 "linkEdital": "https://www.portaldecompraspublicas.com.br/processos/RS/Municipio-de-Alto-Feliz-2011/PE-52-2026-2026-523092",
 "processo": "538"
+},
+{
+"numeroControlePNCP": "76995430000152-1-000198/2026",
+"orgao": "MUNICIPIO DE ITAPEJARA D'OESTE",
+"cnpj": "76995430000152",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE ITAPEJARA D'OESTE-PR",
+"municipio": "Itapejara d'Oeste",
+"uf": "PR",
+"codigoIbge": "4111209",
+"objeto": "Contratação de empresa especializada na prestação de serviços de locação de licença de uso de software destinado a uso do Departamento Municipal de Saúde do Município de Itapejara D’Oeste - PR.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 98200.0,
+"dataEncerramentoProposta": "2026-11-25T10:00:00",
+"dataPublicacaoPncp": "2026-11-05T10:24:08",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45437005000442026",
+"processo": "90064/2026"
 },
 {
 "numeroControlePNCP": "83102293000145-1-000377/2026",
@@ -34482,7 +34602,7 @@
 "municipio": "João Pessoa",
 "uf": "PB",
 "codigoIbge": "2507507",
-"objeto": "CONTRATAÇÃO DE EMPRESA DA ÁREA DE INFORMÁTICA ESPECIALIZADA NO DESENVOLVIMENTO E/OU COMERCIALIZAÇÃO DE SOFTWARE INTEGRADO DE GESTÃO HOSPITALAR",
+"objeto": "Contratação de Empresa da Área de Informática Especializada no Desenvolvimento e/ou Comercialização de Software Integrado de Gestão Hospitalar",
 "modalidade": "Dispensa",
 "srp": false,
 "valorEstimado": 34234.44,
@@ -34531,6 +34651,246 @@
 "prioritario": false,
 "linkEdital": "",
 "processo": "5/2026"
+},
+{
+"numeroControlePNCP": "46137451000176-1-000418/2026",
+"orgao": "MUNICIPIO DE PIRATININGA",
+"cnpj": "46137451000176",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE PIRATININGA",
+"municipio": "Piratininga",
+"uf": "SP",
+"codigoIbge": "3539400",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA AQUISIÇÃO E IMPLANTAÇÃO DE SOFTWARE DE GESTÃO DE ATIVOS DE TI (IT ASSET MANAGEMENT – ITAM) NO FORMATO SAAS (SOFTWARE AS A SERVICE), INCLUINDO MÓDULOS PARA GERENCIAMENTO DE INVENTÁRIO, ANÁLISE DE VULNERABILIDADES, GESTÃO DE LICENÇAS E ACESSO REMOTO",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 17653.2,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-05T08:32:57",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "315"
+},
+{
+"numeroControlePNCP": "46248837000155-1-004246/2026",
+"orgao": "MUNICIPIO DE VARGEM GRANDE DO SUL",
+"cnpj": "46248837000155",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Vargem Grande do Sul",
+"municipio": "Vargem Grande do Sul",
+"uf": "SP",
+"codigoIbge": "3556404",
+"objeto": "Itens de informática para a Central de Regulação do CEM - Centro de Especialidades Médicas",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 1168.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-05T08:37:21",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Apoio à gestão de saúde"
+],
+"cnaes": [
+"86.60-7/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "CD4328/2026"
+},
+{
+"numeroControlePNCP": "10759024000182-1-000059/2026",
+"orgao": "MUNICIPIO DE ISRAELANDIA - FUNDO MUL ASSISTENCIA SOCIAL",
+"cnpj": "10759024000182",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "FUNDO M. DE ASSISTENCIA SOCIAL - FMAS",
+"municipio": "Israelândia",
+"uf": "GO",
+"codigoIbge": "5210307",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇO DE DECORAÇÃO, DESTINADOS A REALIZAÇÃO DA REUNIÃO DO PAIF, PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL DO MUNICIPIO DE ISRAELÂNDIA, ESTADO DE GOIÁS. CONFORME ANEOX INSERIDOS VIA SISTEMA INFORMATIZADOS. OS ORÇAMENTOS DEVERÃO SER ENVIADOS VIA E-MAIL: propostas.orcamentopmisr@gmail.com",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 516.66,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-05T09:09:26",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "2766/2026"
+},
+{
+"numeroControlePNCP": "09601829000114-1-000007/2026",
+"orgao": "CONTROLADORIA GERAL DO ESTADO DE RONDONIA",
+"cnpj": "09601829000114",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "ERO-CONTROLADORIA GERAL ESTADO DE RONDÔNIA",
+"municipio": "Porto Velho",
+"uf": "RO",
+"codigoIbge": "1100205",
+"objeto": "1 (uma) Subscrição de Licença de Software Canva Pro+, na modalidade SaaS, com acesso para até 05 (cinco) usuários. Acesso ilimitado a modelos Premium e mais de 100 milhões de fotos, vídeos, faixas e áudios e elementos gráficos profissionais, entre outros. 100 Kits de marca para logotipos, fontes e cores; Ferramentas de colaboração e administração de equipe; Redimensionamento de designs com o formato mágico; Remoção de fundos de imagem e vídeo; ferramentas de design baseadas em inteligência artificiaI- IA; Agendamento de publicações de conteúdo em plataformas de redes sociais; Armazenamento em nuvem (500GB);  A licenças terá a vigência mínima de 12 (doze) meses.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 3500.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-05T09:37:42",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "0007.000875/2026-99"
+},
+{
+"numeroControlePNCP": "01179647000195-1-000398/2026",
+"orgao": "MUNICIPIO DE PIRACANJUBA",
+"cnpj": "01179647000195",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PIRACANJUBA - F M S",
+"municipio": "Piracanjuba",
+"uf": "GO",
+"codigoIbge": "5217104",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA IMPLANTAÇÃO E OPERAÇÃO DE SISTEMA INFORMATIZADO E INTEGRADO DE GERENCIAMENTO DE MANUTENÇÃO PREVENTIVA E CORRETIVA DA FROTA VEÍCULOS LOTADOS NA SECRETARIA MUNI",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 970000.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-05T09:59:36",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "7552"
+},
+{
+"numeroControlePNCP": "13896758000100-1-000071/2026",
+"orgao": "MUNICIPIO DE VARZEA DA ROCA",
+"cnpj": "13896758000100",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICIPIO DE VÁRZEA DA ROÇA/BA",
+"municipio": "Várzea da Roça",
+"uf": "BA",
+"codigoIbge": "2933059",
+"objeto": "[LICITANET] - CONTRATAÇÃO DE EMPRESA PARA LICENÇA DE USO DE SOFTWARES INTEGRADOS DE GESTÃO TRIBUTÁRIA WEB, GESTÃO DO ISSQN DOS SERVIÇOS PRESTADOS E TOMADOS NO MUNICÍPIO INTEGRADO AO AMBIENTE NACIONAL DE EMISSÃO DE NOTAS FISCAIS E PORTAL DO CONTRIBUINTE PARA ATENDER A SECRETARIA DA FAZENDA DO MUNICÍPIO DE VÁRZEA DA ROÇA.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 42000.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-05T10:41:25",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://licitanet.com.br/sessao/207038",
+"processo": "246"
+},
+{
+"numeroControlePNCP": "77643443000125-1-000019/2026",
+"orgao": "MANDAGUACU CAMARA MUNICIPAL",
+"cnpj": "77643443000125",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "MANDAGUACU CAMARA MUNICIPAL",
+"municipio": "Mandaguaçu",
+"uf": "PR",
+"codigoIbge": "4114104",
+"objeto": "Contratação direta de empresa para a prestação de serviços continuados de locação de sistema de transmissão em tempo real, gravação e automação audiovisual, com o fornecimento de equipamentos em regime de comodato, licenciamento de software  com integração via API para redes sociais, suporte técnico remoto/presencial e capacitação de servidor para uso do sistema e equipamentos.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 15480.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-05T10:45:45",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "18/2026"
+},
+{
+"numeroControlePNCP": "00509018000113-1-002486/2026",
+"orgao": "TRIBUNAL SUPERIOR ELEITORAL",
+"cnpj": "00509018000113",
+"esfera": "Federal",
+"poder": "Judiciário",
+"unidade": "TRIBUNAL REGIONAL ELEITORAL DA BAHIA",
+"municipio": "Salvador",
+"uf": "BA",
+"codigoIbge": "2927408",
+"objeto": "Subscrição da solução MinutaIA, em modelo Software como Serviço (SaaS), para apoio às atividades jurídicas, incluindo elaboração de pareceres, minutas de decisões e sentenças, resumos processuais, ementas e demais conteúdos jurídicos com uso de inteligência artificial",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 107520.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-05T09:09:09",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "0020768-48.2026.6.05.8000"
 }
 ]
 }
