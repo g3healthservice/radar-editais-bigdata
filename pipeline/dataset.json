@@ -1,69 +1,9 @@
 {
-"build": 1793971928,
+"build": 1793995791,
 "geradoEm": "2026-11-06",
 "modo": "incremental",
-"totalCaptado": 1196,
+"totalCaptado": 1204,
 "itens": [
-{
-"numeroControlePNCP": "02929034000190-1-000019/2026",
-"orgao": "CREA - RR CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE RORAIMA",
-"cnpj": "02929034000190",
-"esfera": "Federal",
-"poder": "Executivo",
-"unidade": "CONS. REG. DE ENGENHARIA E AGRONOMIA",
-"municipio": "Boa Vista",
-"uf": "RR",
-"codigoIbge": "1400100",
-"objeto": "Contratação de serviços de gerenciamento, administração e controle de abastecimento de\ncombustíveis, manutenção em geral, englobando serviços mecânicos de toda a ordem com fornecimento e\nreposição de peças e acessórios para veículo(s), através de sistema informatizado e integrado, com\ntecnologia de cartão eletrônico, e ampla rede de estabelecimentos credenciados, conforme especificações,\ncondições e exigências estabelecidas neste instrumento, para atende as demandas do Conselho de\nEngenharia.",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 155158.9,
-"dataEncerramentoProposta": "2026-11-06T16:00:00",
-"dataPublicacaoPncp": "2026-10-20T10:22:22",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92751105000162026",
-"processo": "00230/2026"
-},
-{
-"numeroControlePNCP": "07954480000179-1-026872/2026",
-"orgao": "ESTADO DO CEARA",
-"cnpj": "07954480000179",
-"esfera": "Estadual",
-"poder": "Não informado",
-"unidade": "FUNDACAO UNIVERSIDADE REGIONAL DO CARIRI",
-"municipio": "Crato",
-"uf": "CE",
-"codigoIbge": "2304202",
-"objeto": "Contratação de empresa especializada para prestação de serviços de fornecimento de combustível (etanol, gasolina comum, diesel comum, diesel S-10, agente redutor líquido de óxido de nitrogênio-arla32), em rede de postos credenciados com controle e gestão de abastecimento por meio de sistema informatizado com utilização de cartão magnético ou chip, para frota de veículos em atendimento a necessidade da Universidade Regional do Cariri - URCA, de acordo com as especificações e quantitativos previstos neste nessa Cotação e no Termo de Referência anexo.",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 63541.67,
-"dataEncerramentoProposta": "2026-11-06T16:15:00",
-"dataPublicacaoPncp": "2026-11-03T16:10:22",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": null,
-"processo": "31012002930202630"
-},
 {
 "numeroControlePNCP": "00360305000104-1-000788/2026",
 "orgao": "CAIXA ECONOMICA FEDERAL",
@@ -7677,6 +7617,36 @@
 "processo": "1575/2026"
 },
 {
+"numeroControlePNCP": "13782479000107-1-000021/2026",
+"orgao": "MUNICIPIO DE BOTUPORA",
+"cnpj": "13782479000107",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE BOTUPORA - BA",
+"municipio": "Botuporã",
+"uf": "BA",
+"codigoIbge": "2904209",
+"objeto": "Registro de preços para eventual contratação de empresa especializada para gerenciamento, controle e fornecimento de combustíveis, em rede de postos credenciada, através de sistema informatizado e integrado com tecnologia de cartão magnético com chip ou superiores, para abastecimento, incluindo em trânsito, dos veículos da frota Municipal de Botuporã/BA.",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 2.0,
+"dataEncerramentoProposta": "2026-11-24T08:30:00",
+"dataPublicacaoPncp": "2026-11-06T08:04:46",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]E/ZdTsCHHLORUDq7AorY/By_1bMRiaUnH11NpWLuk0nEq6dTTDb0n5gRv3iqRdr4hyJvl8LeCbLXe4aFEWFOntt0Px5dKZshtCrYISHT65g=",
+"processo": "087/2026"
+},
+{
 "numeroControlePNCP": "46522975000180-1-000107/2026",
 "orgao": "MUNICIPIO DE RIO GRANDE DA SERRA",
 "cnpj": "46522975000180",
@@ -7705,6 +7675,96 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "136333/2026"
+},
+{
+"numeroControlePNCP": "13906789000196-1-000151/2026",
+"orgao": "MUNICIPIO DE BARRA DO CHOCA",
+"cnpj": "13906789000196",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICIPIO DE BARRA DO CHOÇA/BA",
+"municipio": "Barra do Choça",
+"uf": "BA",
+"codigoIbge": "2902906",
+"objeto": "[LICITANET] - Contratação de empresa especializada para o licenciamento de uso de sistema de gestão educacional integrada, acompanhado dos serviços de instalação, consultoria de implantação, customização, parametrização, migração de dados, capacitação de usuários, suporte técnico e manutenção corretiva e evolutiva",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 163639.22,
+"dataEncerramentoProposta": "2026-11-24T09:00:00",
+"dataPublicacaoPncp": "2026-11-06T09:10:27",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://licitanet.com.br/sessao/207153",
+"processo": "171/2026"
+},
+{
+"numeroControlePNCP": "13906789000196-1-000152/2026",
+"orgao": "MUNICIPIO DE BARRA DO CHOCA",
+"cnpj": "13906789000196",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICIPIO DE BARRA DO CHOÇA/BA",
+"municipio": "Barra do Choça",
+"uf": "BA",
+"codigoIbge": "2902906",
+"objeto": "Contratação de empresa especializada para o licenciamento de uso de sistema de gestão educacional integrada, acompanhado dos serviços de instalação, consultoria de implantação, customização, parametrização, migração de dados, capacitação de usuários, suporte técnico e manutenção corretiva e evolutiva",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 163639.22,
+"dataEncerramentoProposta": "2026-11-24T09:00:00",
+"dataPublicacaoPncp": "2026-11-06T09:14:45",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "sai.io.org.br/site/PublicadoPncp/173298?localConsulta=2&cod=1544",
+"processo": "171/2026"
+},
+{
+"numeroControlePNCP": "00530279000115-1-000380/2026",
+"orgao": "SENADO FEDERAL",
+"cnpj": "00530279000115",
+"esfera": "Federal",
+"poder": "Legislativo",
+"unidade": "SENADO FEDERAL",
+"municipio": "Brasília",
+"uf": "DF",
+"codigoIbge": "5300108",
+"objeto": "Contratação de empresa para fornecimento de solução integrada de tecnologia da informação para o Ambiente Virtual de Aprendizagem (AVA) Moodle do Senado Federal, na modalidade de serviço em nuvem (Software as a Service - SaaS), juntamente com plano de sustentação (suporte técnico), migração de dados, integrações mínimas necessárias, customização do novo tema e, sob demanda, manutenção evolutiva e treinamentos respectivos para Instituto Legislativo Brasileiro do Senado Federal.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 3381985.0,
+"dataEncerramentoProposta": "2026-11-24T09:30:00",
+"dataPublicacaoPncp": "2026-11-06T08:35:17",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=02000105003242026",
+"processo": "00200.012336/2024-44"
 },
 {
 "numeroControlePNCP": "04407920000180-1-000006/2026",
@@ -7765,6 +7825,66 @@
 "prioritario": false,
 "linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]V3RYLyJh8nFl2_RSQ3XYCbpRtcuZOagW8/aS6KRD87pdsJQ443SI/zTJUDTPWHl2P21H7AlLnv2ep5tKyGAkV4lUnwlAeKxZ2PpDRSFDN2U=",
 "processo": "1DOC Nº 1.735/2026"
+},
+{
+"numeroControlePNCP": "11355483000163-1-000102/2026",
+"orgao": "FUNDO MUNICIPAL DE SAUDE DE INDAIAL",
+"cnpj": "11355483000163",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "Secretaria Municipal de Saúde",
+"municipio": "Indaial",
+"uf": "SC",
+"codigoIbge": "4207502",
+"objeto": "contratação de empresa especializada para implantação e locação mensal de sistema informatizado de automação de mensagens via WhatsApp, integrado à Inteligência Artificial, permitindo a gestão de filas de atendimento entre múltiplos operadores, triagem automatizada por chatbot, além do recebimento e envio de mensagens e avisos de interesse público da Secretaria Municipal de Saúde de Indaial.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 64259.33,
+"dataEncerramentoProposta": "2026-11-25T08:00:00",
+"dataPublicacaoPncp": "2026-11-06T09:15:31",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "56/2026"
+},
+{
+"numeroControlePNCP": "11355483000163-1-000103/2026",
+"orgao": "FUNDO MUNICIPAL DE SAUDE DE INDAIAL",
+"cnpj": "11355483000163",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "Fundo Municipal de Saúde de Indaial - SC",
+"municipio": "Indaial",
+"uf": "SC",
+"codigoIbge": "4207502",
+"objeto": "contratação de empresa especializada para implantação e locação mensal de sistema informatizado de automação de mensagens via WhatsApp, integrado à Inteligência Artificial, permitindo a gestão de filas de atendimento entre múltiplos operadores, triagem automatizada por chatbot, além do recebimento e envio de mensagens e avisos de interesse público da Secretaria Municipal de Saúde de Indaial",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 64259.33,
+"dataEncerramentoProposta": "2026-11-25T08:00:00",
+"dataPublicacaoPncp": "2026-11-06T09:20:36",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=49548",
+"processo": "22/2026"
 },
 {
 "numeroControlePNCP": "76205673000140-1-000141/2026",
@@ -35943,6 +36063,128 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "00881/2026"
+},
+{
+"numeroControlePNCP": "83021857000115-1-000250/2026",
+"orgao": "MUNICIPIO DE PINHALZINHO",
+"cnpj": "83021857000115",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "SECRETARIA DE ADMINISTRAÇÃO E PLANEJAMENTO",
+"municipio": "Pinhalzinho",
+"uf": "SC",
+"codigoIbge": "4212908",
+"objeto": "CONTRATAÇÃO DE INSTITUIÇÃO ESPECIALIZADA PERTENCENTE AO SISTEMA \"S\" (SERVIÇO SOCIAL DA INDÚSTRIA - SESI) PARA A PRESTAÇÃO DE SERVIÇOS TÉCNICOS CONTINUADOS EM MEDICINA E SEGURANÇA DO TRABALHO (SST), COMPREENDENDO A ELABORAÇÃO DE PROGRAMAS OBRIGATÓRIOS (PGR E PCMSO), LAUDOS TÉCNICOS (LTCAT, LI E LP), REALIZAÇÃO DE EXAMES MÉDICOS OCUPACIONAIS E COMPLEMENTARES, ALÉM DO FORNECIMENTO DE SISTEMA INFORMATIZADO PARA GESTÃO E ENVIO DOS EVENTOS DE SST AO ESOCIAL, PARA SUPRIR AS NECESSIDADES DAS SECRETARIAS MUNICIPAIS E FUNDO DE SAÚDE, CONFORME CONDIÇÕES E EXIGÊNCIAS ESTABELECIDAS NESTE INSTRUMENTO E SEUS ANEXOS.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 294199.48,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-06T09:05:48",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS",
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"62.02/62.03/63.11",
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "208/2026"
+},
+{
+"numeroControlePNCP": "70946009000175-1-000434/2026",
+"orgao": "MUNICIPIO DE SAO ROQUE",
+"cnpj": "70946009000175",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE SÃO ROQUE",
+"municipio": "São Roque",
+"uf": "SP",
+"codigoIbge": "3550605",
+"objeto": "Contratacao de servico de assinatura anual  em modelo Software as a Service   SaaS  de  solucao de Inteligencia Artificial  mediante disponibilizacao de 02  duas  licencas de uso  institucional  destinadas ao Departamento de Administracao e ao Setor de Compras e Licitacoes  da Prefeitura da Estancia Turistica de Sao Roque SP  por intermedio de broker especializado   conforme condicoes  quantidades e exigencias estabelecidas neste Termo de Referencia.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 3989.8,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-06T09:15:10",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": " ",
+"processo": "506"
+},
+{
+"numeroControlePNCP": "45787652000156-1-000269/2026",
+"orgao": "MUNICIPIO DE MONTE MOR",
+"cnpj": "45787652000156",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "SECRETARIA MUNICIPAL DE ADMINISTRACAO",
+"municipio": "Monte Mor",
+"uf": "SP",
+"codigoIbge": "3531803",
+"objeto": "Contratação emergencial empresa para prestação de serviços de implantação, intermediação e administração de um sistema informatizado e integrado web on-line real time, com utilização de sistema de gerenciamento e controle do abastecimento (gasolina comum, etanol, óleo diesel S500, óleo diesel S10 e arla 32) e da manutenção preventiva e corretiva (serviços mecânicos, elétricos, lanternagem, pintura, lavagem, retífica de motores, alinhamento de direção, balanceamento de rodas, trocas de óleos e filtros, guincho, borracharia, com fornecimento de peças, pneus, baterias, produtos e acessórios de reposição genuínos, dentre quaisquer outros serviços ou fornecimentos necessários) da frota de veículos, máquinas e equipamentos oficiais da Prefeitura de Monte Mor/SP, com utilização de dispositivos denominados tags/etiqueta com tecnologia rfid/nfc ou similar, através de rede de estabelecimentos credenciados",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 8727400.08,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-06T09:15:52",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "4333/2026"
+},
+{
+"numeroControlePNCP": "07248660000135-1-000084/2026",
+"orgao": "DEFENSORIA PUBLICA DO ESTADO DO TOCANTINS",
+"cnpj": "07248660000135",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "ETO-DEFENSORIA PÚBLICA DO ESTADO DO TOCANTINS",
+"municipio": "Palmas",
+"uf": "TO",
+"codigoIbge": "1721000",
+"objeto": "Contratação de Solução Integrada de Inteligência Artificial em Nuvem (SaaS), consubstanciada no Ecossistema jAI (módulos MinutalA e Conecta IA), englobando licenciamento de uso por subscrição para até 130 usuários ativos.\n\nProvimento de infraestrutura dedicada e segregada em nuvem (Vercel e Neon sobre AWS).",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 81760.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-06T09:25:49",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "26.0.000002255-0"
 }
 ]
 }
