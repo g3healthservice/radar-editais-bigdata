@@ -1,8 +1,8 @@
 {
-"build": 1793995791,
-"geradoEm": "2026-11-06",
+"build": 1794011270,
+"geradoEm": "2026-11-07",
 "modo": "incremental",
-"totalCaptado": 1204,
+"totalCaptado": 1211,
 "itens": [
 {
 "numeroControlePNCP": "00360305000104-1-000788/2026",
@@ -6593,6 +6593,36 @@
 "processo": "2.119/2026-SEMTRAS"
 },
 {
+"numeroControlePNCP": "12464103000191-1-000065/2026",
+"orgao": "MUNICIPIO DE DEPUTADO IRAPUAN PINHEIRO",
+"cnpj": "12464103000191",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "SECRETARIA DE SAUDE - FMS",
+"municipio": "Deputado Irapuan Pinheiro",
+"uf": "CE",
+"codigoIbge": "2304269",
+"objeto": "Registro de Preços para futura e eventual aquisição de equipamentos médico-hospitalares permanentes, destinados ao atendimento das necessidades do Hospital Municipal São Bernardo, da Rede Municipal de Atenção Primária à Saúde e da implantação do serviço de Tele Saúde do Município de Deputado Irapuan Pinheiro/CE, contemplando as propostas de investimento do Ministério da Saúde n° 102772690000125001, 10247269000125002, 10247269000125003, 10247269000125005.",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 1081993.18,
+"dataEncerramentoProposta": "2026-11-19T08:59:00",
+"dataPublicacaoPncp": "2026-11-06T10:25:06",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Assistencial / telessaúde"
+],
+"cnaes": [
+"86.30-5/03 · 86.50"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "http://precodereferencia.m2atecnologia.com.br/c/wcZ4VNTgSa2zoSG3A2E2PA.XZteUxTYBl9Y/",
+"processo": "0000520260721000140"
+},
+{
 "numeroControlePNCP": "61919643000209-1-000044/2026",
 "orgao": "CONSELHO FEDERAL DE ODONTOLOGIA",
 "cnpj": "61919643000209",
@@ -7617,6 +7647,36 @@
 "processo": "1575/2026"
 },
 {
+"numeroControlePNCP": "10485444000118-1-000021/2026",
+"orgao": "FUNDO MUNICIPAL DE SAUDE DE NOVA VENEZA",
+"cnpj": "10485444000118",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "FMS",
+"municipio": "Nova Veneza",
+"uf": "SC",
+"codigoIbge": "4211603",
+"objeto": "Contratação de empresa especializada em tecnologia da informação para prestação de serviços de licença de uso de Sistema Informatizado de Gestão de Saúde, serviços de consultoria em gestão de saúde pública municipal, com serviços correlatos de locação de software para informatização dos setores e estabelecimentos de saúde da Secretaria Municipal de Saúde de Nova Veneza - SC, compreendendo a migração de dados, implantação do sistema, treinamento inicial e treinamento durante execução do contrato,",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 273065.46,
+"dataEncerramentoProposta": "2026-11-24T08:15:00",
+"dataPublicacaoPncp": "2026-11-06T09:36:17",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]/TGtdYMiqxqHOWWjmXrTSuPwMYohbOeKxoKFEfscDdPcUzoL4euOVZaTwPYEUQZBdt9G8Vu/m_P/IjpzaCn9EHCqVQL/Wmbp6Autw/2VKFk=",
+"processo": "013/2026"
+},
+{
 "numeroControlePNCP": "13782479000107-1-000021/2026",
 "orgao": "MUNICIPIO DE BOTUPORA",
 "cnpj": "13782479000107",
@@ -7947,6 +8007,36 @@
 "processo": "116"
 },
 {
+"numeroControlePNCP": "76170240000104-1-000302/2026",
+"orgao": "MUNICIPIO DE TELEMACO BORBA",
+"cnpj": "76170240000104",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNUNICIPAL DE TELEMARCO BORBA-PR",
+"municipio": "Telêmaco Borba",
+"uf": "PR",
+"codigoIbge": "4127106",
+"objeto": "Licença de uso de software Adobe Creative Cloud Pro Plus For Teams All Apps, Cap Cut e Canva PRO",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 24157.97,
+"dataEncerramentoProposta": "2026-11-25T09:00:00",
+"dataPublicacaoPncp": "2026-11-06T10:07:33",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98791505000602026",
+"processo": "28462"
+},
+{
 "numeroControlePNCP": "92123926000192-1-000497/2026",
 "orgao": "MUNICIPIO DE ALTO FELIZ",
 "cnpj": "92123926000192",
@@ -8095,6 +8185,38 @@
 "prioritario": false,
 "linkEdital": "",
 "processo": "00000826"
+},
+{
+"numeroControlePNCP": "45299104000187-1-000169/2026",
+"orgao": "MUNICIPIO DE BATATAIS",
+"cnpj": "45299104000187",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Secretaria Municipal de Administração e Recursos Humanos",
+"municipio": "Batatais",
+"uf": "SP",
+"codigoIbge": "3505906",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA CONTROLE DE PONTO, INCLUINDO OS COLETORES DE DADOS PARA REGISTRO, APLICAÇÃO DE GESTÃO DE FREQUÊNCIA COM HOSPEDAGEM EM NUVEM INTEGRADA E SINCRONIZADA COM O SISTEMA DE FOLHA DE PAGAMENTO UTILIZADA ATUALMENTE PELA PREFEITURA",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-11-26T08:00:00",
+"dataPublicacaoPncp": "2026-11-06T09:30:24",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS",
+"Gestão de RH / escalas e ponto"
+],
+"cnaes": [
+"62.02/62.03/63.11",
+"78.30-2/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://licitamaisbrasil.com.br/detalhes-do-edital/2SIyoK9esdLWixqM",
+"processo": "1047"
 },
 {
 "numeroControlePNCP": "09427503000112-1-000029/2026",
@@ -8365,6 +8487,36 @@
 "prioritario": false,
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98285305000522026",
 "processo": "07150087/2026"
+},
+{
+"numeroControlePNCP": "19382647000153-1-000451/2026",
+"orgao": "MUNICIPIO DE GUARACIABA",
+"cnpj": "19382647000153",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Unidade Única",
+"municipio": "Guaraciaba",
+"uf": "MG",
+"codigoIbge": "3128204",
+"objeto": "Contratação de empresa ou empresas especializadas para a prestação de serviços técnicos de segurança do trabalho, medicina do trabalho e saúde ocupacional em favor dos agentes públicos do Município de Guaraciaba/MG",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 101960.83,
+"dataEncerramentoProposta": "2026-12-02T08:00:00",
+"dataPublicacaoPncp": "2026-11-06T10:30:11",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://app2.ammlicita.org.br/pesquisa/118401",
+"processo": "397/2026"
 },
 {
 "numeroControlePNCP": "46523148000101-1-000070/2026",
@@ -36185,6 +36337,66 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "26.0.000002255-0"
+},
+{
+"numeroControlePNCP": "01067248000132-1-000190/2026",
+"orgao": "MUNICIPIO DE ISRAELANDIA",
+"cnpj": "01067248000132",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICIPIO DE ISRAELANDIA - PREFEITURA",
+"municipio": "Israelândia",
+"uf": "GO",
+"codigoIbge": "5210307",
+"objeto": "CONTRATAÇÃO DE  EMPRESA PARA PRESTAÇÃO DE SERVIÇO DE TRIO ELETRICO COM LOCUTOR PARA ATENDER AS DEMANDAS DA SECRETARIA DE ADMINISTRAÇÃO E AS DEMAIS SECRETARIAS DO MUNICIPIO DE ISRAELANDIA, ESTADO DE GOIAS. CONFORME ANEXOS INSERIDOS VIA SISTEMA INFORMATIZADOS, OS ORÇAMENTOS DEVERAM SER ENVIADOS POR E-MAIL: propostas.orcamentopmisr@gmail.com",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 9799.98,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-06T09:49:13",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "2779/2026"
+},
+{
+"numeroControlePNCP": "13168687000110-1-000145/2026",
+"orgao": "SERGIPE MINISTERIO PUBLICO",
+"cnpj": "13168687000110",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE",
+"municipio": "Aracaju",
+"uf": "SE",
+"codigoIbge": "2800308",
+"objeto": "CONTRATAÇÃO DE SUBSCRIÇÃO DE LICENÇAS DE USO, EM REGIME SAAS (SOFTWARE AS A SERVICE), DE \nPLATAFORMA ESPECIALIZADA EM GESTÃO VISUAL E FLUXO DE TRABALHO (BUSINESSMAP), INCLUINDO SERVIÇOS DE \nSUPORTE TÉCNICO, MANUTENÇÃO EVOLUTIVA, TRANSFERÊNCIA DE CONHECIMENTO/TREINAMENTO E ATUALIZAÇÕES AO \nLONGO DO CONTRATO, NO ÂMBITO DO MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE, POR 24 (VINTE E QUATRO) \nMESES, CONFORME CONDIÇÕES, QUANTIDADES E EXIGÊNCIAS ESTABELECIDAS NESTE INSTRUMENTO.",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 129519.6,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-06T09:53:43",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://sistema.comprasnet.se.gov.br/publico/WKF.aspx?code=MPE-IN0028/2026&validation=54230",
+"processo": "IN0028/2026"
 }
 ]
 }
