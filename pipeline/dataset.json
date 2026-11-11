@@ -1,8 +1,8 @@
 {
-"build": 1794407661,
+"build": 1794433295,
 "geradoEm": "2026-11-11",
 "modo": "incremental",
-"totalCaptado": 1283,
+"totalCaptado": 1293,
 "itens": [
 {
 "numeroControlePNCP": "09232679000119-1-000005/2026",
@@ -4971,6 +4971,36 @@
 "processo": "219/2026"
 },
 {
+"numeroControlePNCP": "95685798000169-1-000030/2026",
+"orgao": "MUNICIPIO DE VENTANIA",
+"cnpj": "95685798000169",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Ventania",
+"municipio": "Ventania",
+"uf": "PR",
+"codigoIbge": "4128534",
+"objeto": "A presente licitação tem por objeto a contratação de empresa especializada para prestação de serviços de implantação, intermediação, administração e gerenciamento da manutenção preventiva e corretiva da frota oficial do Município de Ventania/PR, por meio de sistema informatizado e integrado, com acesso via web, mediante rede de estabelecimentos credenciados, abrangendo veículos leves, médios e pesados, máquinas e equipamentos.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 3358305.0,
+"dataEncerramentoProposta": "2026-11-23T08:00:00",
+"dataPublicacaoPncp": "2026-11-11T10:49:46",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]0M6jLUkVkEA73AIqBOjvINw3SlJhWfRN3d2L3ZxkG8acY8ifFOqsFAUvtvnAu_3zKeO8UXWaXLWLtiGcTg/xEDZM1xLmy8DX0GPQM/Dcwio=",
+"processo": "219/2026"
+},
+{
 "numeroControlePNCP": "13114004000142-1-000026/2026",
 "orgao": "MUNICIPIO DE POCO REDONDO",
 "cnpj": "13114004000142",
@@ -6567,6 +6597,36 @@
 "processo": "00169.001161/2025-64"
 },
 {
+"numeroControlePNCP": "12243697000100-1-000065/2026",
+"orgao": "MUNICIPIO DE PENEDO",
+"cnpj": "12243697000100",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE PENEDO - AL",
+"municipio": "Penedo",
+"uf": "AL",
+"codigoIbge": "2706703",
+"objeto": "A ESCOLHA DA PROPOSTA MAIS VANTAJOSA PARA CESSÃO DE USO (LOCAÇÃO) DE SISTEMA INFORMATIZADO EM PLATAFORMA WEB PARA GESTÃO DAS CONTRATAÇÕES PÚBLICAS, PLANEJAMENTO DAS CONTRATAÇÕES, GERENCIAMENTO DE PROCESSOS LICITATÓRIOS E GESTÃO DE COMPRAS DO MUNICÍPIO, INCLUINDO IMPLANTAÇÃO, MIGRAÇÃO DE DADOS, TREINAMENTO E SUPORTE TÉCNICO",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 175842.94,
+"dataEncerramentoProposta": "2026-11-25T08:59:00",
+"dataPublicacaoPncp": "2026-11-11T09:00:18",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]436A0t1rFlLxSEfm2CCOUCNmULK1gnmI0vaQvhuy0olfBSQM72SLonCy8LQg85RZ7IXdL8FkBtHdxCm9hIZLbqMHFAe8953NDNjpNqudn8k=",
+"processo": "2026.27031480033.PROCADM.PMP"
+},
+{
 "numeroControlePNCP": "76170240000104-1-000302/2026",
 "orgao": "MUNICIPIO DE TELEMACO BORBA",
 "cnpj": "76170240000104",
@@ -7863,6 +7923,36 @@
 "processo": "01/2026-CPSI"
 },
 {
+"numeroControlePNCP": "07891658000180-1-000050/2026",
+"orgao": "MUNICIPIO DE IRACEMA",
+"cnpj": "07891658000180",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Iracema",
+"municipio": "Iracema",
+"uf": "CE",
+"codigoIbge": "2306009",
+"objeto": "CONTRATAÇÃO DE SERVIÇOS DE LICENCIAMENTO DE USO DE SISTEMAS INFORMATIZADOS (SOFTWARES) COM MÓDULOS DE PATRIMÔNIO, ALMOXARIFADO, VEÍCULOS E SOCIAL, PARA ATENDER ÀS DEMANDAS DAS DIVERSAS SECRETARIAS DA PREFEITURA MUNICIPAL DE IRACEMA/CE.\r\n\r\n",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 60640.08,
+"dataEncerramentoProposta": "2026-11-27T00:00:00",
+"dataPublicacaoPncp": "2026-11-11T09:02:27",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]vRTmX4DuyR8vQDMcSZoe2ybak2sNkxlDHoFmkyzIXUdDqfbSjvc2JE90iGNfgyNfKMDbZn_DoxFGpj8WNjEv808eRMh_XxvlNxZ8z_MHBik=",
+"processo": "PL-28102026.001"
+},
+{
 "numeroControlePNCP": "05097946000131-1-000024/2026",
 "orgao": "EMPRESA MUNICIPAL DE PLANEJAMENTO, GESTAO E EDUCACAO EM TRANSITO E TRANSPORTES DE MONTES CLAROS - MCTRANS",
 "cnpj": "05097946000131",
@@ -7953,6 +8043,38 @@
 "processo": "051/2026"
 },
 {
+"numeroControlePNCP": "75392019000120-1-000083/2026",
+"orgao": "MUNICIPIO DE SANTA MARIANA",
+"cnpj": "75392019000120",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Fundo Municipal de Saúde",
+"municipio": "Santa Mariana",
+"uf": "PR",
+"codigoIbge": "4123907",
+"objeto": "CONTRATAÇÃO DE SOLUÇÃO DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO, COMPOSTA POR SISTEMA DE GESTÃO DE SAÚDE COM MÓDULOS INTEGRADOS, CESSÃO DE DIREITO DE USO, HOSPEDAGEM EM NUVEM, SUPORTE TÉCNICO E SERVIÇOS DE INTEGRAÇÃO",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 113325.76,
+"dataEncerramentoProposta": "2026-11-27T08:00:00",
+"dataPublicacaoPncp": "2026-11-11T10:02:17",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Apoio à gestão de saúde",
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"86.60-7/00",
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": null,
+"processo": "266/2026"
+},
+{
 "numeroControlePNCP": "83024257000100-1-000505/2026",
 "orgao": "MUNICIPIO DE CONCORDIA",
 "cnpj": "83024257000100",
@@ -7981,6 +8103,36 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "322/2026"
+},
+{
+"numeroControlePNCP": "83156455000128-1-000051/2026",
+"orgao": "FUNDACAO HOSPITALAR DR JOSE ATHANAZIO",
+"cnpj": "83156455000128",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "Fundação Hospitalar Dr.José Athanázio",
+"municipio": "Campos Novos",
+"uf": "SC",
+"codigoIbge": "4203600",
+"objeto": "[Portal de Compras Públicas] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇOS DE SAÚDE E SEGURANÇA DO TRABALHO, INCLUINDO ELABORAÇÃO E REVISÃO DE LAUDOS E PROGRAMAS OCUPACIONAIS, REALIZAÇÃO DE EXAMES MÉDICOS E LABORATORIAIS E ENVIO DE EVENTOS DE SST AO E-SOCIAL, PARA ATENDER À FUNDAÇÃO HOSPITALAR DR. JOSÉ ATHANÁZIO",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 368662.43,
+"dataEncerramentoProposta": "2026-11-27T08:30:00",
+"dataPublicacaoPncp": "2026-11-11T09:59:43",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/SC/Fundacao-Hospitalar-DrJose-Athanazio-3545/PE-18-2026-2026-524476",
+"processo": "32"
 },
 {
 "numeroControlePNCP": "76208867000107-1-000651/2026",
@@ -8193,6 +8345,36 @@
 "processo": "SEI-220002/003228/2026"
 },
 {
+"numeroControlePNCP": "02215275000178-1-001108/2026",
+"orgao": "MUNICIPIO DE MINACU",
+"cnpj": "02215275000178",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PODER EXECUTIVO",
+"municipio": "Minaçu",
+"uf": "GO",
+"codigoIbge": "5213087",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE SOFTWARE COMO SERVIÇO SAAS – (USN – UND SERVIÇO EM NUVEM), PARA ATENDER AS NECESSIDADES DO PODER EXECUTIVO E FUNDO MUNICIPAL DE SAÚDE DO MUNICÍPIO DE MINAÇU – GO”. ",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 115119.6,
+"dataEncerramentoProposta": "2026-11-30T08:29:00",
+"dataPublicacaoPncp": "2026-11-11T10:16:24",
+"fonteRecurso": [
+"Fundo Municipal de Saúde"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]sqqw2qDU5Z8iSvTPqfXC3WPSu2zQWNBlE1dSiPVJVpdZaCHOHGK68lvJPr0_gbwlgyv57HPhm5pUfCtHAb6DTCWYQH14P63iKf5bSAs0wK4=",
+"processo": "010747/2026"
+},
+{
 "numeroControlePNCP": "13127340000120-1-000045/2026",
 "orgao": " SECRETARIA DE ESTADO DE ADMINISTRACAO PENITENCIARIA - SEAP",
 "cnpj": "13127340000120",
@@ -8251,6 +8433,36 @@
 "prioritario": false,
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=18303805000092027",
 "processo": "52402.009956/2026-95"
+},
+{
+"numeroControlePNCP": "27165570000198-1-000143/2026",
+"orgao": "MUNICIPIO DE CONCEICAO DO CASTELO",
+"cnpj": "27165570000198",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Conceição do Castelo",
+"municipio": "Conceição do Castelo",
+"uf": "ES",
+"codigoIbge": "3201704",
+"objeto": "[Portal de Compras Públicas] - SERVIÇOS EM ENGENHARIA DE SEGURANÇA E MEDICINA DO TRABALHO PARA ATUALIZAÇÃO E ACOMPANHAMENTO DO PGR, PCMSO, LTCAT, LTIP E GESTÃO DE INFORMAÇÕES DE SST, AVALIAÇÕES AMBIENTAIS E QUÍMICAS COM EQUIPAMENTOS CALIBRADOS, EMISSÃO DE LAUDOS TÉCNICOS CONCLUSIVOS SOBRE INSALUBRIDADE, PERICULOSIDADE E APOSENTADORIA ESPECIAL, ALÉM DO ATENDIMENTO ÀS EXIGÊNCIAS DO E-SOCIAL COM O ENVIO DOS EVENTOS S-2240, S-2210 E S-2220",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 19796.45,
+"dataEncerramentoProposta": "2026-12-01T08:15:00",
+"dataPublicacaoPncp": "2026-11-11T10:38:01",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/ES/Prefeitura-Municipal-de-Conceicao-do-Castelo-4927/PE-00049-2026-2026-524467",
+"processo": "2026-S18SP"
 },
 {
 "numeroControlePNCP": "18449132000160-1-000153/2026",
@@ -38563,6 +38775,96 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "142"
+},
+{
+"numeroControlePNCP": "06029235000192-1-000013/2026",
+"orgao": "SERVICO AUTONOMO DE AGUA E ESGOTO DE BACABAL",
+"cnpj": "06029235000192",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "Serviço Autônomo de Água e Esgoto de Bacabal",
+"municipio": "Bacabal",
+"uf": "MA",
+"codigoIbge": "2101202",
+"objeto": "Contratação de empresa especializada para o fornecimento de software com hospedagem em nuvem (SaaS), incluindo implantação, configuração, treinamento, suporte técnico, manutenção e integração nativa com Cloud API oficial do WhatsApp/Meta. ",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-11T10:15:22",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://bnccompras.com/DirectBuy/DirectBuyView?param1=[gkz]vtHMCedszaMnoXpX3Kk/4xg3b6S88g5y3LNgK/x90OmPYTEVDqz9tFEQ_jlstaluqxwLkqYo/9oICDu2Oy1hCt_JRxfPEZwL/LPDbAS87H4=",
+"processo": "136/2026"
+},
+{
+"numeroControlePNCP": "04376371000123-1-000029/2026",
+"orgao": "FAPSPMG - FUNDO DE APOSENTADORIA E PENSAO DOS SERVIDORES PUBLICOS DO MUNICIPIO DE GUACUI",
+"cnpj": "04376371000123",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "IPMG - INST DE PREVIDÊNCIA DO MUNICÍPIO DE GUAÇUÍ",
+"municipio": "Guaçuí",
+"uf": "ES",
+"codigoIbge": "3202306",
+"objeto": "Contratação de empresa especializada para elaboração de avaliação atuarial ano base 2026 com vigoração no exercício de 2027.",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 7950.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-11T09:04:23",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Auditoria / consultoria atuarial"
+],
+"cnaes": [
+"66.21-5/02"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "000522/2026"
+},
+{
+"numeroControlePNCP": "00394460000141-1-000803/2026",
+"orgao": "MINISTERIO DA FAZENDA",
+"cnpj": "00394460000141",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "SUP.REGIONAL RECEITA FEDERAL 2A.RF/PA",
+"municipio": "Belém",
+"uf": "PA",
+"codigoIbge": "1501402",
+"objeto": "A presente demanda tem como objetivo a aquisição, através do devido processo, de água mineral, a fim de suprir às necessidades da Superintendência Regional da Receita Federal do Brasil na 2ª Região Fiscal - SRRF02, Em Castanhal/PA, Paragominas/PA e Abaetetuba/PA, conforme descrição e quantidades relacionadas a seguir.\r\nA contratação visa o pleno desenvolvimento das suas atividades inerentes ao interesse público, assim como o bem-estar e saúde dos servidores, o que refletirá na eficiência e efetividade dos serviços prestados à sociedade.\r\nA nova contratação é medida imperativa para evitar a descontinuidade do fornecimento de insumo essencial, o que configuraria risco à saúde ocupacional e prejuízo ao funcionamento das atividades finalísticas das unidades citadas acima.\r\n\r\nDemanda reencaminhada devido rejeição da proposta anterior do fornecedor que ofertou preço incompatível com os preços de mercado locais, ferindo o princípio da economicidade.",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 1236.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-11T10:08:34",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "1294"
 }
 ]
 }
