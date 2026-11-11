@@ -1,8 +1,8 @@
 {
-"build": 1794353637,
-"geradoEm": "2026-11-10",
+"build": 1794376856,
+"geradoEm": "2026-11-11",
 "modo": "incremental",
-"totalCaptado": 1286,
+"totalCaptado": 1292,
 "itens": [
 {
 "numeroControlePNCP": "18301028000124-1-000166/2026",
@@ -6599,6 +6599,36 @@
 "processo": "00241/26"
 },
 {
+"numeroControlePNCP": "01613123000160-1-000135/2026",
+"orgao": "MUNICIPIO DE SAO SEBASTIAO DO ANTA",
+"cnpj": "01613123000160",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "São Sebastião do Anta",
+"municipio": "São Sebastião do Anta",
+"uf": "MG",
+"codigoIbge": "3164472",
+"objeto": "Contratação de empresa especializada para a locação de licença de uso de sistema integrado de gestão pública municipal, compreendendo a implantação, configuração, migração de dados, treinamento, suporte técnico e manutenção, quando aplicáveis, dos módulos de Contabilidade Pública, Gestão de Compras, Gestão Patrimonial, Gestão de Almoxarifado, Gestão de Frotas, Gestão de Pessoal, Contracheque Eletrônico, Gestão Tributária, Serviços Web, Controle Interno, Aplicativo Cidadão e Sistema do Gestor, visando atender às necessidades administrativas, operacionais e gerenciais do Município de São Sebastião do Anta",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 190899.36,
+"dataEncerramentoProposta": "2026-11-24T08:00:00",
+"dataPublicacaoPncp": "2026-11-10T14:34:03",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "RE135"
+},
+{
 "numeroControlePNCP": "10485444000118-1-000021/2026",
 "orgao": "FUNDO MUNICIPAL DE SAUDE DE NOVA VENEZA",
 "cnpj": "10485444000118",
@@ -7347,6 +7377,36 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "2626/2026"
+},
+{
+"numeroControlePNCP": "83102244000102-1-000130/2026",
+"orgao": "MUNICIPIO DE GASPAR",
+"cnpj": "83102244000102",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura de Gaspar - SC",
+"municipio": "Gaspar",
+"uf": "SC",
+"codigoIbge": "4205902",
+"objeto": "CONTRATAÇÃO DE SOLUÇÃO/PLATAFORMA WEB PARA GERENCIAMENTO DE INFORMAÇÕES GEOGRÁFICAS RURAIS E APOIO À GESTÃO, FISCALIZAÇÃO, LANÇAMENTO E COBRANÇA DO IMPOSTO SOBRE A PROPRIEDADE TERRITORIAL RURAL – ITR NO MUNICÍPIO DE GASPAR/SC.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 73825.56,
+"dataEncerramentoProposta": "2026-11-25T08:59:00",
+"dataPublicacaoPncp": "2026-11-10T14:44:34",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=49529",
+"processo": "178/2026"
 },
 {
 "numeroControlePNCP": "76170240000104-1-000302/2026",
@@ -8615,6 +8675,36 @@
 "processo": "300/2026"
 },
 {
+"numeroControlePNCP": "18431312000620-1-000531/2026",
+"orgao": "MUNICIPIO DE UBERLANDIA",
+"cnpj": "18431312000620",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MMG-SECRETARIA MUN. DE ADMINIS. DE UBERLÂNDIA",
+"municipio": "Uberlândia",
+"uf": "MG",
+"codigoIbge": "3170206",
+"objeto": "Contratação de empresa especializada na prestação de serviços de medicina ocupacional, compreendendo: avaliações médicas ocupacionais (admissionais, periódicas, probatórias, mudança de risco e demissionais); avaliações médico-clínicas e especializadas; avaliação multiprofissional de candidatos com deficiência • PcD; realização de exames complementares, diagnósticos e laboratoriais; emissão de atestado de saúde ocupacional - ASO, aos servidores públicos da Prefeitura Municipal do Uberlândia.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 2681744.0,
+"dataEncerramentoProposta": "2026-11-27T09:00:00",
+"dataPublicacaoPncp": "2026-11-10T13:17:18",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92692205002972026",
+"processo": "395/2026"
+},
+{
 "numeroControlePNCP": "00360305000104-1-000877/2026",
 "orgao": "CAIXA ECONOMICA FEDERAL",
 "cnpj": "00360305000104",
@@ -8643,6 +8733,36 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "870/2026"
+},
+{
+"numeroControlePNCP": "39467292000102-1-000098/2026",
+"orgao": "SECRETARIA DE GESTAO E GOVERNO DIGITAL",
+"cnpj": "39467292000102",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "ESP-DIRETORIA DE ADMINISTRAÇÃO",
+"municipio": "São Paulo",
+"uf": "SP",
+"codigoIbge": "3550308",
+"objeto": "Contratação de solução tecnológica de inteligência de negócios em atenção primária à saúde, disponibilizada como serviço (SaaS), incluindo implantação, suporte técnico e manutenção continuada.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-11-27T10:00:00",
+"dataPublicacaoPncp": "2026-11-10T14:40:49",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=53010205000952026",
+"processo": "018.00022228/2024-83"
 },
 {
 "numeroControlePNCP": "42498600000171-1-004707/2026",
@@ -38653,6 +38773,68 @@
 "prioritario": false,
 "linkEdital": "",
 "processo": "008305"
+},
+{
+"numeroControlePNCP": "18602037000155-1-000391/2026",
+"orgao": "MUNICIPIO DE SAO GOTARDO",
+"cnpj": "18602037000155",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "GABINETE DA PREFEITA",
+"municipio": "São Gotardo",
+"uf": "MG",
+"codigoIbge": "3162104",
+"objeto": "CONTRATACAO DE EMPRESA ESPECIALIZADA PARA A PRESTACAO DE SERVICOS CONTINUADOS DE SUBSCRICAO DE LICENCAS DE USO DE SOFTWARES, NA MODALIDADE SOFTWARE AS A SERVICE 'SAAS', DESTINADAS AO DESIGN GRAFICO COLABORATIVO, A EDICAO AUDIOVISUAL PROFISSIONAL, AO ARMAZENAMENTO EM NUVEM E A HOSPEDAGEM DE ACERVO FOTOGRAFICO INSTITUCIONAL, COM O OBJETIVO DE ATENDER AS NECESSIDADES DO DEPARTAMENTO DE COMUNICACAO E MARKETING DA PREFEITURA MUNICIPAL DE SAO GOTARDO/MG, GARANTINDO O PLENO DESENVOLVIMENTO DAS ATIVIDAD",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 5749.92,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-10T14:04:58",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "392/2026"
+},
+{
+"numeroControlePNCP": "18602029000109-1-000076/2026",
+"orgao": "MUNICIPIO DE CARMO DO PARANAIBA",
+"cnpj": "18602029000109",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICÍPIO DE CARMO DO PARANAÍBA/MG",
+"municipio": "Carmo do Paranaíba",
+"uf": "MG",
+"codigoIbge": "3114303",
+"objeto": "[LICITANET] -  Contratação da empresa VIVVER SISTEMAS LTDA, CNPJ 03.381.389/0001-50, em caráter emergencial, para prestação de serviços de licenciamento de uso temporário de sistema integrado de gestão em saúde pública, desenvolvido para funcionamento em ambiente em web, com hospedagem em nuvem, destinado a atender às necessidades da Secretaria Municipal de Saúde do Município de Carmo do Paranaíba/MG",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 69603.24,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-10T14:16:48",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Apoio à gestão de saúde",
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"86.60-7/00",
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": "https://licitanet.com.br/sessao/207521",
+"processo": "076/2026"
 }
 ]
 }
