@@ -1,39 +1,9 @@
 {
-"build": 1794433295,
-"geradoEm": "2026-11-11",
+"build": 1794452894,
+"geradoEm": "2026-11-12",
 "modo": "incremental",
-"totalCaptado": 1293,
+"totalCaptado": 1302,
 "itens": [
-{
-"numeroControlePNCP": "09232679000119-1-000005/2026",
-"orgao": "CAMARA MUNICIPAL DE SAPE",
-"cnpj": "09232679000119",
-"esfera": "Municipal",
-"poder": "Legislativo",
-"unidade": "CÂMARA MUNICIPAL DE SAPÉ",
-"municipio": "Sapé",
-"uf": "PB",
-"codigoIbge": "2515302",
-"objeto": "Contratação de empresa para prestação de serviço referente ao licenciamento e direito de uso de sistema informatizado web, destinado a gestão e operacionalização de sessões legislativas - Plenário Digital",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 60000.0,
-"dataEncerramentoProposta": "2026-11-11T23:59:00",
-"dataPublicacaoPncp": "2026-11-06T14:09:42",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "",
-"processo": "261106DV00003"
-},
 {
 "numeroControlePNCP": "06081945000161-1-000008/2026",
 "orgao": "CONSORCIO INTERMUNICIPAL DE ABRIGO PARA CRIANCA E ADOLECENTE - CIACA",
@@ -2681,6 +2651,36 @@
 "prioritario": false,
 "linkEdital": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=49359",
 "processo": "PBS-020611/000377/2026"
+},
+{
+"numeroControlePNCP": "42498600000171-1-004861/2026",
+"orgao": "ESTADO DO RIO DE JANEIRO",
+"cnpj": "42498600000171",
+"esfera": "Estadual",
+"poder": "Não informado",
+"unidade": "Fundação de Previdência Complem do ERJ",
+"municipio": "Rio de Janeiro",
+"uf": "RJ",
+"codigoIbge": "3304557",
+"objeto": "Contratação de empresa especializada para a prestação de serviços de automação de mensagens e chatbot no WhatsApp, permitindo a gestão de atendimentos por múltiplos operadores por meio de plataforma virtual SaaS, conforme necessidades da Fundação de Previdência Complementar do Estado do Rio de Janeiro – RJPREV.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 26493.84,
+"dataEncerramentoProposta": "2026-11-16T09:59:00",
+"dataPublicacaoPncp": "2026-11-11T11:28:37",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://www.compras.rj.gov.br/EditaisLicitacoes/detalhar.action?idLic=37768",
+"processo": "SEI-040015/000501/2026"
 },
 {
 "numeroControlePNCP": "33710823000160-1-000017/2026",
@@ -6207,6 +6207,36 @@
 "processo": "23292.032568/2026-02"
 },
 {
+"numeroControlePNCP": "78173648000157-1-000012/2026",
+"orgao": "SAO JOSE DOS PINHAIS CAMARA MUNICIPAL",
+"cnpj": "78173648000157",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "Unidade administrativa",
+"municipio": "São José dos Pinhais",
+"uf": "PR",
+"codigoIbge": "4125506",
+"objeto": "Contratação de empresa especializada para fornecimento de 260 (duzentas e sessenta) licenças de uso de software Kaspersky para proteção de endpoints, pelo prazo de 36 (trinta e seis) meses, sendo 250 (duzentas e cinquenta) licenças destinadas a estações de trabalho e 10 (dez) licenças destinadas a servidores, incluindo gerenciamento centralizado, atualização contínua, instalação, configuração, treinamento e suporte técnico, conforme condições e exigências estabelecidas no respectivo Edital. ",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 100001.2,
+"dataEncerramentoProposta": "2026-11-24T17:00:00",
+"dataPublicacaoPncp": "2026-11-11T11:09:35",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]lB89iSsYj8gI0PqLyFIt5EZqIdhQPXzh3Zy7t8bIzEDfKLcD3Me5_YYtNN90gkB/QqjB7VnP1G_A2F9KnDdfFeBM437WjjyYeCLvcjj8S80=",
+"processo": "66.2026"
+},
+{
 "numeroControlePNCP": "02664384000172-1-000015/2026",
 "orgao": "INSTITUTO DE PREVIDENCIA E ASSISTENCIA DOS SERVIDORES DO MUN. DE ARAGUAINA",
 "cnpj": "02664384000172",
@@ -6325,6 +6355,36 @@
 "prioritario": false,
 "linkEdital": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=49548",
 "processo": "22/2026"
+},
+{
+"numeroControlePNCP": "17989386000109-1-000049/2026",
+"orgao": "CONSORCIO PUBLICO INTERMUNICIPAL DE GESTAO DA AMUSEP - PROAMUSEP",
+"cnpj": "17989386000109",
+"esfera": "Não informado",
+"poder": "Executivo",
+"unidade": "UNIDADE ADMINISTRATIVA",
+"municipio": "Maringá",
+"uf": "PR",
+"codigoIbge": "4115200",
+"objeto": "A presente licitação tem por objeto registro de preços para eventuais aquisições de equipamentos e itens de informática, para atender as demandas da Sede Administrativa do Consórcio Público Intermunicipal de Gestão da AMUSEP-PROAMUSEP e demais bases do SAMU Regional Norte Novo (Base Norte, Base Zona Sul, Base Aéreo e Central de Regulação – CRE), conforme condições, quantidades e exigências estabelecidas neste edital e seus anexos.",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 383773.81,
+"dataEncerramentoProposta": "2026-11-25T08:00:00",
+"dataPublicacaoPncp": "2026-11-11T11:04:10",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Apoio à gestão de saúde"
+],
+"cnaes": [
+"86.60-7/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "36"
 },
 {
 "numeroControlePNCP": "76205673000140-1-000141/2026",
@@ -7503,6 +7563,36 @@
 "processo": "115/2026"
 },
 {
+"numeroControlePNCP": "18128223000102-1-000072/2026",
+"orgao": "MUNICIPIO DE TOCANTINS",
+"cnpj": "18128223000102",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Tocantins",
+"municipio": "Tocantins",
+"uf": "MG",
+"codigoIbge": "3169000",
+"objeto": "[Portal de Compras Públicas] - Registro de preços para eventual contratação de empresa especializada na prestação de serviços de medicina e segurança do trabalho, incluindo a atualização do Laudo Técnico de Condições Ambientais de Trabalho (LTCAT), do Programa de Controle Médico de Saúde Ocupacional (PCMSO), do Programa de Gerenciamento de Riscos (PGR), do Laudo de Insalubridade e do Laudo de Periculosidade, bem como o envio das informações de Saúde e Segurança do Trabalho (SST) ao e-Social e a realização de exames admissionais, periódicos, demissionais e perícias médicas, de forma a atender todo o quadro de servidores do Município de Tocantins/MG, conforme demanda e durante a vigência da ata de registro de preços.",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 246254.38,
+"dataEncerramentoProposta": "2026-11-26T08:00:00",
+"dataPublicacaoPncp": "2026-11-11T10:50:28",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/MG/Prefeitura-Municipal-de-Tocantins-2857/RPE-050-2026-2026-524541",
+"processo": "103/2026"
+},
+{
 "numeroControlePNCP": "75771303000107-1-000143/2026",
 "orgao": "MUNICIPIO DE MARILANDIA DO SUL",
 "cnpj": "75771303000107",
@@ -7683,6 +7773,36 @@
 "processo": "4594"
 },
 {
+"numeroControlePNCP": "21565740000145-1-000027/2026",
+"orgao": "CONSORCIO INTERMUNICIPAL MULTIFINALITARIO DO VALE DO PARAIBUNA - CIMPAR",
+"cnpj": "21565740000145",
+"esfera": "Não informado",
+"poder": "Executivo",
+"unidade": "CIMPAR",
+"municipio": "Juiz de Fora",
+"uf": "MG",
+"codigoIbge": "3136702",
+"objeto": "Registro de Preços para futura e eventual contratação de solução integrada de Tecnologia da Informação e Comunicação em nuvem (SaaS/PaaS), contemplando ecossistema Google Workspace, Inteligência Artificial (Gemini), infraestrutura Google Cloud Platform (GCP), solução de proteção e backup imutável de dados, além de serviços especializados de migração, suporte técnico, consultoria e capacitação.",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 114730168.73,
+"dataEncerramentoProposta": "2026-11-26T09:30:00",
+"dataPublicacaoPncp": "2026-11-11T11:06:20",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]_bdyhPSJaAYBe5AV5cASfwQdN6bg9IJMiS9K8p73BqTf5cTo2pvmpnjkpR3MyweW93OmLuuDZ605T8V8BfV7fH7Rpbl5lQrZh750q2_WaPI=",
+"processo": "28/2026"
+},
+{
 "numeroControlePNCP": "42498600000171-1-004812/2026",
 "orgao": "ESTADO DO RIO DE JANEIRO",
 "cnpj": "42498600000171",
@@ -7711,6 +7831,36 @@
 "prioritario": false,
 "linkEdital": "https://www.compras.rj.gov.br/EditaisLicitacoes/detalhar.action?idLic=37764",
 "processo": "SEI-390002/001435/2026"
+},
+{
+"numeroControlePNCP": "06089668000133-1-000079/2026",
+"orgao": "MUNICIPIO DE SAO JOAO DOS PATOS",
+"cnpj": "06089668000133",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE SÃO JOÃO DOS PATOS",
+"municipio": "São João dos Patos",
+"uf": "MA",
+"codigoIbge": "2111102",
+"objeto": "Contratação de empresa para a Prestação de serviços de Licença de uso de Software para atender as necessidades da Secretaria Municipal de Administração",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-11-26T09:55:00",
+"dataPublicacaoPncp": "2026-11-11T11:28:00",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "http://www.comprassaojoaodospatosma.com.br",
+"processo": "141003/2026"
 },
 {
 "numeroControlePNCP": "46377800000127-1-004940/2026",
@@ -8523,6 +8673,36 @@
 "prioritario": false,
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98285305000522026",
 "processo": "07150087/2026"
+},
+{
+"numeroControlePNCP": "46612032000149-1-000313/2026",
+"orgao": "MUNICIPIO DE MIRASSOL",
+"cnpj": "46612032000149",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL",
+"municipio": "Mirassol",
+"uf": "SP",
+"codigoIbge": "3530300",
+"objeto": "Contratacao de software de tratamento de registro de ponto eletronico  com interface de autoatendimento e integracao nativa com a folha de pagamento  para atender a todas as Secretarias do Municipio de Mirassol   Secretaria Municipal de Administracao.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 119480.04,
+"dataEncerramentoProposta": "2026-12-01T09:00:00",
+"dataPublicacaoPncp": "2026-11-11T11:09:55",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Gestão de RH / escalas e ponto"
+],
+"cnaes": [
+"78.30-2/00"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": " ",
+"processo": "105"
 },
 {
 "numeroControlePNCP": "19382647000153-1-000451/2026",
@@ -38865,6 +39045,96 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "1294"
+},
+{
+"numeroControlePNCP": "06029235000192-1-000014/2026",
+"orgao": "SERVICO AUTONOMO DE AGUA E ESGOTO DE BACABAL",
+"cnpj": "06029235000192",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "Serviço Autônomo de Água e Esgoto de Bacabal",
+"municipio": "Bacabal",
+"uf": "MA",
+"codigoIbge": "2101202",
+"objeto": "Contratação de empresa especializada para o fornecimento de software com hospedagem em nuvem (SaaS), incluindo implantação, configuração, treinamento, suporte técnico, manutenção e integração nativa com Cloud API oficial do WhatsApp/Meta. ",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-11T11:38:40",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://bnccompras.com/DirectBuy/DirectBuyView?param1=[gkz]R_LFcoO6R0qvQWj0ZtkD/YNbkTsM5ZDwOc/sY1s23iewjuLOQZwI62gPEzNgwSRd5Xt2e7jVvQT7VaYWOx2i5b3td5MwJN_sBjatIXmepi8=",
+"processo": "136/2026"
+},
+{
+"numeroControlePNCP": "00394502000144-1-015988/2026",
+"orgao": "COMANDO DA MARINHA",
+"cnpj": "00394502000144",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "ESCOLA DE APRENDIZES-MARINHEIROS DO ES",
+"municipio": "Vitória",
+"uf": "ES",
+"codigoIbge": "3205309",
+"objeto": "Módulo de exportação de dados da SIMPRO, com banco de dados atualizado semanalmente, contendo mais de 120.600 itens entre medicamentos e produtos para saúde, abrangendo equipamentos, materiais hospitalares e Órteses, Próteses e Materiais Especiais (OPME). Visando tornar mais ágil e eficaz os processos de análise é auditoria de contas médicas hospitalares, faturamento, cotações de preços, entre outros.",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 2922.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-11T11:28:22",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Monitorar (operadoras/planos — não disputar)"
+],
+"cnaes": [
+"—"
+],
+"categoria": "monitorar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "63182.002086/2026-21"
+},
+{
+"numeroControlePNCP": "83334672000160-1-000077/2026",
+"orgao": "MUNICIPIO DE ULIANOPOLIS",
+"cnpj": "83334672000160",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE ULIANOPOLIS",
+"municipio": "Ulianópolis",
+"uf": "PA",
+"codigoIbge": "1508126",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO, MEDIANTE LOCAÇÃO, DE SOLUÇÃO INTEGRADA DE REGISTRO E GESTÃO DE PONTO ELETRÔNICO, COMPOSTA POR SOFTWARE EM AMBIENTE WEB, APLICATIVO PARA DISPOSITIVOS MÓVEIS, SUPORTE TÉCNICO, TREINAMENTO, IMPLANTAÇÃO E DISPONIBILIZAÇÃO DE REGISTRO BIOMÉTRICO FACIAL,  DESTINADA AO CONTROLE DE FREQUÊNCIA DOS SERVIDORES DA SECRETARIA MUNICIPAL DE MEIO AMBIENTE DO MUNICÍPIO DE ULIANÓPOLIS - PA. \r\n",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 13824.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-11T11:34:44",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Gestão de RH / escalas e ponto"
+],
+"cnaes": [
+"78.30-2/00"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": "https://www.governotransparente.com.br/transparencia/45929488/consultarlicitacao?datainfo=MTIwMjMxMDIzMTkyNFBQUA==&clean=false",
+"processo": "01-2026-IN-FMMA2026"
 }
 ]
 }
