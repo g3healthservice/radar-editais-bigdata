@@ -1,159 +1,9 @@
 {
-"build": 1794577067,
+"build": 1794605248,
 "geradoEm": "2026-11-13",
 "modo": "incremental",
-"totalCaptado": 1359,
+"totalCaptado": 1372,
 "itens": [
-{
-"numeroControlePNCP": "00550694000130-1-000071/2026",
-"orgao": "VIAMAO CAMARA MUNICIPAL",
-"cnpj": "00550694000130",
-"esfera": "Municipal",
-"poder": "Legislativo",
-"unidade": "CAMARA MUNICIPAL DE VEREADORES",
-"municipio": "Viamão",
-"uf": "RS",
-"codigoIbge": "4323002",
-"objeto": "Contratacao de Empresa especializada na prestacao de servicos de saude ocupacional e de medicina e seguranca do trabalho  conforme descrito neste Termo de Referencia",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 80893.1,
-"dataEncerramentoProposta": "2026-11-13T13:50:00",
-"dataPublicacaoPncp": "2026-10-29T17:51:55",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Psicologia / riscos psicossociais"
-],
-"cnaes": [
-"86.50-0/03"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": " ",
-"processo": "18"
-},
-{
-"numeroControlePNCP": "00550694000130-1-000070/2026",
-"orgao": "VIAMAO CAMARA MUNICIPAL",
-"cnpj": "00550694000130",
-"esfera": "Municipal",
-"poder": "Legislativo",
-"unidade": "VIAMAO CAMARA MUNICIPAL",
-"municipio": "Viamão",
-"uf": "RS",
-"codigoIbge": "4323002",
-"objeto": "Contratação de Empresa especializada na prestação de serviços de saúde ocupacional e de\r\nmedicina e segurança do trabalho, conforme descrito neste Edital, Termo de Referência e\r\ndemais anexos.",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 80893.1,
-"dataEncerramentoProposta": "2026-11-13T14:00:00",
-"dataPublicacaoPncp": "2026-10-29T15:01:05",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Psicologia / riscos psicossociais"
-],
-"cnaes": [
-"86.50-0/03"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://pregaobanrisul.com.br/editais/0018_2026/358827",
-"processo": "489"
-},
-{
-"numeroControlePNCP": "18270447000146-1-000093/2026",
-"orgao": "MUNICIPIO DE MANGA",
-"cnpj": "18270447000146",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Prefeitura Municipal de Manga - MG",
-"municipio": "Manga",
-"uf": "MG",
-"codigoIbge": "3139300",
-"objeto": "Contratação de empresa especializada para disponibilização de solução integrada de comunicação corporativa em nuvem (SaaS), destinada à modernização da comunicação institucional da Prefeitura Municipal de Manga/MG.",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 65100.0,
-"dataEncerramentoProposta": "2026-11-13T14:00:00",
-"dataPublicacaoPncp": "2026-11-05T16:25:35",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": null,
-"processo": "81/2026"
-},
-{
-"numeroControlePNCP": "13128780009662-1-000013/2026",
-"orgao": "MUNICIPIO DE ARACAJU",
-"cnpj": "13128780009662",
-"esfera": "Municipal",
-"poder": "Executivo",
-"unidade": "SECRETARIA MUNICIPAL DA SEGURANÇA E CIDADANIA",
-"municipio": "Aracaju",
-"uf": "SE",
-"codigoIbge": "2800308",
-"objeto": "AQUISIÇÃO DE MATERIAIS DE CONSUMO DESTINADOS AO FORTALECIMENTO DAS AÇÕES DE PROMOÇÃO DA SAÚDE OCUPACIONAL, PREVENÇÃO DE AGRAVOS, REABILITAÇÃO FUNCIONAL, FISIOTERAPIA E ATENDIMENTO MULTIPROFISSIONAL DESENVOLVIDOS PELO NÚCLEO DE ASSISTÊNCIA AO TRABALHADOR DA GUARDA MUNICIPAL DE ARACAJU – NAEST, VISANDO À EXECUÇÃO DO PLANO DE TRABALHO DA EMENDA PARLAMENTAR INDIVIDUAL DIRETA Nº 17/2026, COM O OBJETIVO DE AMPLIAR A CAPACIDADE OPERACIONAL DO NÚCLEO E ASSEGURAR MELHORES CONDIÇÕES PARA O ATENDIMENTO AOS SERVIDORES DA GUARDA MUNICIPAL DE ARACAJU.",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 57739.31,
-"dataEncerramentoProposta": "2026-11-13T15:00:00",
-"dataPublicacaoPncp": "2026-11-09T14:46:54",
-"fonteRecurso": [
-"Emenda parlamentar"
-],
-"eixos": [
-"Psicologia / riscos psicossociais"
-],
-"cnaes": [
-"86.50-0/03"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://aracajucompras.se.gov.br/publico/WKF.aspx?code=SSM/AJU-DI0545/2026&validation=56122",
-"processo": "DI0545/2026"
-},
-{
-"numeroControlePNCP": "07954480000179-1-027169/2026",
-"orgao": "ESTADO DO CEARA",
-"cnpj": "07954480000179",
-"esfera": "Estadual",
-"poder": "Não informado",
-"unidade": "CONTROLADORIA E OUVIDORIA GERAL DO ESTADO",
-"municipio": "Fortaleza",
-"uf": "CE",
-"codigoIbge": "2304400",
-"objeto": "Aquisição de 10 (dez) Aparelhos de TV Smart 55 polegadas, para esta Controladoria e Ouvidoria Geral do Estado (CGE), de acordo com as especificações e quantitativos previstos neste Termo.",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 33048.0,
-"dataEncerramentoProposta": "2026-11-13T17:00:00",
-"dataPublicacaoPncp": "2026-11-09T17:22:45",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Consultoria / apoio administrativo"
-],
-"cnaes": [
-"70.20-4/00 · 82.11-3/00"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": null,
-"processo": "41001003821202612"
-},
 {
 "numeroControlePNCP": "16137291000102-1-000120/2026",
 "orgao": "MUNICIPIO DE AURELINO LEAL",
@@ -3319,6 +3169,36 @@
 "processo": "010"
 },
 {
+"numeroControlePNCP": "04366790000184-1-000044/2026",
+"orgao": "CAMARA MUNICIPAL DE VARGINHA",
+"cnpj": "04366790000184",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "Câmara Municipal de Varginha",
+"municipio": "Varginha",
+"uf": "MG",
+"codigoIbge": "3170701",
+"objeto": "[Portal de Compras Públicas] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS TÉCNICOS DE APOIO OPERACIONAL, PREPARAÇÃO, CONFERÊNCIA, VALIDAÇÃO, TRANSMISSÃO E ACOMPANHAMENTO DAS REMESSAS DE INFORMAÇÕES CONTÁBEIS, ORÇAMENTÁRIAS, FINANCEIRAS, ADMINISTRATIVAS ( LICITAÇÕES, RECURSOS HUMANOS, FROTAS E OBRAS) E DEMAIS DADOS DE RESPONSABILIDADE DA CÂMARA MUNICIPAL DE VARGINHA/MG, EXIGIDOS PELO SISTEMA INFORMATIZADO DE CONTAS DOS MUNICÍPIOS - SICOM, DO TRIBUNAL DE CONTAS DO ESTADO DE MINAS GERAIS - TCE-MG, CONFORME LEIAUTES, MÓDULOS E PRAZOS.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 45843.24,
+"dataEncerramentoProposta": "2026-11-19T09:00:00",
+"dataPublicacaoPncp": "2026-11-13T10:26:05",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/MG/Camara-Municipal-de-Varginha-3765/DE-DE16-2026-2026-525265",
+"processo": "73/2026"
+},
+{
 "numeroControlePNCP": "04253881000103-1-000067/2026",
 "orgao": "SERVICO NACIONAL DE APRENDIZAGEM RURAL - SENAR",
 "cnpj": "04253881000103",
@@ -6361,6 +6241,36 @@
 "processo": "103/2026"
 },
 {
+"numeroControlePNCP": "45944428000120-1-000441/2026",
+"orgao": "MUNICIPIO DE MAIRINQUE",
+"cnpj": "45944428000120",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Mairinque",
+"municipio": "Mairinque",
+"uf": "SP",
+"codigoIbge": "3528403",
+"objeto": "PE N 036/2026 - Contratação de empresa especializada para locação de 80 (oitenta) equipamentos de registro eletrônico de ponto com reconhecimento facial, com disponibilização de solução integrada para gestão da frequência dos servidores da Prefeitura Municipal de Mairinque, incluindo licença de uso de software, comunicação com os equipamentos, aplicativo móvel para registro de ponto, portal do servidor, central de suporte, monitoramento do sistema e atualizações durante a vigência contratual, conforme condições, especificações e requisitos estabelecidos neste Edital e no Termo de Referência.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 357007.0,
+"dataEncerramentoProposta": "2026-11-26T08:45:00",
+"dataPublicacaoPncp": "2026-11-13T10:04:25",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "2402/2026"
+},
+{
 "numeroControlePNCP": "75771303000107-1-000143/2026",
 "orgao": "MUNICIPIO DE MARILANDIA DO SUL",
 "cnpj": "75771303000107",
@@ -8105,6 +8015,36 @@
 "processo": "476916.002853/2026-51"
 },
 {
+"numeroControlePNCP": "07849532000147-1-000096/2026",
+"orgao": "MUNICIPIO DE TAUA",
+"cnpj": "07849532000147",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Tauá",
+"municipio": "Tauá",
+"uf": "CE",
+"codigoIbge": "2313302",
+"objeto": "CONTRATAÇÃO DE SERVIÇOS DE LOCAÇÃO DE SOFTWARE DE GERENCIAMENTO E CONTROLE DO SITE OFICIAL DA PREFEITURA, OUVIDORIA E DIÁRIO, JUNTO AO GABINETE DA PREFEITA DO MUNICÍPIO DE TAUÁ-CE",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 117185.04,
+"dataEncerramentoProposta": "2026-12-01T07:30:00",
+"dataPublicacaoPncp": "2026-11-13T10:42:19",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "10.11.001/2026-GABP"
+},
+{
 "numeroControlePNCP": "67995027000132-1-000481/2026",
 "orgao": "MUNICIPIO DE HORTOLANDIA",
 "cnpj": "67995027000132",
@@ -8133,6 +8073,66 @@
 "prioritario": false,
 "linkEdital": "",
 "processo": "113137/2026"
+},
+{
+"numeroControlePNCP": "07891674000172-1-000149/2026",
+"orgao": "MUNICIPIO DE LIMOEIRO DO NORTE",
+"cnpj": "07891674000172",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Secretaria de Planejamento, Gestão e Inovação (SEPLAG)",
+"municipio": "Limoeiro do Norte",
+"uf": "CE",
+"codigoIbge": "2307601",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS PARA IMPLEMENTAÇÃO DOS SERVIÇOS DE SAÚDE E SEGURANÇA DO TRABALHO SST, COM ELABORAÇÃO DE LAUDOS E DOCUMENTOS PREVISTO NA LEGISLAÇÃO DO MINISTÉRIO DO TRABALHO E EMPREGO MTE, CONFORME DECRETO N° 8.373/2014, EXIGIDOS PELO SISTEMA DE ESCRITURAÇÃO DIGITAL DAS OBRIGAÇÕES FISCAIS, PREVIDENCIÁRIA E TRABALHISTA, PARA O CUMPRIMENTO DA 4ª FASE DO E-SOCIAL SST, BEM COMO ENVIO DE INFORMAÇÕES DA GESTÃO DO E-SOCIAL, OBJETIVANDO ATENDER AS DEMANDAS DAS SECRETARIAS DO MUNICÍPIO DE LIMOEIRO DO NORTE/CE",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 397255.0,
+"dataEncerramentoProposta": "2026-12-01T08:00:00",
+"dataPublicacaoPncp": "2026-11-13T10:21:41",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://licitamaisbrasil.com.br/detalhes-do-edital/sSoHRNDsto87RVXc",
+"processo": "061/2026"
+},
+{
+"numeroControlePNCP": "21310708000119-1-000020/2026",
+"orgao": "CONSELHO REGIONAL DE FISIOTERAPIA E TERAPIA OCUPACIONAL 14 REGIAO - CREFITO 14",
+"cnpj": "21310708000119",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "CONSELHO REG.DE FIS. E TERAPIA OCUPACIONAL-PI",
+"municipio": "Teresina",
+"uf": "PI",
+"codigoIbge": "2211001",
+"objeto": "Contratação de empresa especializada para prestação de serviços de administração e gerenciamento da frota de veículos com abastecimento de combustível, manutenção preventiva, corretiva, fornecimento de peças, lavagem e serviços veiculares em geral, por meio da implantação e operação de sistema informatizado e integrado, em rede de serviço credenciada",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 62032.4,
+"dataEncerramentoProposta": "2026-12-01T08:00:00",
+"dataPublicacaoPncp": "2026-11-13T11:53:46",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92954605000142026",
+"processo": "14.1419.000026/2026-15"
 },
 {
 "numeroControlePNCP": "27165570000198-1-000143/2026",
@@ -8193,6 +8193,36 @@
 "prioritario": false,
 "linkEdital": "https://licitanet.com.br/sessao/204993",
 "processo": "284"
+},
+{
+"numeroControlePNCP": "02291730000114-1-000174/2026",
+"orgao": "GOIAS TRIBUNAL DE CONTAS",
+"cnpj": "02291730000114",
+"esfera": "Estadual",
+"poder": "Legislativo",
+"unidade": "TRIBUNAL DE CONTAS DO ESTADO DE GOIÁS",
+"municipio": "Goiânia",
+"uf": "GO",
+"codigoIbge": "5208707",
+"objeto": "Prestação de serviços continuados de subscrição de licenças corporativas da Plataforma de Inteligência Artificial Generativa Claude (Anthropic), na modalidade Software as a Service (SaaS).",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 115161.59,
+"dataEncerramentoProposta": "2026-12-01T08:59:00",
+"dataPublicacaoPncp": "2026-11-13T11:09:17",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92540005001682026",
+"processo": "202600047003142"
 },
 {
 "numeroControlePNCP": "12200168000120-1-000222/2026",
@@ -8433,6 +8463,66 @@
 "prioritario": true,
 "linkEdital": "https://app2.licitardigital.com.br/pesquisa/118684",
 "processo": "152/2026"
+},
+{
+"numeroControlePNCP": "12227351000119-1-000038/2026",
+"orgao": "MUNICIPIO DE ANADIA",
+"cnpj": "12227351000119",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE ANADIA",
+"municipio": "Anadia",
+"uf": "AL",
+"codigoIbge": "2700201",
+"objeto": "REGISTRO DE PREÇO PARA CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA O FORNECIMENTO DE SISTEMA INFORMATIZADO INTEGRADO DE GESTÃO PÚBLICA, EM AMBIENTE WEB, COMPREENDENDO O LICENCIAMENTO DE USO DOS MÓDULOS CONTRATADOS, SEM LIMITAÇÃO DE USUÁRIOS, IMPLANTAÇÃO, CONFIGURAÇÃO, MIGRAÇÃO DE DADOS, TREINAMENTO DE USUÁRIOS, SUPORTE TÉCNICO E MANUTENÇÃO, DESTINADO A ATENDER ÀS NECESSIDADES DA PREFEITURA MUNICIPAL DE ANADIA/AL E DAS SECRETARIAS PARTICIPANTES",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 600000.0,
+"dataEncerramentoProposta": "2026-12-01T09:00:00",
+"dataPublicacaoPncp": "2026-11-13T10:06:26",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]Pa4jA0LVPpL4onmDczjRpYaypAEwqTmnXheOVdXEMvQZ4sEpmuXPdX8ss5xwES9_zthzd1gAcBqPNC3gvG3QIXhVSwNB_77hKzOiBDID6rg=",
+"processo": "202609180024"
+},
+{
+"numeroControlePNCP": "13864377000130-1-001848/2026",
+"orgao": "FUNDO MUNICIPAL DE SAUDE - FMS",
+"cnpj": "13864377000130",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "PMSP - SECRETARIA MUNICIPAL DE SAÚDE",
+"municipio": "São Paulo",
+"uf": "SP",
+"codigoIbge": "3550308",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA IMPLANTAÇÃO E FORNECIMENTO DE LICENÇA DE USO DE SOLUÇÃO DE SOFTWARE, NA MODALIDADE SOFTWARE COMO SERVIÇO (SAAS – SOFTWARE AS A SERVICE), PARA GESTÃO E MONITORAMENTO DE OBRAS DA SECRETARIA MUNICIPAL DA SAÚDE DO MUNICÍPIO DE SÃO PAULO (SMS-SP), COMPREENDENDO TAMBÉM ATIVIDADES DE IMPLANTAÇÃO,MIGRAÇÃO DE DADOS, AJUSTES PERSONALIZADOS (CUSTOMIZAÇÃO), DESENVOLVIMENTO EVOLUTIVO, SUPORTE TÉCNICO, MANUTENÇÃO CORRETIVA E ADAPTATIVA DE SUA PLATAFORMA DE SOFTWARE...",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-12-01T09:30:00",
+"dataPublicacaoPncp": "2026-11-13T11:00:13",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92500305006582026",
+"processo": "6018.2026/0064222-8"
 },
 {
 "numeroControlePNCP": "50176288000128-1-000050/2026",
@@ -8823,6 +8913,36 @@
 "prioritario": false,
 "linkEdital": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1103863",
 "processo": "PL183/2026"
+},
+{
+"numeroControlePNCP": "76413061000142-1-000047/2026",
+"orgao": "MUNICIPIO DE NOVA ALIANCA DO IVAI",
+"cnpj": "76413061000142",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Nova Aliança do Ivai - PR",
+"municipio": "Nova Aliança do Ivaí",
+"uf": "PR",
+"codigoIbge": "4116505",
+"objeto": "AQUISIÇÃO DE RELOGIOS DE PONTO ELETRONICOS, EM ATENDIMENTO AS NECESSIDADES DA SECRETARIA DE ADMINISTRAÇÃO GERAL DE NOVA ALIANÇA DO IVAI - PR",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 17600.0,
+"dataEncerramentoProposta": "2026-12-07T09:00:00",
+"dataPublicacaoPncp": "2026-11-13T09:42:35",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Gestão de RH / escalas e ponto"
+],
+"cnaes": [
+"78.30-2/00"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=49737",
+"processo": "36/2026"
 },
 {
 "numeroControlePNCP": "00399857000126-1-000471/2026",
@@ -40857,6 +40977,276 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "INEX 400/2026"
+},
+{
+"numeroControlePNCP": "00508903000188-1-002225/2026",
+"orgao": "JUSTICA FEDERAL DE PRIMEIRA INSTANCIA",
+"cnpj": "00508903000188",
+"esfera": "Federal",
+"poder": "Judiciário",
+"unidade": "JUSTICA FEDERAL DE 1A. INSTANCIA - RN",
+"municipio": "Natal",
+"uf": "RN",
+"codigoIbge": "2408102",
+"objeto": "Assinatura de acesso para consulta a sistema informatizado de pesquisa de preços oficiais. ",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 6000.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-13T08:50:43",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "0003820-80.2026.4.05.7100"
+},
+{
+"numeroControlePNCP": "18243220000101-1-000180/2026",
+"orgao": "MUNICIPIO DE ALFENAS",
+"cnpj": "18243220000101",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Alfenas",
+"municipio": "Alfenas",
+"uf": "MG",
+"codigoIbge": "3101607",
+"objeto": "Trata-se de contratação direta por Dispensa EMERGENCIAL, com fulcro no art. 75, VIII. por preço global, de pessoa jurídica especializada para levantar riscos ocupacionais presencialmente em 160 estabelecimentos/setores municipais e produzir PGR (Inventário de Riscos Ocupacionais e Plano de Ação), cinco avaliações quantitativas em campo de poeiras, névoas, vibração de corpo inteiro (VCI) e vibração de mãos e braços (VMB), laudos de insalubridade e periculosidade, LTCAT, documentação de calibração dos equipamentos efetivamente utilizados e cronograma executivo.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 106000.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-13T08:59:30",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "232/2026"
+},
+{
+"numeroControlePNCP": "02697809000140-1-000011/2026",
+"orgao": "INSTITUTO DE PREVIDENCIA E ASSISTENCIA DOS SERVIDORES DE JERONIMO MONTEIRO - IPASJM",
+"cnpj": "02697809000140",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "Instituto de Previdencia e Assistencia dos Servidores de Jeronimo Monteiro - IPASJM",
+"municipio": "Jerônimo Monteiro",
+"uf": "ES",
+"codigoIbge": "3203106",
+"objeto": "Contratação de empresa especializada para elaboração do cálculo atuarial, incluindo alguns formulários BASECD, DEMAAT, DELATU, DECATU, NOTATU, PARATU, PROATU, BALATU, SUSTEN, referente às obrigações previdenciárias relativas aos servidores públicos do município de Jerônimo Monteiro, de acordo com a legislação federal vigente.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 8000.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-13T09:50:02",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Auditoria / consultoria atuarial"
+],
+"cnaes": [
+"66.21-5/02"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "2026-99NW8/2026"
+},
+{
+"numeroControlePNCP": "46634093000107-1-000136/2026",
+"orgao": "MUNICIPIO DE SALTO DE PIRAPORA",
+"cnpj": "46634093000107",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE SALTO DE PIRAPORA",
+"municipio": "Salto de Pirapora",
+"uf": "SP",
+"codigoIbge": "3545308",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO DE LICENÇA DE USO MENSAL DE PLATAFORMA SAAS DE GERENCIAMENTO PÚBLICO DE DESPORTOS, EM AMBIENTE VIRTUAL (NUVEM)",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 13666.68,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-13T10:28:25",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "1564"
+},
+{
+"numeroControlePNCP": "35223577000147-1-000009/2026",
+"orgao": "MUNICIPIO DE IRACEMA - CAMARA MUNICIPAL",
+"cnpj": "35223577000147",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "MUNICIPIO DE IRACEMA - CAMARA MUNICIPAL",
+"municipio": "Iracema",
+"uf": "CE",
+"codigoIbge": "2306009",
+"objeto": "CONTRATAÇÃO DE SERVIÇOS TECNICOS ESPECIALIZADOS DE ASSESSORIA E CONSULTORIA JUNTO A OUVIDORIA, PARA ATENDER AS NECESSIDADES DA CÂMARA MUNICIPAL DE IRACEMA-CE.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 62799.96,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-13T10:28:39",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "http://precodereferencia.m2atecnologia.com.br/c/cvkuHtM7TjK7C5_Zr5_e5Q.XEyukvJhPBPe/",
+"processo": "2026.10.01.DLE"
+},
+{
+"numeroControlePNCP": "78511052000110-1-000067/2026",
+"orgao": "MUNICIPIO DE ABDON BATISTA",
+"cnpj": "78511052000110",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICÍPIO DE ABDON BATISTA",
+"municipio": "Abdon Batista",
+"uf": "SC",
+"codigoIbge": "4200051",
+"objeto": "Contratação de empresa especializada para fornecimento de licença de uso, na modalidade Software como Serviço (SaaS), pelo período de 12 (doze) meses, da plataforma BB Governo Digital, disponibilizada em ambiente de computação em nuvem (cloud), destinada à gestão eletrônica integrada de processos, documentos, protocolos e demandas da Administração Pública Municipal, contemplando funcionalidades de tramitação, análise, aprovação e emissão de documentos, assinatura eletrônica avançada, parametrização de fluxos e processos, gerenciamento de usuários e setores, notificações, indicadores, atendimento ao cidadão e recursos de Inteligência Artificial, incluindo implantação, configuração e parametrização inicial, cadastro de usuários e setores, capacitação e treinamento, suporte técnico e acompanhamento durante a vigência contratual.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 63000.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-13T11:10:32",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "87/2026"
+},
+{
+"numeroControlePNCP": "03343118000100-1-000116/2026",
+"orgao": "MUNICIPIO DE PARANAIBA",
+"cnpj": "03343118000100",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICIPIO DE PARANAIBA",
+"municipio": "Paranaíba",
+"uf": "MS",
+"codigoIbge": "5006309",
+"objeto": "Contratação de consultoria com finalidade de realizar estudos técnicos visando diagnosticar a situação real do regime próprio de Previdência Social - RPPS do Município, a elaboração de propostas de financiamento atuarial, o acompanhamento da evolução financeira e atuarial do RPPS, a elaboração de estudos simulando diferentes cenários financeiros e atuariais, o apoio a gestão jurídica e normativa, apoio técnico às questões previdenciárias e normativas, apoio técnico previdenciário, apoio à fiscalização e acompanhamento do RPPS,de acordo com as descrições constantes neste Termo de Referência, com fundamento no art. 74, inciso III, da Lei n^ 14.133/2021.",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 16900.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-13T11:45:36",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Auditoria / consultoria atuarial"
+],
+"cnaes": [
+"66.21-5/02"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://diario-oficial-prd.nyc3.digitaloceanspaces.com/files/media/152351/4169---01-09-2026.pdf",
+"processo": "22"
+},
+{
+"numeroControlePNCP": "00858645000160-1-000022/2026",
+"orgao": "MARILANDIA DO SUL CAMARA MUNICIPAL",
+"cnpj": "00858645000160",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "CâMARA MUNICIPAL DE MARILâNDIA DO SUL",
+"municipio": "Marilândia do Sul",
+"uf": "PR",
+"codigoIbge": "4114906",
+"objeto": "Pagamento de três inscrições para o curso com tema - COMPLIANCE MUNICIPAL NA PRÁTICA: INTEGRIDADE NA ROTINA DA PREFEITURA, UM ITINERÁRIO FORMATIVO PARA O EXECUTIVO E O LEGISLATIVO MUNICIPAL, MODO CONSULTORIA",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 8370.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-13T11:50:51",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "21/2026"
+},
+{
+"numeroControlePNCP": "00858645000160-1-000026/2026",
+"orgao": "MARILANDIA DO SUL CAMARA MUNICIPAL",
+"cnpj": "00858645000160",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "CâMARA MUNICIPAL DE MARILâNDIA DO SUL",
+"municipio": "Marilândia do Sul",
+"uf": "PR",
+"codigoIbge": "4114906",
+"objeto": "Pagamento de duas inscrições para o curso com tema – REGRAS PARA EMENDAS IMPOSITIVAS NAS CÂMARAS MUNICIPAIS - Análise Prática da EC 126/2022, da ADPF 854 e decisões dos TCE’S, e os impactos diretos no seu Município. GESTÃO MUNICIPAL TRANSPARENTE e DIGITAL - Portal da Transparência, Ouvidoria, Publicidade Oficial.",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 5580.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-13T11:55:25",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "26/2026"
 }
 ]
 }
