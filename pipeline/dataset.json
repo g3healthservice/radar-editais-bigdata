@@ -1,69 +1,9 @@
 {
-"build": 1794524522,
-"geradoEm": "2026-11-12",
+"build": 1794542003,
+"geradoEm": "2026-11-13",
 "modo": "incremental",
-"totalCaptado": 1380,
+"totalCaptado": 1381,
 "itens": [
-{
-"numeroControlePNCP": "13982640000196-1-000183/2025",
-"orgao": "MUNICIPIO DE GUANAMBI",
-"cnpj": "13982640000196",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO",
-"municipio": "Guanambi",
-"uf": "BA",
-"codigoIbge": "2911709",
-"objeto": "CREDENCIAMENTO DE EMPRESAS ESPECIALIZADAS NA PRESTAÇÃO DE SERVIÇOS DE EMISSÃO DE ATESTADO DE SAÚDE OCUPACIONAL (ASO), REFERENTE À MEDICINA DO TRABALHO, COM O PROPÓSITO DE REALIZAR EXAMES MÉDICOS OCUPACIONAIS.",
-"modalidade": "Credenciamento",
-"srp": false,
-"valorEstimado": 60000.0,
-"dataEncerramentoProposta": "2026-11-13T00:00:00",
-"dataPublicacaoPncp": "2025-11-13T16:49:16",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Psicologia / riscos psicossociais"
-],
-"cnaes": [
-"86.50-0/03"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]L2_qzYNyL4Os4S/v3mTPxggoUw_AVcyroVhk6fj6heSkQMe15Ca1DhQK5m1vRzc1HkG0p4RshPcQ1q8oPKNZ7nHO5YARdvmSEzHhp6oQy6I=",
-"processo": "217-25-PMG"
-},
-{
-"numeroControlePNCP": "46523114000117-1-000273/2026",
-"orgao": "MUNICIPIO DE EMBU DAS ARTES",
-"cnpj": "46523114000117",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Prefeitura da Estância Turística de Embu das Artes",
-"municipio": "Embu das Artes",
-"uf": "SP",
-"codigoIbge": "3515004",
-"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A EXECUÇÃO DE SERVIÇOS TÉCNICOS INTEGRADOS DE ATUALIZAÇÃO E MODERNIZAÇÃO DO CADASTRO TÉCNICO TERRITORIAL MULTIFINALITÁRIO DO MUNICÍPIO DE EMBU DAS ARTES, INCLUINDO ESTUDOS PRELIMINARES, LEVANTAMENTO AEROFOTOGRAMÉTRICO, COLETA E ATUALIZAÇÃO CADASTRAL E CARTOGRÁFICA, ATUALIZAÇÃO DA PLANTA GENÉRICA DE VALORES (PGV), BEM COMO O FORNECIMENTO, IMPLANTAÇÃO, LICENCIAMENTO E OPERAÇÃO DE SISTEMA INFORMATIZADO DE GESTÃO DO CADASTRO TÉCNICO MULTIFINALITÁRIO E DE SISTEMA INFORMATIZADO ESPECÍFICO DE GESTÃO DA PGV, POR MEIO DE OBSERVATÓRIO DO MERCADO IMOBILIÁRIO, EM AMBIENTE WEB E MOBILE, COM INTEGRAÇÃO ENTRE SI E COM SISTEMAS LEGADOS, TREINAMENTO DE SERVIDORES E DESENVOLVIMENTO SOB DEMANDA.",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 16777427.58,
-"dataEncerramentoProposta": "2026-11-13T00:00:00",
-"dataPublicacaoPncp": "2026-10-27T14:13:12",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": null,
-"processo": "23354/2026"
-},
 {
 "numeroControlePNCP": "18650945000114-1-000052/2026",
 "orgao": "MUNICIPIO DE MONTE AZUL",
@@ -3435,6 +3375,36 @@
 "prioritario": false,
 "linkEdital": "",
 "processo": "299"
+},
+{
+"numeroControlePNCP": "08597121000174-1-000462/2026",
+"orgao": "FUNDO ESTADUAL DE SAUDE DO PARANA - FUNSAUDE",
+"cnpj": "08597121000174",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "FUNDO ESTADUAL DE SAUDE DO PARANA",
+"municipio": "Curitiba",
+"uf": "PR",
+"codigoIbge": "4106902",
+"objeto": "Contratação de serviço de GERENCIAMENTO DE ABASTECIMENTO DE COMBUSTÍVEIS destinados a equipamentos estacionários e portáteis (geradores de energia, caldeiras, roçadeiras, sopradores, entre outros) das Unidades da Secretaria de Estado da Saúde do Paraná – SESA/PR (exceto CHT), mediante disponibilização de sistema informatizado de gerenciamento e de rede de postos de combustíveis credenciados, incluindo modalidade de entrega presencial (delivery) para o abastecimento de equipamentos fixos.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-11-18T09:00:00",
+"dataPublicacaoPncp": "2026-11-12T21:30:37",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45679306001262026",
+"processo": "26.854.724-0"
 },
 {
 "numeroControlePNCP": "11270608000152-1-000008/2026",
@@ -9185,6 +9155,36 @@
 "processo": "152/2026"
 },
 {
+"numeroControlePNCP": "50176288000128-1-000050/2026",
+"orgao": "SAO PAULO CAMARA MUNICIPAL",
+"cnpj": "50176288000128",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "PMSP - (CMSP) - CÂMARA MUNICIPAL DE SÃO PAULO",
+"municipio": "São Paulo",
+"uf": "SP",
+"codigoIbge": "3550308",
+"objeto": "Aquisição de licenças por assinatura para direito de uso dos softwares Microsoft Exchange Online e Microsoft Office 365 no modelo SaaS (software como serviço) pelo período de 36 (trinta e seis) meses, respeitando as condições padronizadas do Acordo Corporativo nº 8/2020 do Catálogo de Soluções de TIC com Condições Padronizadas Microsoft da Secretaria de Governo Digital da Secretaria Especial de Desburocratização, Gestão e Governo Digital do Ministério da Economia, conforme especificações, descrições, condições e quantidades constantes do Anexo I - Termo de Referência - Especificações Técnicas, parte integrante do Edital.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-12-01T11:00:00",
+"dataPublicacaoPncp": "2026-11-12T20:26:31",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92510905000532026",
+"processo": "CMSP-PAD-2026/00150"
+},
+{
 "numeroControlePNCP": "22635892000130-1-000005/2026",
 "orgao": "FUNDACAO MUNICIPAL DE ESPORTES E LAZER DE UBERABA - FUNEL",
 "cnpj": "22635892000130",
@@ -9633,6 +9633,36 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "36/2026"
+},
+{
+"numeroControlePNCP": "04407920000180-1-000007/2026",
+"orgao": "PRODAM PROCESSAMENTO DE DADOS AMAZONAS S A",
+"cnpj": "04407920000180",
+"esfera": "Não informado",
+"poder": "Não informado",
+"unidade": "PROCESSAMENTO DE DADOS AMAZONAS S/A",
+"municipio": "Manaus",
+"uf": "AM",
+"codigoIbge": "1302603",
+"objeto": "Contratação de empresa especializada para eventual Aquisição de Licenças de uso de Modelos de Linguagem de Grande Porte (LLM) por meio de interface de chat e suas respectivas APIs de integração, sob o formato de Software as a Service (SaaS), incluindo suporte técnico especializado, conforme especificações detalhadas no Termo de Referência, constante do Anexo I",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2026-12-10T10:00:00",
+"dataPublicacaoPncp": "2026-11-12T20:05:50",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92713105000072026",
+"processo": "MEMO Nº 005/2026-GSIST"
 },
 {
 "numeroControlePNCP": "27471911000153-1-000018/2026",
