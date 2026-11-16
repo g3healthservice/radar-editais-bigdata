@@ -1,1095 +1,9 @@
 {
-"build": 1794810112,
+"build": 1794844291,
 "geradoEm": "2026-11-16",
 "modo": "incremental",
-"totalCaptado": 1406,
+"totalCaptado": 1382,
 "itens": [
-{
-"numeroControlePNCP": "82939448000130-1-000228/2026",
-"orgao": "MUNICIPIO DE IBICARE",
-"cnpj": "82939448000130",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Prefeitura Municipal de Ibicaré",
-"municipio": "Ibicaré",
-"uf": "SC",
-"codigoIbge": "4206801",
-"objeto": "[Portal de Compras Públicas] - Contratação de empresa especializada na prestação de serviços de Medicina e Segurança do Trabalho, compreendendo a elaboração, atualização e acompanhamento de PGR, PCMSO, LTCAT, incluindo laudos de insalubridade e periculosidade, PPP, ASO e demais documentos de SST, realização de exames ocupacionais e complementares, avaliação de riscos psicossociais ocupacionais, gerenciamento das informações junto ao eSocial, aferições de agentes químicos, como metais, vapores orgânicos e hidróxido de sódio, ruído e vibração ocupacional, assessoria técnica em Engenharia de Segurança do Trabalho, bem como perícia médica para avaliação de atestados e da capacidade laborativa dos servidores, visando atender às necessidades do Município de Ibicaré/SC.",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 73034.04,
-"dataEncerramentoProposta": "2026-11-16T07:30:00",
-"dataPublicacaoPncp": "2026-10-28T17:17:40",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Psicologia / riscos psicossociais"
-],
-"cnaes": [
-"86.50-0/03"
-],
-"categoria": "disputar",
-"prioritario": true,
-"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/SC/Prefeitura-Municipal-de-Ibicare-1783/PE-PE80-2026-2026-521933",
-"processo": "238/2026"
-},
-{
-"numeroControlePNCP": "67662452000100-1-000080/2026",
-"orgao": "MUNICIPIO DE ROSANA",
-"cnpj": "67662452000100",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNICIPAL",
-"municipio": "Rosana",
-"uf": "SP",
-"codigoIbge": "3544251",
-"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE DISPONIBILIZAÇÃO, IMPLANTAÇÃO, MIGRAÇÃO DE DADOS E MANUTENÇÃO DE SOLUÇÃO INTEGRADA DE GESTÃO E CONTROLE ELETRÔNICO DE FREQUÊNCIA, NO MODELO SAAS (SOFTWARE AS A SERVICE), HOSPEDADA EM AMBIENTE DE NUVEM EM TERRITÓRIO NACIONAL, COM GARANTIA DE SEGURANÇA E BACKUPS DIÁRIOS, CONTEMPLANDO ATUALIZAÇÕES LEGAIS, CORRETIVAS E EVOLUTIVAS, SUPORTE TÉCNICO CONTINUADO E CAPACITAÇÃO DE USUÁRIOS, PARA ATENDIMENTO DE ATÉ 800 (OITOCENTOS) SERVIDORES DO MUNICÍPIO DE ROSANA/SP, PELO PERÍODO DE 12 (DOZE) MESES, PODENDO SER PRORROGADO CONFORME QUANTIDADE E ESPECIFICAÇÕES DESCRITAS NESTE EDITAL E SEUS ANEXOS.",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 290519.43,
-"dataEncerramentoProposta": "2026-11-16T07:59:00",
-"dataPublicacaoPncp": "2026-10-27T07:56:42",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "http://admin.rosana.sp.gov.br:8079/comprasedital/",
-"processo": "51"
-},
-{
-"numeroControlePNCP": "82916826000160-1-000260/2026",
-"orgao": "MUNICIPIO DE NOVA VENEZA",
-"cnpj": "82916826000160",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA",
-"municipio": "Nova Veneza",
-"uf": "SC",
-"codigoIbge": "4211603",
-"objeto": "Contratação de solução informatizada de gestão pública municipal, em ambiente web e modelo SaaS, com hospedagem em nuvem, migração e conversão de dados, implantação, capacitação, manutenção, suporte, integrações, segurança e portabilidade, em lote único, conforme o Termo de Referência.",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 4202958.4,
-"dataEncerramentoProposta": "2026-11-16T08:00:00",
-"dataPublicacaoPncp": "2026-10-29T08:37:11",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "",
-"processo": "205/2026"
-},
-{
-"numeroControlePNCP": "21040001000130-1-000236/2026",
-"orgao": "UNIVERSIDADE FEDERAL DE ITAJUBA",
-"cnpj": "21040001000130",
-"esfera": "Federal",
-"poder": "Executivo",
-"unidade": "UNIVERSIDADE FEDERAL DE ITAJUBA/MG",
-"municipio": "Itajubá",
-"uf": "MG",
-"codigoIbge": "3132404",
-"objeto": "Contratação de sistema informatizado de gestão de bibliotecas, na modalidade de subscrição, pelo período de 12 (doze) meses, para atendimento ao Sistema de Bibliotecas (SIBI) da Universidade Federal de Itajubá (UNIFEI). A solução deverá contemplar o gerenciamento integrado dos acervos bibliográficos, a catalogação e classificação de materiais, a consulta ao catálogo, a gestão de usuários e da circulação de materiais (empréstimos, devoluções, renovações e reservas), a geração de relatórios gerenciais e estatísticos e o controle de acesso por perfis de usuários. Deverá, permitir a integração com sistemas e equipamentos pertinentes às atividades das bibliotecas, conforme requisitos técnicos estabelecidos no Termo de Referência",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 44097.6,
-"dataEncerramentoProposta": "2026-11-16T08:00:00",
-"dataPublicacaoPncp": "2026-11-10T10:46:25",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15303006004622026",
-"processo": "23088.027492/2026-19"
-},
-{
-"numeroControlePNCP": "06553606000130-1-000175/2026",
-"orgao": "MUNICIPIO DE UNIAO",
-"cnpj": "06553606000130",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNICIPAL DE UNIÃO",
-"municipio": "União",
-"uf": "PI",
-"codigoIbge": "2211100",
-"objeto": "[Portal de Compras Públicas] - Contratação de empresa especializada no ramo pertinente de Tecnologia da Informação para prestação de serviços de locação/subscrição de software de sistema integrado de gerenciamento de trânsito urbano e fiscalização eletrônica, compreendendo plataforma web de processamento, administração, arrecadação e controle de recursos de multas de trânsito (retaguarda e módulo JARI), aplicativo móvel de fiscalização/talonário eletrônico de autos de infração de trânsito (AIT Mobile homologado SENATRAN), suporte técnico continuado 24/7, sustentação em nuvem, atualizações legais permanentes e treinamento operacional dos servidores e agentes de trânsito municipais, destinada ao atendimento das necessidades operacionais do Município de União-PI.",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 65052.0,
-"dataEncerramentoProposta": "2026-11-16T08:00:00",
-"dataPublicacaoPncp": "2026-11-11T13:38:55",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/PI/PREFEITURA-MUNICIPAL-DE-UNIAO-2372/DE-029-2026-2026-524638",
-"processo": "069091.020-2026"
-},
-{
-"numeroControlePNCP": "88702089000189-1-000101/2026",
-"orgao": "MUNICIPIO DE PANAMBI",
-"cnpj": "88702089000189",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Educação",
-"municipio": "Panambi",
-"uf": "RS",
-"codigoIbge": "4313904",
-"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SISTEMAS DE INFORMÁTICA PARA DISPONIBILIZAÇÃO DE LICENÇA DE USO DE SOFTWARE, INCLUINDO INSTALAÇÃO, IMPLANTAÇÃO, MIGRAÇÃO DE DADOS, TREINAMENTO E CAPACITAÇÃO DE USUÁRIOS, MANUTENÇÃO, SUPORTE TÉCNICO PERMANENTE, INTEGRAÇÃO E CUSTOMIZAÇÃO DOS SISTEMAS DE GESTÃO DA EDUCAÇÃO, DESTINADOS AO ATENDIMENTO DAS NECESSIDADES DA SECRETARIA MUNICIPAL DE EDUCAÇÃO.",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 341273.33,
-"dataEncerramentoProposta": "2026-11-16T08:20:00",
-"dataPublicacaoPncp": "2026-10-27T15:06:38",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": null,
-"processo": "158/2026"
-},
-{
-"numeroControlePNCP": "02319394000170-1-000087/2026",
-"orgao": "CISALP-CONSORCIO PUBLICO INTERMUNICIPAL DE SAUDE A MICRO-REGIAO DO ALTO PARANAIBA",
-"cnpj": "02319394000170",
-"esfera": "Não informado",
-"poder": "Executivo",
-"unidade": "CONSÓRCIO INTERMUNICIPAL DE SAÚDE DO ALTO PARANAÍBA - CISALP/MG",
-"municipio": "Lagoa Formosa",
-"uf": "MG",
-"codigoIbge": "3137502",
-"objeto": "[LICITANET] - Registro de Preços para futura e eventual contratação de empresa especializada para implantação de Espaço Pedagógico Sensorial (EPS) – Sala Multissensorial, incluindo projeto, fornecimento de equipamentos, mobiliários, materiais, instalação, treinamento e entrega em pleno funcionamento, bem como disponibilização de plataforma web em nuvem para gestão da educação especial, gestão de equipes multiprofissionais para neurodivergentes e teleatendimento, contemplando prontuário eletrônico, gestão de atendimentos, PEI, PTS, teleatendimento, relatórios, dashboards e recursos de inteligência artificial com processamento seguro de dados, destinada à estruturação, ampliação e fortalecimento dos serviços especializados ofertados pelos entes consorciados ao CISALP e pelas unidades geridas pelo consórcio.",
-"modalidade": "Pregão - Eletrônico",
-"srp": true,
-"valorEstimado": 18540004.65,
-"dataEncerramentoProposta": "2026-11-16T08:30:00",
-"dataPublicacaoPncp": "2026-10-30T15:52:19",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Apoio à gestão de saúde",
-"Licenciamento de software / SaaS",
-"Assistencial / telessaúde"
-],
-"cnaes": [
-"86.60-7/00",
-"62.02/62.03/63.11",
-"86.30-5/03 · 86.50"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://licitanet.com.br/sessao/206644",
-"processo": "071/2026"
-},
-{
-"numeroControlePNCP": "24651234000167-1-000064/2026",
-"orgao": "MUNICIPIO DE SONORA",
-"cnpj": "24651234000167",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Prefeitura Municipal de Sonora",
-"municipio": "Sonora",
-"uf": "MS",
-"codigoIbge": "5007935",
-"objeto": "[Portal de Compras Públicas] - Locação mensal de equipamento eletrônico coletor de ponto.\nContratação de empresa especializada na oferta de solução integrada de sistema informatizado voltado à gestão e ao controle administrativo. A contratação abrangerá o fornecimento de equipamentos e recursos tecnológicos, a cessão de direito de uso de softwares mediante licenciamento, bem como a prestação dos serviços de implantação, parametrização, customização, capacitação de usuários, suporte técnico, além da manutenção preventiva e corretiva do sistema, conforme especificações, quantidades e condições estabelecidas no Edital e seus anexos.",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": null,
-"dataEncerramentoProposta": "2026-11-16T08:59:00",
-"dataPublicacaoPncp": "2026-10-28T12:49:05",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/MS/Prefeitura-Municipal-de-Sonora-3554/PE-34-2026-2026-521779",
-"processo": "000073/26"
-},
-{
-"numeroControlePNCP": "46137485000160-1-000035/2026",
-"orgao": "MUNICIPIO DE DUARTINA",
-"cnpj": "46137485000160",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "MUNICÍPIO DE DUARTINA",
-"municipio": "Duartina",
-"uf": "SP",
-"codigoIbge": "3514502",
-"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA LICENCIAMENTO DE SOFTWARES",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 623321.4,
-"dataEncerramentoProposta": "2026-11-16T08:59:00",
-"dataPublicacaoPncp": "2026-10-28T12:58:29",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://transparencia.duartina.sp.gov.br:8079/Transparencia/",
-"processo": "36"
-},
-{
-"numeroControlePNCP": "46137485000160-1-000036/2026",
-"orgao": "MUNICIPIO DE DUARTINA",
-"cnpj": "46137485000160",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "MUNICÍPIO DE DUARTINA",
-"municipio": "Duartina",
-"uf": "SP",
-"codigoIbge": "3514502",
-"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA LICENCIAMENTO DE SOFTWARES",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 623321.4,
-"dataEncerramentoProposta": "2026-11-16T08:59:00",
-"dataPublicacaoPncp": "2026-10-28T15:03:49",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://transparencia.duartina.sp.gov.br:8079/Transparencia/",
-"processo": "36"
-},
-{
-"numeroControlePNCP": "10393593000157-1-000060/2026",
-"orgao": "MUNICIPIO DE ICAPUI",
-"cnpj": "10393593000157",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Prefeitura Municipal de Icapui",
-"municipio": "Icapuí",
-"uf": "CE",
-"codigoIbge": "2305357",
-"objeto": "Contratação de empresa especializada na prestação de serviços de licença de uso de sistema informatizado de Contabilidade, Licitação e Portal da Transparência junto ao município de Icapui-CE.",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 82299.36,
-"dataEncerramentoProposta": "2026-11-16T08:59:00",
-"dataPublicacaoPncp": "2026-10-29T08:42:25",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]01QOJRg/XCq4NS5xPPjUcH3YM07E7iTSSRHHdwjARcvaxV2lz5BD0BUldfUVoTmlly00cKEQLu4VHedt/hzDLuMof5kuz7f_F9tINGbKO8k=",
-"processo": "061/2026"
-},
-{
-"numeroControlePNCP": "83102558000105-1-000079/2026",
-"orgao": "MUNICIPIO DE IRINEOPOLIS",
-"cnpj": "83102558000105",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNICIPAL DE IRINEÓPOLIS",
-"municipio": "Irineópolis",
-"uf": "SC",
-"codigoIbge": "4207908",
-"objeto": "[Portal de Compras Públicas] - \"CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A IMPLANTAÇÃO E OPERAÇÃO DE SISTEMA INFORMATIZADO DESTINADO À ADMINISTRAÇÃO E AO GERENCIAMENTO DO BENEFÍCIO VALE-UNIFORME ESCOLAR, INCLUINDO A DISPONIBILIZAÇÃO E O GERENCIAMENTO DE CARTÕES ELETRÔNICOS PERSONALIZADOS, COM CHIP E/OU TARJA MAGNÉTICA E TECNOLOGIA DE PAGAMENTO POR APROXIMAÇÃO, PARA UTILIZAÇÃO NA AQUISIÇÃO DE UNIFORMES ESCOLARES PELOS ESTUDANTES DA REDE MUNICIPAL DE ENSINO DO MUNICÍPIO DE IRINEÓPOLIS/SC\"",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 4.95,
-"dataEncerramentoProposta": "2026-11-16T08:59:00",
-"dataPublicacaoPncp": "2026-10-29T16:32:12",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/SC/Prefeitura-Municipal-de-Irineopolis-1705/PEP-80-2026-2026-522226",
-"processo": "40/2026 - PM"
-},
-{
-"numeroControlePNCP": "03219351000186-1-000007/2026",
-"orgao": "CAMARA MUNICIPAL DE RIO DAS PEDRAS",
-"cnpj": "03219351000186",
-"esfera": "Municipal",
-"poder": "Legislativo",
-"unidade": "MSP-CÂMARA MUNICIPAL DE RIO DAS PEDRAS",
-"municipio": "Rio das Pedras",
-"uf": "SP",
-"codigoIbge": "3544004",
-"objeto": "Contratação de solução para modernização das votações plenárias, dividida em dois lotes: Lote 1, sistema informatizado de votação eletrônica, com implantação, configuração, treinamento, suporte, manutenção, hospedagem quando aplicável e cessão de uso por 12 meses; e Lote 2, fornecimento e instalação de equipamento de exibição coletiva de, no mínimo, 85 polegadas, com suporte e acessórios.",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 29450.0,
-"dataEncerramentoProposta": "2026-11-16T08:59:00",
-"dataPublicacaoPncp": "2026-11-09T16:18:25",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=93086406000062026",
-"processo": "165/2026"
-},
-{
-"numeroControlePNCP": "35617360000111-1-000083/2026",
-"orgao": "ASSOCIACAO PUBLICA DOS MUNICIPIOS DA MICRORREGIAO DO MEDIO RIO GRANDE - CONSORCIO AMEG",
-"cnpj": "35617360000111",
-"esfera": "Não informado",
-"poder": "Executivo",
-"unidade": "AMEG",
-"municipio": "Passos",
-"uf": "MG",
-"codigoIbge": "3147907",
-"objeto": "Registro de Preços para futura e eventual contratação de empresa especializada na prestação de serviços de segurança e medicina do trabalho e de análise médico-pericial de atestados médicos, destinados à realização de exames ocupacionais e complementares, elaboração de programas e laudos técnicos, avaliação de fatores de riscos psicossociais, treinamentos em segurança do trabalho, envio dos eventos de SST ao eSocial e emissão de pareceres médicos sobre atestados, para atendimento das demandas da Associação Pública dos Municípios da Microrregião do Médio Rio Grande – AMEG, por meio de dispensa de licitação na forma eletrônica, do tipo MENOR PREÇO POR LOTE.",
-"modalidade": "Dispensa",
-"srp": true,
-"valorEstimado": 52398.4,
-"dataEncerramentoProposta": "2026-11-16T08:59:00",
-"dataPublicacaoPncp": "2026-11-10T11:16:56",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Psicologia / riscos psicossociais"
-],
-"cnaes": [
-"86.50-0/03"
-],
-"categoria": "disputar",
-"prioritario": true,
-"linkEdital": "",
-"processo": "000060/2026"
-},
-{
-"numeroControlePNCP": "78101821000101-1-000195/2026",
-"orgao": "MUNICIPIO DE VERA CRUZ DO OESTE",
-"cnpj": "78101821000101",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "PREFEITURA MUNICIPAL DE VERA CRUZ DO OESTE-PR",
-"municipio": "Vera Cruz do Oeste",
-"uf": "PR",
-"codigoIbge": "4128559",
-"objeto": "Contratação de empresa especializada para fornecimento de solução integrada de gestão pública em ambiente de computação em nuvem (cloud computing) disponibilizada no modelo software como serviço (software as a serviçe - SAAS)",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 653413.74,
-"dataEncerramentoProposta": "2026-11-16T09:00:00",
-"dataPublicacaoPncp": "2026-10-26T10:15:06",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98798905000502026",
-"processo": "146"
-},
-{
-"numeroControlePNCP": "07424905000138-1-000364/2026",
-"orgao": "AGENCIA DE MODERNIZACAO DA GESTAO DE PROCESSOS",
-"cnpj": "07424905000138",
-"esfera": "Estadual",
-"poder": "Executivo",
-"unidade": "EAL-AGENCIA DE MODERNIZACAO DA GEST. PROCESSO",
-"municipio": "Maceió",
-"uf": "AL",
-"codigoIbge": "2704302",
-"objeto": "REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL CONTRATAÇÃO DE SOLUÇÃO INTEGRADA DE CIBERSEGURANÇA, NA MODALIDADE SAAS (SOFTWARE AS A SERVICE).",
-"modalidade": "Pregão - Eletrônico",
-"srp": true,
-"valorEstimado": 49491654.52,
-"dataEncerramentoProposta": "2026-11-16T09:00:00",
-"dataPublicacaoPncp": "2026-10-26T15:20:18",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92599805002642026",
-"processo": "41506.0000000158/2026"
-},
-{
-"numeroControlePNCP": "27538990000172-1-000020/2026",
-"orgao": "VITORIA CAMARA MUNICIPAL",
-"cnpj": "27538990000172",
-"esfera": "Municipal",
-"poder": "Legislativo",
-"unidade": "CAMARA MUNICIPAL DE VITÓRIA - ES",
-"municipio": "Vitória",
-"uf": "ES",
-"codigoIbge": "3205309",
-"objeto": "Contratação de empresa especializada para prestação de serviços continuado de VIGILÂNCIA PATRIMONIAL ARMADA, com dedicação exclusiva de mão de obra, diurna e noturna com fornecimento de materiais e equipamentos necessários para plena execução dos serviços nas dependências da Câmara Municipal de Vitória do Estado do Espírito Santo, conforme quantitativos de postos, escalas de trabalho, obrigações, rotinas especificadas e demais padrões de qualidade exigíveis.",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 570750.96,
-"dataEncerramentoProposta": "2026-11-16T09:00:00",
-"dataPublicacaoPncp": "2026-10-27T14:35:45",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Gestão de RH / escalas e ponto"
-],
-"cnaes": [
-"78.30-2/00"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=93023705000132026",
-"processo": "7494/2026"
-},
-{
-"numeroControlePNCP": "44730331000152-1-000107/2026",
-"orgao": "MUNICIPIO DE COSMOPOLIS",
-"cnpj": "44730331000152",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Prefeitura Municipal de Cosmopolis",
-"municipio": "Cosmópolis",
-"uf": "SP",
-"codigoIbge": "3512803",
-"objeto": "Contratação de empresa especializada para prestação de serviços de locação mensal de licença de uso de softwares de Gestão Pública, compostos por sistemas/módulos integrados (SIAFIC e Estruturantes).",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": null,
-"dataEncerramentoProposta": "2026-11-16T09:00:00",
-"dataPublicacaoPncp": "2026-10-28T13:17:14",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "",
-"processo": "2026/008679"
-},
-{
-"numeroControlePNCP": "03162872000144-1-000090/2026",
-"orgao": "MUNICIPIO DE POCONE",
-"cnpj": "03162872000144",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "MUNICÍPIO DE POCONÉ/MT",
-"municipio": "Poconé",
-"uf": "MT",
-"codigoIbge": "5106505",
-"objeto": "[LICITANET] - MENOR PREÇO aferido pela MENOR TAXA ADMINISTRATIVA”, destinada ao “REGISTRO DE PREÇO PARA FUTURA E EVENTUAL CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇO DE ADMINISTRAÇÃO E GERENCIAMENTO INFORMATIZADO (VIA PLATAFORMA WEB) PARA GERENCIAMENTO, ORÇAMENTAÇÃO E INTERMEDIAÇÃO PARA A LOCAÇÃO DE CAMINHÕES, ÔNIBUS, VEÍCULOS, AMBULÂNCIAS, MÁQUINAS E EQUIPAMENTOS EM ATENDIMENTO AS DEMANDAS DAS SECRETARIAS MUNICIPAIS DE POCONÉ-MT.",
-"modalidade": "Pregão - Eletrônico",
-"srp": true,
-"valorEstimado": 1.5,
-"dataEncerramentoProposta": "2026-11-16T09:00:00",
-"dataPublicacaoPncp": "2026-10-29T10:19:06",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://licitanet.com.br/sessao/206468",
-"processo": "029"
-},
-{
-"numeroControlePNCP": "14895272000101-1-000026/2026",
-"orgao": "CONSELHO DE ARQUITETURA E URBANISMO DE SANTA CATARINA",
-"cnpj": "14895272000101",
-"esfera": "Federal",
-"poder": "Executivo",
-"unidade": "CONSELHO DE ARQUITETURA E URBANISMO SC",
-"municipio": "Florianópolis",
-"uf": "SC",
-"codigoIbge": "4205407",
-"objeto": "Serviço de hospedagem em nuvem.",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 15600.0,
-"dataEncerramentoProposta": "2026-11-16T09:00:00",
-"dataPublicacaoPncp": "2026-10-29T11:50:09",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92630705000242026",
-"processo": "00177.000476/2026-76"
-},
-{
-"numeroControlePNCP": "17138140000123-1-000238/2026",
-"orgao": "EMPRESA DE PESQUISA AGROPECUARIA DE MINAS GERAIS",
-"cnpj": "17138140000123",
-"esfera": "Estadual",
-"poder": "Executivo",
-"unidade": "DPSU",
-"municipio": "Belo Horizonte",
-"uf": "MG",
-"codigoIbge": "3106200",
-"objeto": "Contratação de empresa especializada em Saúde e Segurança do Trabalho para elaborar PGR, PGRTR,\r\nPCMSO e LTCAT conforme exigências legais",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": null,
-"dataEncerramentoProposta": "2026-11-16T09:00:00",
-"dataPublicacaoPncp": "2026-11-04T16:12:42",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Psicologia / riscos psicossociais"
-],
-"cnaes": [
-"86.50-0/03"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://www1.compras.mg.gov.br/n/procedimentolei14133/consulta/eletronico/visualizar/2026/158/3051002",
-"processo": "3051002 000158/2026"
-},
-{
-"numeroControlePNCP": "03662446000170-1-000014/2026",
-"orgao": "CONSELHO REGIONAL DE BIOLOGIA - 5 REGIAO",
-"cnpj": "03662446000170",
-"esfera": "Federal",
-"poder": "Executivo",
-"unidade": "CONSELHO REGIONAL DE BIOLOGIA 5ª REGIAO",
-"municipio": "Recife",
-"uf": "PE",
-"codigoIbge": "2611606",
-"objeto": "Contratação de pessoa jurídica especializada para disponibilização, implantação, parametrização, licenciamento de uso, atualização, manutenção e suporte técnico de sistema informatizado de registro eletrônico de ponto e gestão de frequência, acessível pela internet, com possibilidade de marcação remota e integração lógica ao relógio de ponto Topdata Inner REP Plus Bio Barras, de propriedade do Conselho Regional de Biologia da 5ª Região (CRBio-05), instalado na sede de Recife/PE.\n\nA solução deverá atender aos empregados e estagiários do Conselho, inclusive em regime presencial, híbrido, de teletrabalho ou atividade externa, nas unidades e localidades de sua jurisdição (PE, PB, RN, CE, PI e MA), com 21 usuários inicialmente previstos, faturamento mínimo equivalente a 18 usuários/mês e capacidade de até 30 usuários ativos autorizados por mês.\n\nA contratação compreenderá as atividades necessárias à implantação, integração, operação e suporte da solução durante a vigência contratual, sem fornecimento de novo relógio de ponto nem manutenção, reparos ou fornecimento de peças do equipamento físico existente, conforme condições e exigências do Termo de Referência.",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 3168.0,
-"dataEncerramentoProposta": "2026-11-16T09:00:00",
-"dataPublicacaoPncp": "2026-11-10T11:25:04",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS",
-"Gestão de RH / escalas e ponto"
-],
-"cnaes": [
-"62.02/62.03/63.11",
-"78.30-2/00"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=93083106000132026",
-"processo": "013/2026"
-},
-{
-"numeroControlePNCP": "35617360000111-1-000084/2026",
-"orgao": "ASSOCIACAO PUBLICA DOS MUNICIPIOS DA MICRORREGIAO DO MEDIO RIO GRANDE - CONSORCIO AMEG",
-"cnpj": "35617360000111",
-"esfera": "Não informado",
-"poder": "Executivo",
-"unidade": "Unidade Única",
-"municipio": "Passos",
-"uf": "MG",
-"codigoIbge": "3147907",
-"objeto": "Registro de Preços para futura e eventual contratação de empresa especializada na prestação de serviços de segurança e medicina do trabalho e de análise médico-pericial de atestados médicos, destinados à realização de exames ocupacionais e complementares, elaboração de programas e laudos técnicos, avaliação de fatores de riscos psicossociais, treinamentos em segurança do trabalho, envio dos eventos de SST ao eSocial e emissão de pareceres médicos sobre atestados, para atendimento das demandas da Associação Pública dos Municípios da Microrregião do Médio Rio Grande  AMEG, por meio de dispensa de licitação na forma eletrônica, do tipo MENOR PREÇO POR LOTE.",
-"modalidade": "Dispensa",
-"srp": true,
-"valorEstimado": 52398.4,
-"dataEncerramentoProposta": "2026-11-16T09:00:00",
-"dataPublicacaoPncp": "2026-11-10T11:27:14",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Psicologia / riscos psicossociais"
-],
-"cnaes": [
-"86.50-0/03"
-],
-"categoria": "disputar",
-"prioritario": true,
-"linkEdital": "https://app2.ammlicita.org.br/pesquisa/118757",
-"processo": "000060/2026"
-},
-{
-"numeroControlePNCP": "19718360000151-1-000156/2026",
-"orgao": "MUNICIPIO DE CONSELHEIRO LAFAIETE",
-"cnpj": "19718360000151",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Conselheiro Lafaiete",
-"municipio": "Conselheiro Lafaiete",
-"uf": "MG",
-"codigoIbge": "3118304",
-"objeto": "Contratação de empresa especializada para prestação de serviços de licenciamento de sistema integrado de gestão pública – SIGP, para atendimento às diversas áreas do poder Executivo e Legislativo do Município de Conselheiro Lafaiete/MG, conforme módulos e especificações contidas no termo de referência.",
-"modalidade": "Pregão - Eletrônico",
-"srp": true,
-"valorEstimado": 2658414.34,
-"dataEncerramentoProposta": "2026-11-16T09:29:00",
-"dataPublicacaoPncp": "2026-10-28T16:43:20",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "",
-"processo": "R142/2026"
-},
-{
-"numeroControlePNCP": "24950495000188-1-000160/2026",
-"orgao": "MUNICIPIO DE CAMPO VERDE",
-"cnpj": "24950495000188",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "MUNICÍPIO DE CAMPO VERDE/MT",
-"municipio": "Campo Verde",
-"uf": "MT",
-"codigoIbge": "5102678",
-"objeto": "[LICITANET] - REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS CONTINUADOS DE MEDICINA DO TRABALHO E SAÚDE OCUPACIONAL, CONTEMPLANDO A COORDENAÇÃO E ELABORAÇÃO DO PROGRAMA DE CONTROLE MÉDICO DE SAÚDE OCUPACIONAL (PCMSO).",
-"modalidade": "Pregão - Eletrônico",
-"srp": true,
-"valorEstimado": 234724.0,
-"dataEncerramentoProposta": "2026-11-16T09:30:00",
-"dataPublicacaoPncp": "2026-10-26T13:48:27",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Psicologia / riscos psicossociais"
-],
-"cnaes": [
-"86.50-0/03"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://licitanet.com.br/sessao/206024",
-"processo": "072/2026"
-},
-{
-"numeroControlePNCP": "07237373000120-1-000088/2026",
-"orgao": "BANCO DO NORDESTE DO BRASIL",
-"cnpj": "07237373000120",
-"esfera": "Federal",
-"poder": "Executivo",
-"unidade": "BANCO DO NORDESTE DO BRASIL S/A",
-"municipio": "Fortaleza",
-"uf": "CE",
-"codigoIbge": "2304400",
-"objeto": "Aquisição de Portal de Governança, com solução de gestão de reuniões, na modalidade SAAS, acessível em microcomputadores e dispositivo móveis, em modos online e off-line, em conjunto com os serviços de treinamento, implantação, manutenção, suporte técnico e licenciamento para 120 (cento e vinte) usuários",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": null,
-"dataEncerramentoProposta": "2026-11-16T09:59:00",
-"dataPublicacaoPncp": "2026-10-20T14:45:45",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=17908505000322026",
-"processo": "2026/000218"
-},
-{
-"numeroControlePNCP": "29138385000130-1-000063/2026",
-"orgao": "MUNICIPIO DE PARAIBA DO SUL",
-"cnpj": "29138385000130",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Prefeitura Municipal de Paraíba do Sul - RJ",
-"municipio": "Paraíba do Sul",
-"uf": "RJ",
-"codigoIbge": "3303708",
-"objeto": "Contratação de empresa especializada para a prestação continuada de serviços de operacionalização integrada do Laboratório Municipal de Análises Clínicas de Paraíba do Sul/RJ, localizado na Avenida Ayrton Senna, nº 90, Centro, mediante solução destinada ao início e ao regular funcionamento da unidade, compreendendo a execução coordenada das fases pré-analítica, analítica e pós-analítica; gestão da equipe necessária; responsabilidade técnica; sistema informatizado especializado de gestão laborato",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 2598336.0,
-"dataEncerramentoProposta": "2026-11-16T09:59:00",
-"dataPublicacaoPncp": "2026-10-28T09:50:04",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=49359",
-"processo": "PBS-020611/000377/2026"
-},
-{
-"numeroControlePNCP": "42498600000171-1-004861/2026",
-"orgao": "ESTADO DO RIO DE JANEIRO",
-"cnpj": "42498600000171",
-"esfera": "Estadual",
-"poder": "Não informado",
-"unidade": "Fundação de Previdência Complem do ERJ",
-"municipio": "Rio de Janeiro",
-"uf": "RJ",
-"codigoIbge": "3304557",
-"objeto": "Contratação de empresa especializada para a prestação de serviços de automação de mensagens e chatbot no WhatsApp, permitindo a gestão de atendimentos por múltiplos operadores por meio de plataforma virtual SaaS, conforme necessidades da Fundação de Previdência Complementar do Estado do Rio de Janeiro – RJPREV.",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 26493.84,
-"dataEncerramentoProposta": "2026-11-16T09:59:00",
-"dataPublicacaoPncp": "2026-11-11T11:28:37",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://www.compras.rj.gov.br/EditaisLicitacoes/detalhar.action?idLic=37768",
-"processo": "SEI-040015/000501/2026"
-},
-{
-"numeroControlePNCP": "33710823000160-1-000017/2026",
-"orgao": "CUIABA CAMARA MUNICIPAL",
-"cnpj": "33710823000160",
-"esfera": "Municipal",
-"poder": "Legislativo",
-"unidade": "MMT - CAMARA MUNICIPAL DE CUIABA",
-"municipio": "Cuiabá",
-"uf": "MT",
-"codigoIbge": "5103403",
-"objeto": "Contratação de empresa especializada no fornecimento de Solução Integrada de Gestão\nPública, do tipo ERP, na modalidade SaaS (software como serviço), em ambiente web,\nhospedagem de dados na nuvem, incluindo backups, ambiente escalável de alta\ndisponibilidade e com solução de recuperação de desastres, contemplando ainda o conjunto\nde ações para o pleno funcionamento, sendo estes instalação, configuração,\nparametrização, migração de dados, implantação, bem como atualizações corretivas,\nevolutivas e legais, consultoria, customização, treinamento, suporte técnico e importação de\nbases legadas, conforme detalhamentos deste Termo de Referência.",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 1325135.76,
-"dataEncerramentoProposta": "2026-11-16T10:00:00",
-"dataPublicacaoPncp": "2026-10-23T10:05:35",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=93110205000072026",
-"processo": "2026.026.052"
-},
-{
-"numeroControlePNCP": "03344048000105-1-000037/2026",
-"orgao": "CAMARA MUNICIPAL DE ALTO PARAISO",
-"cnpj": "03344048000105",
-"esfera": "Municipal",
-"poder": "Legislativo",
-"unidade": "CÂMARA MUNICIPAL DE ALTO PARAÍSO/RO",
-"municipio": "Alto Paraíso",
-"uf": "RO",
-"codigoIbge": "1100403",
-"objeto": "[LICITANET] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE MEDICINA DO TRABALHO, SAÚDE OCUPACIONAL E SEGURANÇA DO TRABALHO\n",
-"modalidade": "Pregão - Eletrônico",
-"srp": true,
-"valorEstimado": 8046.84,
-"dataEncerramentoProposta": "2026-11-16T10:00:00",
-"dataPublicacaoPncp": "2026-10-27T12:02:30",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Psicologia / riscos psicossociais"
-],
-"cnaes": [
-"86.50-0/03"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://licitanet.com.br/sessao/206169",
-"processo": "221"
-},
-{
-"numeroControlePNCP": "49582441000138-1-000043/2026",
-"orgao": "MINISTERIO DE PORTOS E AEROPORTOS",
-"cnpj": "49582441000138",
-"esfera": "Federal",
-"poder": "Executivo",
-"unidade": "PORTOSRIO AUTORIDADE PORTUÁRIA",
-"municipio": "Rio de Janeiro",
-"uf": "RJ",
-"codigoIbge": "3304557",
-"objeto": "Prestação dos serviços de locação de sistema de registro de ponto, relógios de ponto biométrico, bem como seus insumos.",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 277200.0,
-"dataEncerramentoProposta": "2026-11-16T10:00:00",
-"dataPublicacaoPncp": "2026-10-28T10:40:49",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Gestão de RH / escalas e ponto"
-],
-"cnaes": [
-"78.30-2/00"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=39900805000302026",
-"processo": "50905.005671/2025-16"
-},
-{
-"numeroControlePNCP": "10113728000183-1-000066/2026",
-"orgao": "MUNICIPIO DE BELEM DE SAO FRANCISCO",
-"cnpj": "10113728000183",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Prefeitura Municipal de Belém de São Francisco",
-"municipio": "Belém do São Francisco",
-"uf": "PE",
-"codigoIbge": "2601607",
-"objeto": "[Portal de Compras Públicas] - Contratação de empresa especializada na prestação de serviços de gerenciamento da manutenção preventiva e corretiva da frota de veículos e equipamentos das secretarias requisitantes, mediante sistema informatizado e rede de estabelecimentos credenciados,compreendendo o fornecimento de peças, componentes e acessórios, bem como a mão de obra necessária à execução dos serviços, conforme solicitação expressa da Secretaria de Infraestrutura, Secretaria de Saúde, Secretaria de Educação e  desportos, Secretaria de Assistência Social e Secretaria de Agricultura, Pesca e Meio Ambiente",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 600000.0,
-"dataEncerramentoProposta": "2026-11-16T11:00:00",
-"dataPublicacaoPncp": "2026-10-28T11:45:53",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/PE/Prefeitura-Municipal-de-Belem-de-Sao-Francisco-4988/PEP-026-2026-2026-521764",
-"processo": "Processo Administrativo 131/2026"
-},
-{
-"numeroControlePNCP": "08354896000119-1-000141/2026",
-"orgao": "MUNICIPIO DE PEDRO VELHO",
-"cnpj": "08354896000119",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "MUNICIPIO DE PEDRO VELHO ",
-"municipio": "Pedro Velho",
-"uf": "RN",
-"codigoIbge": "2409803",
-"objeto": "REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A LOCAÇÃO DE SISTEMA DE REGISTRO ELETRÔNICO DE PONTO, INCLUINDO RELÓGIOS ELETRÔNICOS DE PONTO (REP) COM TECNOLOGIA BIOMÉTRICA E FACIAL, COMPREENDENDO A INSTALAÇÃO, CONFIGURAÇÃO, MANUTENÇÃO E SUPORTE TÉCNICO, INCLUINDO  TREINAMENTO DOS SERVIDORES RESPONSÁVEIS PELA UTILIZAÇÃO E OPERAÇÃO DO SISTEMA, DESTINADOS AO CONTROLE DE FREQUÊNCIA DOS SERVIDORES DA ADMINISTRAÇÃO MUNICIPAL",
-"modalidade": "Pregão - Eletrônico",
-"srp": true,
-"valorEstimado": 186300.0,
-"dataEncerramentoProposta": "2026-11-16T11:00:00",
-"dataPublicacaoPncp": "2026-11-03T13:06:40",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Gestão de RH / escalas e ponto"
-],
-"cnaes": [
-"78.30-2/00"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "",
-"processo": "148"
-},
-{
-"numeroControlePNCP": "33787094000140-1-000586/2026",
-"orgao": "FUNDACAO INSTIT BRAS DE GEOGRAFIA E ESTATISTICA IBGE",
-"cnpj": "33787094000140",
-"esfera": "Federal",
-"poder": "Executivo",
-"unidade": "UNIDADE ESTADUAL DO IBGE NO AMAPA",
-"municipio": "Macapá",
-"uf": "AP",
-"codigoIbge": "1600303",
-"objeto": "Contratação necessária ao cumprimento do Termo de Ajustamento de Conduta firmado pela Fundação IBGE com o Ministério Público do Trabalho (Processo nº 03623.000051/2024-88) e das Normas Regulamentadoras do MTE, bem como ao atendimento das exigências do eSocial, diante da inexistência de profissionais de saúde e segurança do trabalho no quadro do IBGE e da insuficiência de atendimento pelo SIASS, para avaliar os ambientes de trabalho da SES/AP e prevenir agravos à saúde e acidentes laborais.",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 4833.33,
-"dataEncerramentoProposta": "2026-11-16T12:00:00",
-"dataPublicacaoPncp": "2026-11-09T23:14:19",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Psicologia / riscos psicossociais"
-],
-"cnaes": [
-"86.50-0/03"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=11460706000322026",
-"processo": "03616.000103/2026-77"
-},
-{
-"numeroControlePNCP": "10391817000191-1-000040/2026",
-"orgao": "FUNDO MUNICIPAL DE SAUDE DE CATANDUVAS",
-"cnpj": "10391817000191",
-"esfera": "Municipal",
-"poder": "Executivo",
-"unidade": "Fundo Municipal de Saúde de Catanduvas",
-"municipio": "Catanduvas",
-"uf": "SC",
-"codigoIbge": "4204004",
-"objeto": "Contratação de empresa especializada para prestação de serviços técnicos de assessoria e consultoria em Regulação Ambulatorial, em apoio a Central Municipal de Regulação, conforme informações constantes no anexo \"II\".",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 102000.0,
-"dataEncerramentoProposta": "2026-11-16T13:30:01",
-"dataPublicacaoPncp": "2026-10-28T08:26:04",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Apoio à gestão de saúde"
-],
-"cnaes": [
-"86.60-7/00"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": null,
-"processo": "PE15/2026 FMS"
-},
-{
-"numeroControlePNCP": "17516113000147-1-000216/2026",
-"orgao": "ASSEMBLEIA LEGISLATIVA DO ESTADO DE MINAS GERAIS",
-"cnpj": "17516113000147",
-"esfera": "Estadual",
-"poder": "Legislativo",
-"unidade": "GERENCIA DE COMPRAS",
-"municipio": "Belo Horizonte",
-"uf": "MG",
-"codigoIbge": "3106200",
-"objeto": "Kit de sistema de ponto eletrônico para estúdio composto por 2 (dois) transmissores e 3 (três) receptores discretos tipo retroauricular, com bateria recarregável",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": null,
-"dataEncerramentoProposta": "2026-11-16T14:00:00",
-"dataPublicacaoPncp": "2026-11-03T10:06:38",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Gestão de RH / escalas e ponto"
-],
-"cnaes": [
-"78.30-2/00"
-],
-"categoria": "disputar",
-"prioritario": true,
-"linkEdital": "https://www1.compras.mg.gov.br/n/procedimentolei14133/consulta/eletronico/visualizar/2026/125/1011014",
-"processo": "1011014 000125/2026"
-},
 {
 "numeroControlePNCP": "45105289000141-1-000007/2026",
 "orgao": "SECRETARIA EXECUTIVA DE ARTICULACAO NACIONAL",
@@ -3797,6 +2711,66 @@
 "prioritario": false,
 "linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]0M6jLUkVkEA73AIqBOjvINw3SlJhWfRN3d2L3ZxkG8acY8ifFOqsFAUvtvnAu_3zKeO8UXWaXLWLtiGcTg/xEDZM1xLmy8DX0GPQM/Dcwio=",
 "processo": "219/2026"
+},
+{
+"numeroControlePNCP": "00394502000144-1-016451/2026",
+"orgao": "COMANDO DA MARINHA",
+"cnpj": "00394502000144",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "HOSPITAL NAVAL MARCILIO DIAS - MM",
+"municipio": "Rio de Janeiro",
+"uf": "RJ",
+"codigoIbge": "3304557",
+"objeto": "Contratação de empresa especializada na prestação de serviços de engenharia de segurança e medicina do trabalho, para elaboração dos programas de saúde do trabalho, compreendendo: elaboração e execução do Programa de Gerenciamento de Riscos (PGR) e do Programa de Controle Médico de Saúde Ocupacional (PCMSO) para o hospital naval Marcílio Dias.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 53325.0,
+"dataEncerramentoProposta": "2026-11-23T08:00:00",
+"dataPublicacaoPncp": "2026-11-16T08:04:17",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=76572006002842026",
+"processo": "63148.015173/2026-15"
+},
+{
+"numeroControlePNCP": "17879859000115-1-000137/2026",
+"orgao": "UNIVERSIDADE FEDERAL DE ALFENAS - UNIFAL-MG",
+"cnpj": "17879859000115",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "UNIVERSIDADE FEDERAL DE ALFENAS",
+"municipio": "Alfenas",
+"uf": "MG",
+"codigoIbge": "3101607",
+"objeto": "Aquisição de insumos, em atendimento ao CIAST (Centro Integrado de Atenção à Saúde e Segurança do Trabalho), da Universidade Federal de Alfenas – UNIFAL-MG. Todos os encargos e frete deverão estar inclusos. Todas as informações e descrição detalhada dos itens/serviços encontram-se no Termo de Referência e Aviso de Dispensa Eletrônica publicados na página de licitações da Unifal-MG, www.unifal-mg.edu.br/licitacoes, link Dispensa de Licitação Eletrônica em andamento.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 7401.22,
+"dataEncerramentoProposta": "2026-11-23T08:00:00",
+"dataPublicacaoPncp": "2026-11-16T08:39:38",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15302806001552026",
+"processo": "23087.011627/2026-26"
 },
 {
 "numeroControlePNCP": "13114004000142-1-000026/2026",
@@ -8255,6 +7229,36 @@
 "processo": "476916.002853/2026-51"
 },
 {
+"numeroControlePNCP": "67995027000132-1-000491/2026",
+"orgao": "MUNICIPIO DE HORTOLANDIA",
+"cnpj": "67995027000132",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Hortolandia",
+"municipio": "Hortolândia",
+"uf": "SP",
+"codigoIbge": "3519071",
+"objeto": "Contratação de empresa especializada para concessão de licença de uso de Sistema de Gestão da Assistência Social, na modalidade SaaS (Software as a Service).",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 365800.0,
+"dataEncerramentoProposta": "2026-12-01T00:00:00",
+"dataPublicacaoPncp": "2026-11-16T08:38:48",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "375/2026"
+},
+{
 "numeroControlePNCP": "07849532000147-1-000096/2026",
 "orgao": "MUNICIPIO DE TAUA",
 "cnpj": "07849532000147",
@@ -8765,6 +7769,66 @@
 "processo": "202609180024"
 },
 {
+"numeroControlePNCP": "00394429000100-1-003045/2026",
+"orgao": "COMANDO DA AERONAUTICA",
+"cnpj": "00394429000100",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "SEGUNDO CENTRO INT.DEF.AEREA CONTR.TFG.AEREO",
+"municipio": "Curitiba",
+"uf": "PR",
+"codigoIbge": "4106902",
+"objeto": "Contratação de Registro de preços para futuras contratações de licenças de uso de softwares especializados de engenharia e arquitetura, em modelo de subscrição por 36 (trinta e seis) meses, compreendendo licenças do software AutoCAD LT Commercial New Singleuser e da Autodesk Architecture, Engineering & Construction Collection — AEC Collection, na versão mais recente disponibilizada pelo fabricante, com suporte técnico e atualizações incluídos durante toda a vigência de cada contratação",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 352501.24,
+"dataEncerramentoProposta": "2026-12-01T09:00:00",
+"dataPublicacaoPncp": "2026-11-16T04:00:02",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=12007205001792026",
+"processo": "67613.071966/2025-51"
+},
+{
+"numeroControlePNCP": "45358058000140-1-000216/2026",
+"orgao": "FUNDACAO UNIVERSIDADE FEDERAL DE SAO CARLOS",
+"cnpj": "45358058000140",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "SECRETARIA GERAL DE INFORMÁTICA",
+"municipio": "São Carlos",
+"uf": "SP",
+"codigoIbge": "3548906",
+"objeto": "O objeto da presente licitação é a contratação de solução de tecnologia da informação e comunicação de eventual e futura contratação, sob demanda, de licenças de uso de solução integrada de colaboração e\nprodutividade em nuvem corporativa, conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos.",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 6916050.0,
+"dataEncerramentoProposta": "2026-12-01T09:00:00",
+"dataPublicacaoPncp": "2026-11-16T04:00:33",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15640305000232026",
+"processo": "23112034102202612"
+},
+{
 "numeroControlePNCP": "13864377000130-1-001848/2026",
 "orgao": "FUNDO MUNICIPAL DE SAUDE - FMS",
 "cnpj": "13864377000130",
@@ -8853,6 +7917,36 @@
 "prioritario": false,
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92546705001442026",
 "processo": "16881/2026-7"
+},
+{
+"numeroControlePNCP": "46374500000194-1-009584/2026",
+"orgao": "SECRETARIA DE ESTADO DA SAUDE",
+"cnpj": "46374500000194",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "ESP-INSTITUTO BUTANTAN",
+"municipio": "São Paulo",
+"uf": "SP",
+"codigoIbge": "3550308",
+"objeto": "Contratação da prestação de Serviços de Gerenciamento do Abastecimento de Combustíveis em Veículos e outros serviços prestados por postos credenciados, por meio da implantação e operação de um sistema informatizado e integrado, com\nutilização de cartão de pagamento magnético ou microprocessado e disponibilização de rede credenciada de postos de combustíveis, compreendendo a distribuição de etanol,gasolina comum, diesel e biodiesel, redutor ARLA (Agente Redutor Líquido de Óxido de Nitrogênio Aut ",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 658023.08,
+"dataEncerramentoProposta": "2026-12-01T10:00:00",
+"dataPublicacaoPncp": "2026-11-16T09:01:27",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=09017805000262026",
+"processo": "024.0091987/2026-23"
 },
 {
 "numeroControlePNCP": "50176288000128-1-000050/2026",
@@ -9127,6 +8221,36 @@
 "processo": "112232/2026"
 },
 {
+"numeroControlePNCP": "09263130000191-1-000052/2026",
+"orgao": "SUPERINTENDENCIA DO DESENVOLVIMENTO DO NORDESTE - SUDENE",
+"cnpj": "09263130000191",
+"esfera": "Federal",
+"poder": "Executivo",
+"unidade": "SUPERINTENDENCIA DO DESENVOL. DO NORDESTE",
+"municipio": "Recife",
+"uf": "PE",
+"codigoIbge": "2611606",
+"objeto": "Formação de Ata de Registro de Preços para a Contratação de subscrições de licenças de software Microsoft Office 365 E1, Office 365 E3, Office 365 E5 e Enterprise Mobility + Security E3 – EMS E3, no modelo de Software como Serviço – SaaS, para assegurar a continuidade e a expansão da plataforma corporativa de produtividade, colaboração, comunicação e segurança da SUDENE.",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 692640.12,
+"dataEncerramentoProposta": "2026-12-02T09:30:00",
+"dataPublicacaoPncp": "2026-11-16T04:01:01",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=53301405000442026",
+"processo": "59336.002041/2026-39"
+},
+{
 "numeroControlePNCP": "12228375000192-1-000027/2026",
 "orgao": "MUNICIPIO DE IGACI",
 "cnpj": "12228375000192",
@@ -9155,6 +8279,36 @@
 "prioritario": false,
 "linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]ATcLdasX_MGeMT3EpvYVedqOK3erq/A1oHkJTW3TDmCis95tBNe3lnmV5D66bdE1sI7S1trwYka3fn/Pwul80YjLxQktZKUVSCaODbpPp1g=",
 "processo": "20260814.001"
+},
+{
+"numeroControlePNCP": "06170517000105-1-000160/2026",
+"orgao": "TRIBUNAL REGIONAL ELEITORAL DO RIO DE JANEIRO",
+"cnpj": "06170517000105",
+"esfera": "Federal",
+"poder": "Judiciário",
+"unidade": "TRIBUNAL REGIONAL ELEITORAL DO RIO DE JANEIRO",
+"municipio": "Rio de Janeiro",
+"uf": "RJ",
+"codigoIbge": "3304557",
+"objeto": "Contratação de solução de Tecnologia da Informação e Comunicação (TIC) para o fornecimento de licenças de software as a service (SaaS) de assistente de codificação por inteligência artificial generativa (nível corporativo), incluindo suporte técnico, agentes de modernização de código legado, arquitetura multimodelo e integração com VS Code e Git, pelo prazo de 12 meses.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 52290.24,
+"dataEncerramentoProposta": "2026-12-02T11:00:00",
+"dataPublicacaoPncp": "2026-11-16T04:00:55",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=07001705002672026",
+"processo": "2026.0.000020062-6"
 },
 {
 "numeroControlePNCP": "18591149000158-1-000095/2026",
@@ -9245,6 +8399,36 @@
 "prioritario": false,
 "linkEdital": "",
 "processo": "2909/2026"
+},
+{
+"numeroControlePNCP": "03184041000173-1-000120/2026",
+"orgao": "MUNICIPIO DE TRES LAGOAS",
+"cnpj": "03184041000173",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Três Lagoas - MS",
+"municipio": "Três Lagoas",
+"uf": "MS",
+"codigoIbge": "5008305",
+"objeto": "CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE OBRA CIVIL – CONSTRUÇÃO DA CENTRAL DE REGULAÇÃO DE URGÊNCIA (SAMU 192) – PROJETO PADRÃO PORTE I – MINISTÉRIO DA SAÚDE – PROPOSTA Nº 13034.6030001/25-016 (SISMOB) – PROGRAMA DE ACELERAÇÃO DO CRESCIMENTO (NOVO PAC), NO MUNICÍPIO DE TRÊS LAGOAS-MS, CONFORME PROJETO BÁSICO E/OU EXECUTIVO.",
+"modalidade": "Concorrência - Eletrônica",
+"srp": false,
+"valorEstimado": 4200105.72,
+"dataEncerramentoProposta": "2026-12-04T08:50:00",
+"dataPublicacaoPncp": "2026-11-16T08:38:04",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Apoio à gestão de saúde"
+],
+"cnaes": [
+"86.60-7/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=49789",
+"processo": "181/2026"
 },
 {
 "numeroControlePNCP": "16958425000148-1-000470/2026",
@@ -10777,6 +9961,36 @@
 "prioritario": false,
 "linkEdital": "https://www.portaldecompraspublicas.com.br/processos/PA/Fundo-Municipal-de-Saude-de-Parauapebas-5448/CRED-CREDENCIAMENTO-NO0022026SEMSA-2026-2026-521848",
 "processo": "Credenciamento nº 002.2026SEMSA"
+},
+{
+"numeroControlePNCP": "92410521000135-1-000129/2026",
+"orgao": "MUNICIPIO DE NOVO BARREIRO",
+"cnpj": "92410521000135",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Município de Novo Barreiro",
+"municipio": "Novo Barreiro",
+"uf": "RS",
+"codigoIbge": "4313490",
+"objeto": "CREDENCIAMENTO de empresas especializadas para disponibilização, mediante licença de uso, de sistema informatizado de gerenciamento, operacionalização e controle de consignações facultativas em folha de pagamento dos servidores públicos do Município de Novo Barreiro/RS, compreendendo o controle da margem consignável, o registro e acompanhamento das consignações, a realização de consultas, reservas, averbações, alterações, suspensões e cancelamentos, a integração com o sistema de folha de pagamento utilizado pela Administração Municipal, bem como os serviços de implantação, parametrização, treinamento, hospedagem, manutenção, atualização, suporte técnico, segurança da informação, disponibilização de relatórios, portabilidade e exportação de dados necessários ao pleno funcionamento da solução, sem qualquer custo, desembolso, encargo ou obrigação de pagamento para o Município de Novo Barreiro/RS.",
+"modalidade": "Credenciamento",
+"srp": false,
+"valorEstimado": null,
+"dataEncerramentoProposta": "2027-11-17T17:00:00",
+"dataPublicacaoPncp": "2026-11-16T08:49:46",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "116"
 },
 {
 "numeroControlePNCP": "39223581000166-1-000124/2026",
@@ -42271,6 +41485,66 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "141/2026"
+},
+{
+"numeroControlePNCP": "82854670000130-1-000438/2026",
+"orgao": "MUNICIPIO DE XAXIM",
+"cnpj": "82854670000130",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE XAXIM - SC",
+"municipio": "Xaxim",
+"uf": "SC",
+"codigoIbge": "4219705",
+"objeto": "Contratação de empresa especializada para a prestação de serviços de avaliação periódica de saúde ocupacional, incluindo a realização de exames de audiometria para 30 (trinta) colaboradores vinculados à Secretaria Municipal de Infraestrutura, conforme solicitação do Dr. Ari Celso.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 2400.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-16T07:32:49",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "494/2026"
+},
+{
+"numeroControlePNCP": "03111139000109-1-000233/2026",
+"orgao": "CONSORCIO INTERMUNICIPAL DO MEDIO VALE DO ITAJAI",
+"cnpj": "03111139000109",
+"esfera": "Não informado",
+"poder": "Executivo",
+"unidade": "Gestão de Saneamento",
+"municipio": "Timbó",
+"uf": "SC",
+"codigoIbge": "4218202",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM TECNOLOGIA DA INFORMAÇÃO PARA FORNECIMENTO \nDE LICENÇA DE USO DE SOFTWARE VISANDO ATENDER ÀS NECESSIDADES DO SETOR DE RECURSOS \nNATURAIS DO CIMVI NA GESTÃO MINERÁRIA DAS CAVAS DE MACADAME, CONTEMPLANDO \nARMAZENAMENTO E SEGURANÇA DAS INFORMAÇÕES, APRIMORAMENTO DAS ROTINAS DE \nACOMPANHAMENTO E TREINAMENTO DOS USUÁRIOS.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 14956.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-16T08:43:47",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "204/2026"
 }
 ]
 }
