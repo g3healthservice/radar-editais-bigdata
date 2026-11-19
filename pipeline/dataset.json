@@ -1,8 +1,8 @@
 {
-"build": 1795094087,
+"build": 1795127098,
 "geradoEm": "2026-11-19",
 "modo": "incremental",
-"totalCaptado": 1485,
+"totalCaptado": 1497,
 "itens": [
 {
 "numeroControlePNCP": "03629284000178-1-000046/2026",
@@ -3621,6 +3621,36 @@
 "processo": "20"
 },
 {
+"numeroControlePNCP": "21417423000181-1-000199/2026",
+"orgao": "SERVICO AUTONOMO DE AGUA E ESGOTO",
+"cnpj": "21417423000181",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "SAAE - São Lourenço - MG",
+"municipio": "São Lourenço",
+"uf": "MG",
+"codigoIbge": "3163706",
+"objeto": "Contratação, por dispensa de licitação, de empresa especializada para prestação de serviço de licenciamento de uso de solução tecnológica de inteligência de mercado e pesquisa de preços públicos, disponibilizada em ambiente de nuvem sob a modalidade de software como serviço (SaaS), conforme condições e exigências estabelecidas no Aviso de Dispensa Eletrônica e seus anexos.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 18200.0,
+"dataEncerramentoProposta": "2026-11-26T08:30:00",
+"dataPublicacaoPncp": "2026-11-19T10:14:25",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]oYLwc7zdQmdteayAA5p8cuAp9SptrXlrH4Egpvb3uu6Py72jJtorGp7OQ4DKJxj2RYpYGPC6m8/Ln0h8v0QR7H__Pbc43mc0HKiKF9PteYM=",
+"processo": "205/2026"
+},
+{
 "numeroControlePNCP": "45944428000120-1-000441/2026",
 "orgao": "MUNICIPIO DE MAIRINQUE",
 "cnpj": "45944428000120",
@@ -3739,6 +3769,36 @@
 "prioritario": false,
 "linkEdital": "https://bnccompras.com/Process/ProcessView?param1=[gkz]zRY_XVVlAG/5c3t9ojw9kJFVtXvNFqhsz89HGyLXIUi2CElRirgYsoyH_iKHtOcBnSBfaRmz29Nin4w4lMVs/LjaBefyw5BmXQILPGVtnY4=",
 "processo": "119/2026"
+},
+{
+"numeroControlePNCP": "03219351000186-1-000008/2026",
+"orgao": "CAMARA MUNICIPAL DE RIO DAS PEDRAS",
+"cnpj": "03219351000186",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "MSP-CÂMARA MUNICIPAL DE RIO DAS PEDRAS",
+"municipio": "Rio das Pedras",
+"uf": "SP",
+"codigoIbge": "3544004",
+"objeto": "Contratação de solução tecnológica para informatização e modernização do processo de votação das sessões plenárias da Câmara Municipal de Rio das Pedras/SP, dividida em dois lotes independentes: Lote 1 – Sistema informatizado de votação eletrônica, incluindo implantação, treinamento, licenciamento e suporte por 12 meses; Lote 2 – Fornecimento e instalação de equipamento de exibição coletiva de, no mínimo, 85 polegadas, com suporte e acessórios, conforme Termo de Referência.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 29450.0,
+"dataEncerramentoProposta": "2026-11-26T08:59:00",
+"dataPublicacaoPncp": "2026-11-19T09:31:16",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=93086406000072026",
+"processo": "0165/2026"
 },
 {
 "numeroControlePNCP": "63761985000198-1-000090/2026",
@@ -7861,6 +7921,36 @@
 "processo": "11990/2026"
 },
 {
+"numeroControlePNCP": "46634523000190-1-000326/2026",
+"orgao": "MUNICIPIO DE SAO MANUEL",
+"cnpj": "46634523000190",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA E DESENVOLVIMENTO SOCIAL",
+"municipio": "São Manuel",
+"uf": "SP",
+"codigoIbge": "3550100",
+"objeto": "Contratação de empresa especializada para fornecimento de licença de uso, por prazo determinado, de sistema informatizado para gestão da Assistência Social, em ambiente web, destinado ao atendimento das necessidades da Secretaria Municipal de Assistência e Desenvolvimento Social do Município de São Manuel/SP, contemplando os serviços de implantação e configuração, importação, conversão e tratamento de dados, hospedagem em nuvem, treinamento de usuários, suporte técnico contínuo e manutenção evolutiva, corretiva e legal durante a vigência contratual.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 319840.0,
+"dataEncerramentoProposta": "2026-12-04T08:00:00",
+"dataPublicacaoPncp": "2026-11-19T10:20:23",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "11990/2026"
+},
+{
 "numeroControlePNCP": "76206481000158-1-000159/2026",
 "orgao": "MUNICIPIO DE MEDIANEIRA",
 "cnpj": "76206481000158",
@@ -8401,6 +8491,38 @@
 "processo": "E00036"
 },
 {
+"numeroControlePNCP": "95640322000101-1-000096/2026",
+"orgao": "CONSORCIO INT DE SAUDE DA COM DOS M DA REG DE C MOURAO",
+"cnpj": "95640322000101",
+"esfera": "Não informado",
+"poder": "Executivo",
+"unidade": "Unidade administrativa",
+"municipio": "Campo Mourão",
+"uf": "PR",
+"codigoIbge": "4104303",
+"objeto": "Contratação de empresa especializada para prestação de serviços de locação de sistema integrado de gestão pública do tipo ERP – Enterprise Resource Planning, disponibilizado estritamente em plataforma web, destinado a atender às necessidades administrativas e operacionais do Consórcio Intermunicipal de Saúde da Comunidade dos Municípios da Região de Campo Mourão – CISCOMCAM, contemplando os módulos de Contabilidade, Planejamento e Orçamento, Tesouraria, Geração de Arquivos para o SIM-AM (Sistema de Informações Municipais – Acompanhamento Mensal do TCE-PR), Tributário, Controle de Compras e Licitações, Controle de Frotas, Almoxarifado, Controle do Patrimônio, Controle Interno, Recursos Humanos e Folha de Pagamento, Gestão de Ponto Eletrônico, Portal do Servidor e Portal da Transparência, incluindo os serviços de hospedagem em ambiente de nuvem (Data Center), remunerados no item 15 do quadro do item 1.1.1, e, sem custo adicional, os serviços de implantação, instalação, configuração, parametrização, migração dos dados existentes, integração entre os módulos, treinamento e capacitação inicial dos usuários, suporte técnico e manutenção preventiva, corretiva e evolutiva.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 176710.44,
+"dataEncerramentoProposta": "2026-12-07T09:00:00",
+"dataPublicacaoPncp": "2026-11-19T09:59:07",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS",
+"Gestão de RH / escalas e ponto"
+],
+"cnaes": [
+"62.02/62.03/63.11",
+"78.30-2/00"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": null,
+"processo": "92/2026"
+},
+{
 "numeroControlePNCP": "11426103000134-1-000012/2027",
 "orgao": "ASSEMBLEIA LEGISLATIVA DO ESTADO DE PERNAMBUCO",
 "cnpj": "11426103000134",
@@ -8551,6 +8673,66 @@
 "prioritario": false,
 "linkEdital": "https://app2.licitardigital.com.br/pesquisa/119612",
 "processo": "000078/2026"
+},
+{
+"numeroControlePNCP": "76020452000105-1-000291/2026",
+"orgao": "MUNICIPIO DA LAPA",
+"cnpj": "76020452000105",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "SECRETARIA DE ADMINISTRAÇÃO",
+"municipio": "Lapa",
+"uf": "PR",
+"codigoIbge": "4113205",
+"objeto": "Contratação de empresa especializada para prestação de serviços na área de medicina do trabalho, saúde ocupacional e segurança do trabalho em conformidade com as Normas Regulamentadoras vigentes, especialmente NR-1 (GRO/PGR), NR-7 (PCMSO), NR-15, NR-16, NR-17 e demais normas aplicáveis à gestão de riscos ocupacionais para elaboração, implantação e atualização de programas, laudos e documentos de Segurança e Saúde no Trabalho (SST), visando atender às exigências legais e ao envio das informações ao eSocial (eventos S-2210, S-2220 e S-2240) para  o quadro de servidores do Município da Lapa",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 76535.0,
+"dataEncerramentoProposta": "2026-12-08T09:29:00",
+"dataPublicacaoPncp": "2026-11-19T10:13:14",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "15176/2026"
+},
+{
+"numeroControlePNCP": "76020452000105-1-000290/2026",
+"orgao": "MUNICIPIO DA LAPA",
+"cnpj": "76020452000105",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DA LAPA - PR",
+"municipio": "Lapa",
+"uf": "PR",
+"codigoIbge": "4113205",
+"objeto": "Contratação de empresa especializada para prestação de serviços na área de medicina do trabalho, saúde ocupacional e segurança do trabalho em conformidade com as Normas Regulamentadoras vigentes, especialmente NR-1 (GRO/PGR), NR-7 (PCMSO), NR-15, NR-16, NR-17 e demais normas aplicáveis à gestão de riscos ocupacionais para elaboração, implantação e atualização de programas, laudos e documentos de Segurança e Saúde no Trabalho (SST), visando atender às exigências legais e ao envio das informações ",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 76535.0,
+"dataEncerramentoProposta": "2026-12-08T09:30:00",
+"dataPublicacaoPncp": "2026-11-19T09:34:05",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98765705000632026",
+"processo": "063"
 },
 {
 "numeroControlePNCP": "00399857000126-1-000471/2026",
@@ -9033,6 +9215,36 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "272/2025"
+},
+{
+"numeroControlePNCP": "49910813000108-1-000018/2025",
+"orgao": "POA CAMARA MUNICIPAL",
+"cnpj": "49910813000108",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "CAMARA MUNICIPAL DE POA - SP",
+"municipio": "Poá",
+"uf": "SP",
+"codigoIbge": "3539806",
+"objeto": "Contratação de empresa especializada para a prestação de serviços de administração, gerenciamento, emissão, disponibilização e operacionalização de créditos eletrônicos destinados à concessão de vale-alimentação mensal e cesta de Natal anual aos servidores elegíveis da Câmara Municipal de Poá, mediante cartões eletrônicos com chip ou tecnologia equivalente, seguros e individuais, com sistema informatizado de gestão, consulta de saldo e movimentações, emissão de relatórios gerenciais, atendimento aos beneficiários e suporte operacional, observadas as condições, os valores dos benefícios, os quantitativos estimados e os requisitos técnicos e legais definidos no Termo de Referência.",
+"modalidade": "Credenciamento",
+"srp": false,
+"valorEstimado": 673526.4,
+"dataEncerramentoProposta": "2026-12-21T09:00:00",
+"dataPublicacaoPncp": "2026-11-19T10:09:09",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "072/2026"
 },
 {
 "numeroControlePNCP": "00133185000102-1-000030/2026",
@@ -43273,7 +43485,7 @@
 "objeto": "O objeto da contratação é a prestação de ações e serviços relacionados à avaliação psicossocial, consultoria em desenvolvimento de equipes e um plano de saúde com acompanhamento ocupacional para os servidores do CAU-RR.\n\nO Programa de Qualidade de Vida no Trabalho (PQVT) terá como escopo a: 1. Avaliação Psicossocial e Acompanhamento - Para identificar e monitorar a saúde mental e emocional dos servidores; 2. Consultoria em Desenvolvimento de Equipes, para melhorar a dinâmica de trabalho e a integração entre os colaboradores; E 3. Plano de Saúde e Acompanhamentos Ocupacionais, para garantir o bem-estar físico e fornecer suporte contínuo aos servidores.",
 "modalidade": "Dispensa",
 "srp": false,
-"valorEstimado": 5400.0,
+"valorEstimado": 3800.0,
 "dataEncerramentoProposta": null,
 "dataPublicacaoPncp": "2026-11-17T14:53:03",
 "fonteRecurso": [
@@ -44639,6 +44851,156 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "2026/000008601-00"
+},
+{
+"numeroControlePNCP": "46200846000176-1-011458/2026",
+"orgao": "MUNICIPIO DE LENCOIS PAULISTA",
+"cnpj": "46200846000176",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Lençóis Paulista",
+"municipio": "Lençóis Paulista",
+"uf": "SP",
+"codigoIbge": "3526803",
+"objeto": "AQUISICAO DE LICENCA DE USO DE SOFTWARE ",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 1954.55,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-19T09:52:31",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "S12221"
+},
+{
+"numeroControlePNCP": "11431018000164-1-000006/2026",
+"orgao": "FUNDO MUNICIPAL DE SAUDE",
+"cnpj": "11431018000164",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "FUNDO MUNICIPAL DE SAUDE DE CARAUBAS/PB",
+"municipio": "Caraúbas",
+"uf": "PB",
+"codigoIbge": "2504074",
+"objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA IMPLANTAÇÃO, INSTALAÇÃO, PREPARAÇÃO TECNOLÓGICA E LICENCIAMENTO DE USO DE SISTEMAS INFORMATIZADOS NAS PLATAFORMAS WEB E MOBILE PARA GESTÃO DA ATENÇÃO BÁSICA E VIGILÂNCIA EM SAÚDE E PEC EM NUVEM PARA ATÉ 14 AGENTES INCLUINDO O SISTEMA DE CONVERSÃO DE DADOS DA PLATAFORMA HÓRUS",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 43200.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-19T09:56:15",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "260126DV10004"
+},
+{
+"numeroControlePNCP": "07776936000158-1-000036/2026",
+"orgao": "CAMARA MUNICIPAL DE VEREADORES DE RIO DO CAMPO-SC",
+"cnpj": "07776936000158",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "Câmara Municipal de Vereadores",
+"municipio": "Rio do Campo",
+"uf": "SC",
+"codigoIbge": "4214508",
+"objeto": "CONTRATAÇÃO DE EMPRESA NA PRESTAÇÃO DE SERVIÇOS TÉCNICOS DE FORMA REMOTA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE SUPORTE TÉCNICO, ASSESSORAMENTO E TREINAMENTO NOS SISTEMAS DE INFORMÁTICA DA CÂMARA DE VEREADORES DE RIO DO CAMPO, PARA REALIZAÇÃO DOS SERVIÇOS DE ENCERRAMENTO DE 2026 E ABERTURA DE 2027 NAS ROTINAS DO MÓDULO CONTÁBIL NO SISTEMA INFORMATIZADO QUE O LEGISLATIVO MUNICIPAL JÁ UTILIZA",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 600.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-19T10:06:34",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "35/2026"
+},
+{
+"numeroControlePNCP": "19038603000100-1-000145/2026",
+"orgao": "CAMARA MUNICIPAL DE EXTREMA",
+"cnpj": "19038603000100",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "CAMARA MUNICIPAL DE EXTREMA",
+"municipio": "Extrema",
+"uf": "MG",
+"codigoIbge": "3125101",
+"objeto": "Contratação de 02 (duas) inscrições específicas para participação do curso POLÍTICAS PÚBLICAS DE ASSISTÊNCIA SOCIAL, OUVIDORIA PÚBLICA, COMBATE A DESIGUALDADE E EFICIÊNCIA DOS GASTOS PÚBLICOS NA LICITAÇÃO, promovido pela escola WR GESTÃO, que ocorrerá dos dias 17 a 20 de novembro, na cidade de Belo Horizonte/MG. Participantes: Luiz Fernando Ferreira e Keyse Lucas Gonçalves.",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 2980.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-19T09:11:08",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "000158/2026"
+},
+{
+"numeroControlePNCP": "13607213000128-1-000052/2026",
+"orgao": "MUNICIPIO DE AMELIA RODRIGUES",
+"cnpj": "13607213000128",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE AMÉLIA RODRIGUES - BA",
+"municipio": "Amélia Rodrigues",
+"uf": "BA",
+"codigoIbge": "2901106",
+"objeto": "CONTRATAÇÃO DE LICENCIAMENTO DE USO DE SISTEMA INFORMATIZADO DE BANCO DE DADOS DE PREÇOS PÚBLICOS, ENGLOBANDO SUPORTE TÉCNICO, TREINAMENTO ILIMITADO E ATUALIZAÇÕES CONTÍNUAS, EM ATENDIMENTO ÀS EXIGÊNCIAS DA LEI FEDERAL Nº 14.133/2021 E INSTRUÇÕES NO ....",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 12787.69,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-19T10:15:30",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://bllcompras.com/DirectBuy/DirectBuyView?param1=[gkz]gO2G85M9FVxDvfRCkYbZclWR83eqZGc6cZitd4m1tbgtq2UFkWuN96d/mVCJHqSxySV3ytenlU5tuvMd97IyUuFLe35/zk9C7ldM_IeCblY=",
+"processo": "6985/2026"
 }
 ]
 }
