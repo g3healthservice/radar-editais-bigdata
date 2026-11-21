@@ -1,8 +1,8 @@
 {
-"build": 1795196227,
-"geradoEm": "2026-11-20",
+"build": 1795221193,
+"geradoEm": "2026-11-21",
 "modo": "incremental",
-"totalCaptado": 1562,
+"totalCaptado": 1564,
 "itens": [
 {
 "numeroControlePNCP": "03629284000178-1-000046/2026",
@@ -3405,6 +3405,66 @@
 "prioritario": true,
 "linkEdital": " ",
 "processo": "26"
+},
+{
+"numeroControlePNCP": "13810833000160-1-000136/2026",
+"orgao": "MUNICIPIO DE RUY BARBOSA",
+"cnpj": "13810833000160",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Ruy Barbosa",
+"municipio": "Ruy Barbosa",
+"uf": "BA",
+"codigoIbge": "2927200",
+"objeto": "CONTRATAÇÃO DE SOLUÇÃO TECNOLÓGICA EM NUVEM (SAAS) PARA ACOMPANHAMENTO E ANÁLISE DOS INDICADORES DA ATENÇÃO PRIMÁRIA À SAÚDE (E-SUS APS), INCLUINDO LICENCIAMENTO, IMPLANTAÇÃO, INTEGRAÇÃO AUTORIZADA, CAPACITAÇÃO E SUPORTE TÉCNICO, PARA ATENDER À SECRETARIA MUNICIPAL DE SAÚDE DE RUY BARBOSA/BA.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 65472.65,
+"dataEncerramentoProposta": "2026-11-25T17:00:00",
+"dataPublicacaoPncp": "2026-11-20T15:16:12",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "sai.io.org.br/site/PublicadoPncp/173958?localConsulta=2&title=2&cod=1849",
+"processo": "289/2026"
+},
+{
+"numeroControlePNCP": "13810833000160-1-000137/2026",
+"orgao": "MUNICIPIO DE RUY BARBOSA",
+"cnpj": "13810833000160",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Ruy Barbosa",
+"municipio": "Ruy Barbosa",
+"uf": "BA",
+"codigoIbge": "2927200",
+"objeto": "CONTRATAÇÃO DE SOLUÇÃO TECNOLÓGICA EM NUVEM (SAAS) PARA ACOMPANHAMENTO E ANÁLISE DOS INDICADORES DA ATENÇÃO PRIMÁRIA À SAÚDE (E-SUS APS), INCLUINDO LICENCIAMENTO, IMPLANTAÇÃO, INTEGRAÇÃO AUTORIZADA, CAPACITAÇÃO E SUPORTE TÉCNICO, PARA ATENDER À SECRETARIA MUNICIPAL DE SAÚDE DE RUY BARBOSA/BA.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 65472.65,
+"dataEncerramentoProposta": "2026-11-25T17:00:00",
+"dataPublicacaoPncp": "2026-11-20T15:16:48",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "sai.io.org.br/site/PublicadoPncp/173960?localConsulta=2&title=2&cod=1849",
+"processo": "289/2026"
 },
 {
 "numeroControlePNCP": "05484426000181-1-000019/2026",
