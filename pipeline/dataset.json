@@ -1,39 +1,9 @@
 {
-"build": 1795545670,
-"geradoEm": "2026-11-24",
+"build": 1795573530,
+"geradoEm": "2026-11-25",
 "modo": "incremental",
-"totalCaptado": 1597,
+"totalCaptado": 1605,
 "itens": [
-{
-"numeroControlePNCP": "01616319000109-1-000206/2026",
-"orgao": "MUNICIPIO DE VALPARAISO DE GOIAS",
-"cnpj": "01616319000109",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO",
-"municipio": "Valparaíso de Goiás",
-"uf": "GO",
-"codigoIbge": "5221858",
-"objeto": "DISPENSA DE LICITAÇÃO N° 052/2026\nCONTRATAÇÃO EMERGENCIAL DE EMPRESA ESPECIALIZADA NA LOCAÇÃO DE PLATAFORMA WEB DE VIRTUALIZAÇÃO DE PROCESSOS ADMINISTRATIVOS EM MULTIPLATAFORMA (IOS, ANDROID, LINUX, WINDOWS), COM SUPORTE TÉCNICO E MANUTENÇÃO, PARA ATENDIMENTO À POPULAÇÃO E AOS SERVIDORES PÚBLICOS MUNICIPAIS, ABRANGENDO OS MÓDULOS E FUNCIONALIDADES ATUALMENTE EM OPERAÇÃO NO MUNICÍPIO, NAS CONDIÇÕES ESTABELECIDAS NESTE TERMO DE REFERÊNCIA.",
-"modalidade": "Dispensa",
-"srp": false,
-"valorEstimado": 353404.14,
-"dataEncerramentoProposta": "2026-11-24T23:59:00",
-"dataPublicacaoPncp": "2026-11-18T13:46:13",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "",
-"processo": "2026019008"
-},
 {
 "numeroControlePNCP": "83021873000108-1-000807/2026",
 "orgao": "MUNICIPIO DE SAO LOURENCO D'OESTE",
@@ -3737,6 +3707,36 @@
 "processo": "160"
 },
 {
+"numeroControlePNCP": "07954480000179-1-027627/2026",
+"orgao": "ESTADO DO CEARA",
+"cnpj": "07954480000179",
+"esfera": "Estadual",
+"poder": "Não informado",
+"unidade": "CONTROLADORIA E OUVIDORIA GERAL DO ESTADO",
+"municipio": "Fortaleza",
+"uf": "CE",
+"codigoIbge": "2304400",
+"objeto": "Aquisição de 20 (vinte) Fones de Ouvido, para esta Controladoria e Ouvidoria Geral do Estado (CGE), de acordo com as especificações e quantitativos previstos neste Termo.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 5426.4,
+"dataEncerramentoProposta": "2026-11-27T12:00:00",
+"dataPublicacaoPncp": "2026-11-24T11:21:11",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "41001003863202653"
+},
+{
 "numeroControlePNCP": "02321917000113-1-000109/2026",
 "orgao": "MUNICIPIO DE FIRMINOPOLIS",
 "cnpj": "02321917000113",
@@ -3825,6 +3825,36 @@
 "prioritario": true,
 "linkEdital": "https://www.portaldecompraspublicas.com.br/processos/PA/Prefeitura-Municipal-de-Medicilandia-2254/PE-033-2026-2026-2026-523600",
 "processo": "090.0411/2026"
+},
+{
+"numeroControlePNCP": "95595120000195-1-000093/2026",
+"orgao": "MUNICIPIO DE DIAMANTE DO SUL",
+"cnpj": "95595120000195",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE DIAMANTE DO SUL - PR",
+"municipio": "Diamante do Sul",
+"uf": "PR",
+"codigoIbge": "4107124",
+"objeto": "Contratação de empresa especializada para prestação de serviços de Segurança e Medicina do Trabalho, compreendendo programas e laudos técnicos, consultoria de 20 horas mensais, gestão e envio dos eventos de SST ao eSocial, elaboração de Ordens de Serviço, emissão de PPPs, avaliações psicossociais e exames clínicos ocupacionais, em lote único, pelo período de 12 meses, para atender às necessidades do Município de Diamante do Sul/PR.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 40034.42,
+"dataEncerramentoProposta": "2026-11-27T17:00:01",
+"dataPublicacaoPncp": "2026-11-24T10:38:47",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "DL30/2026"
 },
 {
 "numeroControlePNCP": "19659196000159-1-000010/2026",
@@ -4787,6 +4817,36 @@
 "prioritario": false,
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=09002206000822026",
 "processo": "0003190-04.2024.4.01.8006"
+},
+{
+"numeroControlePNCP": "01409580000138-1-001817/2026",
+"orgao": "ESTADO DE GOIAS",
+"cnpj": "01409580000138",
+"esfera": "Estadual",
+"poder": "Não informado",
+"unidade": "SECRETARIA DE ESTADO DA SAUDE/GO",
+"municipio": "Goiânia",
+"uf": "GO",
+"codigoIbge": "5208707",
+"objeto": "Contratação de seguro contra incêndio, raio, explosão e perda de aluguel, para imóvel alugado pela Secretaria de Estado da Saúde de Goiás, para alocação do Conselho Estadual de Saúde de Goiás, Ouvidoria, Corregedoria e SESMT (Processo SEI nº 201300010013729), Contrato 049/2014 (SEI nº 03065), em sua totalidade, situado à Avenida República do Líbano , 1875 Quadra D-3 Lotes 22/28 Setor Oeste, Goiânia -GO.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 832.16,
+"dataEncerramentoProposta": "2026-12-01T08:00:00",
+"dataPublicacaoPncp": "2026-11-24T10:52:12",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Consultoria / apoio administrativo"
+],
+"cnaes": [
+"70.20-4/00 · 82.11-3/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "202600005035706"
 },
 {
 "numeroControlePNCP": "27165570000198-1-000143/2026",
@@ -8525,6 +8585,36 @@
 "processo": "876/2026"
 },
 {
+"numeroControlePNCP": "31776479000186-1-000071/2026",
+"orgao": "MUNICIPIO DE JOAO NEIVA",
+"cnpj": "31776479000186",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de João Neiva",
+"municipio": "João Neiva",
+"uf": "ES",
+"codigoIbge": "3203130",
+"objeto": "[Portal de Compras Públicas] - Registro de precos para futura e eventual contratacao de empresa especializada para locacao de relogios de ponto eletronico com tecnologia de reconhecimento facial, contemplando os servicos de instalacao, configuracao, treinamento operacional, manutencao preventiva e corretiva dos equipamentos, suporte tecnico, bem como a disponibilizacao de software web para gerenciamento e controle do sistema de ponto eletronico, conforme condicoes, quantidades e exigencias estabelecidas no item 4.3 deste Termo de Referencia.",
+"modalidade": "Pregão - Eletrônico",
+"srp": true,
+"valorEstimado": 86853.0,
+"dataEncerramentoProposta": "2026-12-09T08:00:00",
+"dataPublicacaoPncp": "2026-11-24T10:21:45",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Gestão de RH / escalas e ponto"
+],
+"cnaes": [
+"78.30-2/00"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/ES/Prefeitura-Municipal-de-Joao-Neiva-1740/RPE-000027-2026-2026-527349",
+"processo": "007847/2026"
+},
+{
 "numeroControlePNCP": "82916818000113-1-000224/2026",
 "orgao": "MUNICIPIO DE CRICIUMA",
 "cnpj": "82916818000113",
@@ -8733,6 +8823,36 @@
 "prioritario": false,
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92649505002752026",
 "processo": "2026/00076059"
+},
+{
+"numeroControlePNCP": "20928303000186-1-000074/2026",
+"orgao": "AGENCIA REGULADORA INTERMUNICIPAL DE SANEAMENTO BASICO DE MINAS GERAIS",
+"cnpj": "20928303000186",
+"esfera": "Não informado",
+"poder": "Executivo",
+"unidade": "AGÊNCIA REG.INTERM.SAN.BASÍCO DE M.GERAIS",
+"municipio": "Belo Horizonte",
+"uf": "MG",
+"codigoIbge": "3106200",
+"objeto": "Contratação de licenças anuais dos softwares Canva Pro e CapCut Pro, em modelo de assinatura (SaaS – Software as a Service), para uso institucional da Assessoria de Comunicação Social da ARISB-MG, destinados à criação, edição e produção de conteúdos gráficos e audiovisuais para campanhas institucionais, redes sociais, materiais informativos e de prestação de contas, bem como peças de comunicação interna e externa.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 1023.87,
+"dataEncerramentoProposta": "2026-12-09T13:30:00",
+"dataPublicacaoPncp": "2026-11-24T10:00:51",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92929505000052026",
+"processo": "128"
 },
 {
 "numeroControlePNCP": "26989715000102-1-001941/2026",
@@ -48013,6 +48133,128 @@
 "prioritario": false,
 "linkEdital": "https://portal.tce.rs.gov.br/aplicprod/f?p=50500:10:::NO:10:P10_ID_LICITACAO,P10_PAG_RETORNO,F50500_CD_ORGAO:1619529,14,56500&cs=1pk65a6pb03tfz3U_1cLOgmZD7j8",
 "processo": "379"
+},
+{
+"numeroControlePNCP": "46612032000149-1-000334/2026",
+"orgao": "MUNICIPIO DE MIRASSOL",
+"cnpj": "46612032000149",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL",
+"municipio": "Mirassol",
+"uf": "SP",
+"codigoIbge": "3530300",
+"objeto": "A CONTRATADA se compromete a fornecer licenca de uso de software para tratamento de registro de ponto eletronico  contemplando suporte tecnico  manutencao  armazenamento de dados e assistencia a transicao para novo sistema  em conformidade com as Portarias n  1.510 2009 e n  671 2021 do MTP  para atendimento continuo da Divisao de Recursos Humanos  DRH  da Prefeitura Municipal de Mirassol.  conforme especificacoes  condicoes e quantitativos constantes no Termo de Referencia.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 8305.3,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-24T10:23:06",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS",
+"Gestão de RH / escalas e ponto"
+],
+"cnaes": [
+"62.02/62.03/63.11",
+"78.30-2/00"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": " ",
+"processo": "23"
+},
+{
+"numeroControlePNCP": "67995027000132-1-000514/2026",
+"orgao": "MUNICIPIO DE HORTOLANDIA",
+"cnpj": "67995027000132",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura Municipal de Hortolandia",
+"municipio": "Hortolândia",
+"uf": "SP",
+"codigoIbge": "3519071",
+"objeto": "Contratação de pessoa jurídica para fornecimento de 20 (vinte)\r\nlicenças de assinatura do plano Claude Teams Standard, da Anthropic, em modalidade de software como serviço (SaaS), pelo período de 12 (doze) meses, para utilização individual por servidores autorizados da Prefeitura Municipal de Hortolândia, incluindo disponibilização das assinaturas, ativação e suporte relacionado à contratação.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 35586.6,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-24T10:41:52",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "400/2026"
+},
+{
+"numeroControlePNCP": "87613014000169-1-000548/2026",
+"orgao": "MUNICIPIO DE BOSSOROCA",
+"cnpj": "87613014000169",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "MUNICIPIO DE BOSSOROCA/RS",
+"municipio": "Bossoroca",
+"uf": "RS",
+"codigoIbge": "4302501",
+"objeto": "empresa especializada em Saúde e Segurança do Trabalho, devidamente registrada nos órgãos competentes e com Responsável Técnico (RT) legalmente habilitado, para realização da Análise Ergonômica do Trabalho (AET) nas Estratégias de Saúde da Família (ESFs) pertencentes à Secretaria Municipal de Saúde de Bossoroca/RS.\n",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 7500.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-24T10:52:07",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "2071"
+},
+{
+"numeroControlePNCP": "18240119000105-1-000397/2026",
+"orgao": "MUNICIPIO DE VARGINHA",
+"cnpj": "18240119000105",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Prefeitura do Município de Varginha",
+"municipio": "Varginha",
+"uf": "MG",
+"codigoIbge": "3170701",
+"objeto": "Prestação de serviços especializados de gestão, disponibilização e operacionalização de solução de Cartão de Governo (Suprimento de Fundos), compreendendo o fornecimento de cartões plásticos/virtuais com chip, plataforma web/aplicativo para controle de limites, autorização de gastos, consulta de extratos e apoio à prestação de contas.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 6000.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-24T11:13:51",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "375/2026"
 }
 ]
 }
