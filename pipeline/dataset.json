@@ -1,39 +1,9 @@
 {
-"build": 1795734736,
-"geradoEm": "2026-11-26",
+"build": 1795757368,
+"geradoEm": "2026-11-27",
 "modo": "incremental",
-"totalCaptado": 1654,
+"totalCaptado": 1662,
 "itens": [
-{
-"numeroControlePNCP": "07891658000180-1-000050/2026",
-"orgao": "MUNICIPIO DE IRACEMA",
-"cnpj": "07891658000180",
-"esfera": "Municipal",
-"poder": "Não informado",
-"unidade": "Prefeitura Municipal de Iracema",
-"municipio": "Iracema",
-"uf": "CE",
-"codigoIbge": "2306009",
-"objeto": "CONTRATAÇÃO DE SERVIÇOS DE LICENCIAMENTO DE USO DE SISTEMAS INFORMATIZADOS (SOFTWARES) COM MÓDULOS DE PATRIMÔNIO, ALMOXARIFADO, VEÍCULOS E SOCIAL, PARA ATENDER ÀS DEMANDAS DAS DIVERSAS SECRETARIAS DA PREFEITURA MUNICIPAL DE IRACEMA/CE.\r\n\r\n",
-"modalidade": "Pregão - Eletrônico",
-"srp": false,
-"valorEstimado": 60640.08,
-"dataEncerramentoProposta": "2026-11-27T00:00:00",
-"dataPublicacaoPncp": "2026-11-11T09:02:27",
-"fonteRecurso": [
-"Não identificado no texto (conferir edital)"
-],
-"eixos": [
-"Licenciamento de software / SaaS"
-],
-"cnaes": [
-"62.02/62.03/63.11"
-],
-"categoria": "disputar",
-"prioritario": false,
-"linkEdital": "https://bllcompras.com/Process/ProcessView?param1=[gkz]vRTmX4DuyR8vQDMcSZoe2ybak2sNkxlDHoFmkyzIXUdDqfbSjvc2JE90iGNfgyNfKMDbZn_DoxFGpj8WNjEv808eRMh_XxvlNxZ8z_MHBik=",
-"processo": "PL-28102026.001"
-},
 {
 "numeroControlePNCP": "82939448000130-1-000238/2026",
 "orgao": "MUNICIPIO DE IBICARE",
@@ -8133,6 +8103,36 @@
 "processo": "359.00012625/2025-11"
 },
 {
+"numeroControlePNCP": "96291141000180-1-008330/2026",
+"orgao": "SAO PAULO SECRETARIA DA ADMINISTRACAO PENITENCIARIA",
+"cnpj": "96291141000180",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "ESP-PENITENCIARIA \"NELSON VIEIRA\" DE GUAREI",
+"municipio": "Guareí",
+"uf": "SP",
+"codigoIbge": "3518503",
+"objeto": "Serviço de gerenciamento de manutenção de frota, com implantação, intermediação e administração\npor meio de sistema informatizado integrado, de gerenciamento em rede de estabelecimentos credenciados para a manutenção preventiva e corretiva dos veículos próprios do Complexo Penal de Guareí, incluindo o fornecimento de peças, abrangendo toda a parte mecânica, elétrica, pneumáticos, funilaria, pintura, plotagem e outros serviços, incluindo serviço de guincho.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 330000.0,
+"dataEncerramentoProposta": "2026-12-10T08:59:00",
+"dataPublicacaoPncp": "2026-11-26T12:14:21",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=38023905001382026",
+"processo": "006.00523796/2026-52"
+},
+{
 "numeroControlePNCP": "18295303000144-1-000336/2026",
 "orgao": "MUNICIPIO DE MARIANA",
 "cnpj": "18295303000144",
@@ -8981,6 +8981,36 @@
 "processo": "53/2026"
 },
 {
+"numeroControlePNCP": "06083793000136-1-000007/2026",
+"orgao": "INSTITUTO DE PREVIDENCIA DOS SERVIDORES PUBLICOS DA CIDADE DE SAO JOAO DE MERITI",
+"cnpj": "06083793000136",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "Instituto de Previdência dos Servidores Públicos de São João de Meriti",
+"municipio": "São João de Meriti",
+"uf": "RJ",
+"codigoIbge": "3305109",
+"objeto": "[Portal de Compras Públicas] - O objeto da presente licitação é a contratação de empresa especializada na prestação de serviços de locação de equipamentos de impressão e digitalização, em regime de outsourcing, compreendendo o fornecimento de equipamentos multifuncionais, instalação, configuração, manutenção preventiva e corretiva, fornecimento e reposição de suprimentos (toner, cartuchos, peças e demais insumos, exceto papel), suporte técnico presencial e remoto, bem como disponibilização de sistema informatizado de gerenciamento e bilhetagem de impressões, para atendimento das necessidades do Instituto de Previdência dos Servidores Públicos do Município de São João de Meriti – MERITI PREVI, incluindo franquia mensal estimada de impressões e eventual cobrança de excedentes, conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos.",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 166190.4,
+"dataEncerramentoProposta": "2026-12-11T09:00:00",
+"dataPublicacaoPncp": "2026-11-26T11:32:17",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://www.portaldecompraspublicas.com.br/processos/RJ/Instituto-de-Previdencia-dos-Servidores-Publicos-de-Sao-Joao-de-Meriti-4418/PE-546-2026-2026-528097",
+"processo": "546/2026"
+},
+{
 "numeroControlePNCP": "43828151000145-1-000116/2026",
 "orgao": "FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE SAO PAULO",
 "cnpj": "43828151000145",
@@ -9009,6 +9039,36 @@
 "prioritario": false,
 "linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=48110105000212026",
 "processo": "255.00001328/2025-08"
+},
+{
+"numeroControlePNCP": "80257355000108-1-000566/2026",
+"orgao": "UNIVERSIDADE ESTADUAL DE PONTA GROSSA",
+"cnpj": "80257355000108",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "UNIVERSIDADE ESTADUAL DE PONTA GROSSA - PR",
+"municipio": "Ponta Grossa",
+"uf": "PR",
+"codigoIbge": "4119905",
+"objeto": "Software as a Service (SaaS).",
+"modalidade": "Pregão - Eletrônico",
+"srp": false,
+"valorEstimado": 16203.24,
+"dataEncerramentoProposta": "2026-12-11T09:30:00",
+"dataPublicacaoPncp": "2026-11-26T13:31:45",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45116405000802026",
+"processo": "26.838.858-3"
 },
 {
 "numeroControlePNCP": "32147670000121-1-000221/2026",
@@ -49731,6 +49791,186 @@
 "prioritario": false,
 "linkEdital": null,
 "processo": "84/2026 – FED"
+},
+{
+"numeroControlePNCP": "35004696000109-1-000020/2026",
+"orgao": "MUNICIPIO DE SAO G. DO AMARANTE - CAMARA MUNICIPAL",
+"cnpj": "35004696000109",
+"esfera": "Municipal",
+"poder": "Legislativo",
+"unidade": "MCE-CAMARA MUNICIPAL DE SÃO GONÇALO AMARANTE",
+"municipio": "São Gonçalo do Amarante",
+"uf": "CE",
+"codigoIbge": "2312403",
+"objeto": "Contratação de empresa especializada para locação de licença de uso de software de videomonitoramento inteligente, em ambiente web, com recursos de inteligência artificial para análise automatizada de imagens, detecção de movimentações em áreas restritas, identificação de permanência indevida e situações de risco, geração de alertas em tempo real, gravação, armazenamento, consulta e gerenciamento de imagens, com acesso remoto seguro por computadores e dispositivos móveis, incluindo implantação, configuração, integração com os equipamentos de videomonitoramento existentes, possibilidade de expansão de canais, atualizações, suporte técnico e manutenção do software.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 65199.96,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-26T11:47:31",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "http://precodereferencia.m2atecnologia.com.br/c/z3k9nBMqRO-1vbL1XJqXow.JuMH2wyBSVF8/",
+"processo": "2026.09.11.01DE"
+},
+{
+"numeroControlePNCP": "90832619000155-1-000657/2026",
+"orgao": "MUNICIPIO DE CAMPO BOM",
+"cnpj": "90832619000155",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "PREFEITURA MUNICIPAL DE CAMPO BOM",
+"municipio": "Campo Bom",
+"uf": "RS",
+"codigoIbge": "4303905",
+"objeto": "Aquisição de relógios eletrônicos de ponto biométrico, destinados ao atendimento das necessidades da Secretaria Municipal de Esporte e Lazer e da Secretaria Municipal de Desenvolvimento Social e Habitação do Município de Campo Bom/RS.",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 4770.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-26T12:57:44",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Gestão de RH / escalas e ponto"
+],
+"cnaes": [
+"78.30-2/00"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "623/2026"
+},
+{
+"numeroControlePNCP": "23798621000168-1-000005/2026",
+"orgao": "IPRESIO - INSTITUTO DE PREVIDENCIA DO MUNICIPIO DE SANTA IZABEL DO OESTE",
+"cnpj": "23798621000168",
+"esfera": "Municipal",
+"poder": "Executivo",
+"unidade": "Ipresio - Insituto de Previdência",
+"municipio": "Santa Izabel do Oeste",
+"uf": "PR",
+"codigoIbge": "4123808",
+"objeto": "Contratação de empresa especializada para prestação de serviços técnicos de avaliação atuarial, destinada à elaboração da Avaliação Atuarial 2027, com ano-base 2026, e à elaboração do Relatório de Análise das Hipóteses (RAH) do Instituto de Previdência do Município de Santa Izabel do Oeste/PR - IPRESIO, com recursos próprios, para um período de 12 (doze) meses",
+"modalidade": "Dispensa",
+"srp": false,
+"valorEstimado": 15500.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-26T13:30:10",
+"fonteRecurso": [
+"Recursos próprios"
+],
+"eixos": [
+"Auditoria / consultoria atuarial"
+],
+"cnaes": [
+"66.21-5/02"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "5/2026"
+},
+{
+"numeroControlePNCP": "00509968000148-1-004179/2026",
+"orgao": "TRIBUNAL SUPERIOR DO TRABALHO",
+"cnpj": "00509968000148",
+"esfera": "Federal",
+"poder": "Judiciário",
+"unidade": "TRIBUNAL REGIONAL DO TRABALHO DA 5A.REGIAO",
+"municipio": "Salvador",
+"uf": "BA",
+"codigoIbge": "2927408",
+"objeto": "Capacitar a médica perita Dra. Luciana dos Reis Mascarenhas no 23º Congresso Nacional de Medicina do Trabalho (ANAMT) e no minicurso \"Riscos Psicossociais\", visando à atualização em protocolos diagnósticos, à fixação de nexo técnico e à valoração da incapacidade laboral no âmbito da Junta Pericial do Tribunal Regional do Trabalho da 5ª Região. A programação do 23º Congresso Nacional da ANAMT está estruturada de forma a contemplar os desafios atuais da Coordenadoria de Saúde e das atividades",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 3299.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-26T12:11:57",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Psicologia / riscos psicossociais"
+],
+"cnaes": [
+"86.50-0/03"
+],
+"categoria": "disputar",
+"prioritario": true,
+"linkEdital": null,
+"processo": "12079/2026"
+},
+{
+"numeroControlePNCP": "06769798000117-1-000176/2026",
+"orgao": "MUNICIPIO DE BARRA DO CORDA",
+"cnpj": "06769798000117",
+"esfera": "Municipal",
+"poder": "Não informado",
+"unidade": "Fundo de Desenvolvimento da Educação Básica",
+"municipio": "Barra do Corda",
+"uf": "MA",
+"codigoIbge": "2101608",
+"objeto": "Contratação de Pessoa Jurídica para prestação de serviços continuados de licenciamento de uso de Plataforma de Gestão Escolar Integrada, composta por Acesso Web em Nuvem, Aplicativos Móveis e Software Nativo para computadores com sistema operacional Windows (atendendo SEMED, Gestores, Professores e Alunos com funcionamento On-line e Off-line), contemplando: Diário de Classe Eletrônico, Módulo Gestão Acadêmica e RH, Carteira Funcional Digital, Carteira Estudantil Digital, Portal de Serviços à Comunidade Escolar e Sistema de Avaliação com Banco de Questões, englobando implantação, migração de dados, treinamento, suporte técnico, manutenção evolutiva e hospedagem em nuvem conforme necessidade do Fundeb.",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 411600.0,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-26T12:45:47",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Licenciamento de software / SaaS"
+],
+"cnaes": [
+"62.02/62.03/63.11"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": "",
+"processo": "2.369/2026"
+},
+{
+"numeroControlePNCP": "25091307000176-1-000031/2026",
+"orgao": "INSTITUTO DE GESTAO PREVIDENCIARIA DO ESTADO DO TOCANTINS - IGEPREV TOCANTINS",
+"cnpj": "25091307000176",
+"esfera": "Estadual",
+"poder": "Executivo",
+"unidade": "Instituto de Gestão Previdenciária do Estado do Tocantins",
+"municipio": "Palmas",
+"uf": "TO",
+"codigoIbge": "1721000",
+"objeto": "Contratação de serviços técnicos especializados e contínuos de Consultoria e\nAssessoria em Gestão Atuarial, abrangendo análise, consistência e otimização de\ndados cadastrais, realização de Avaliações Atuariais anuais e estudos\ncomplementares, desenvolvimento de projeções financeiras e cenários de longo prazo,\na elaboração de relatório de análise das hipóteses atuariais, elaboração do Relatório de\nGestão Atuarial, pareceres técnicos e notas técnicas atuariais, bem como suporte\ntécnico permanente e capacitação aos gestores e técnicos do Regime Próprio de\nPrevidência Social do Estado do Tocantins- RPPS-TO. Visando o atendimento aos\nrequisitos para a certificação do Programa Pró-Gestão RPPS, especialmente o Nível III,\nem conformidade com o art. 40 da Constituição Federal de 1988, art. 69 da Lei\nComplementar nº 101/2000 (Lei de Responsabilidade Fiscal), art. 1º da Lei nº\n9.717/1998, Portaria MTP nº 1.467/2022 e demais legislações aplicáveis, observando\nas exigências técnicas da Secretaria de Regime Próprio e Complementar",
+"modalidade": "Inexigibilidade",
+"srp": false,
+"valorEstimado": 151604.28,
+"dataEncerramentoProposta": null,
+"dataPublicacaoPncp": "2026-11-26T14:01:07",
+"fonteRecurso": [
+"Não identificado no texto (conferir edital)"
+],
+"eixos": [
+"Auditoria / consultoria atuarial"
+],
+"cnaes": [
+"66.21-5/02"
+],
+"categoria": "disputar",
+"prioritario": false,
+"linkEdital": null,
+"processo": "2025/24830/004061"
 }
 ]
 }
